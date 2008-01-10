@@ -1,0 +1,286 @@
+* オーサリングツールの仕様 [#me827119]
+#contents
+** 全体 [#z9821b3e]
+- 既存ファイルを読み込む、または新規ファイルを作成し、ユーザの操作によって各種ファイルを生成し、XMLとして書き出す。
+- 実装はJava。
+** 検索 [#z0e732e0]
+*** Ver.栗栖先輩 [#i94a9866]
+- shunsakuの検索結果(実は手を入れてある気も)からJava Serveletを通じてミュージアムを自動生成する。
+- 生成される空間は正方形固定。
+*** ver.ace [#j1e61617]
+- 仕様未定。
+
+** 統合 [#a47ac40e]
+- 未定
+
+** LAD [#y22b0143]
+- BUD,COD（既存の場合はLAD）を読み込み、部屋の壁ごとにコンテンツを貼り付け、LADを生成する。
+
+*** インタフェース [#n6cb5488]
+
+&ref(http://alpha.c.oka-pu.ac.jp/~kuwahara/wiki/LAD.JPG);
+
+*** 作成方法 [#kdd96f63]
+
+- LADファイルの作成、読み込み
+-- 新規作成の場合~
+メニューバーからファイル−LADファイルの新規作成。~
+利用するBUDファイルとCODファイルを選択する。
+
+-- 既存のファイルを読み込む場合~
+メニューバーからファイル−LADファイルの読み込み。~
+既存のLADファイルを選択後、利用するBUDファイルとCODファイルを選択する。
+
+- 配置方法
+-- 壁の選択~
+読み込んだBUDから、Layout Look部内のコンボボックスに壁の一覧がCellIDと方向の組み合わせで生成される。その中から配置を行う壁の選択を行う。~
+Layout Look部の空白スペースを選択した壁と見立ててギミックの配置を行っていく。
+
+-- ギミックの配置~
+ギミックはWall Attribute下部のボタンで選択。~
+選択すると、Layout Look部の空白スペースに青い線の長方形が現れる。~
+（ギミックによってはボタン用とギミック用の２つの長方形が現れる）~
+この長方形をギミックと見立てて配置を行う。~
+長方形内をクリックすると線が黄色くなり、ドラッグすることで位置変更が可能。~
+また、黄色い線の状態でsを押すと線が緑になる。~
+この状態でドラッグすると大きさの変更が可能になる。~
+また、ギミック選択時にWall Attribute部に現れる設定画面でも大きさ等の設定が可能。~
+設定可能なパラメータは下記参照。~
+設定後、Wall Attribute部のRenewボタンを押すと位置、大きさ等が確定する。~
+また、ギミックの削除はWall Attribute部のRemoveボタンをクリックする。
+
+-- 各ギミックについて~
+
+---showcase~
+額縁形式。location(配置位置)、size(サイズ)、oid(配置オブジェクト)~
+rotate(回転方向)、distance(壁からの距離)の設定可。
+
+---box~
+箱形式。title(タイトル)、location(配置位置)、size(サイズ)、~
+oid(配置オブジェクト：４個指定)、distance(壁からの距離)、~
+rotate(回転方向)、mode(回転モード)が設定可。
+
+---cylinder~
+円柱形式。title(タイトル)、location(配置位置)、size(サイズ)、~
+distance(壁からの距離)、rotate(回転方向)、mode(回転モード)、~
+oid(配置オブジェクト)が設定可。
+
+---sphere~
+球形式。title(タイトル)、location(配置位置)、radius(球半径)、~
+distance(壁からの距離)、rotate(回転方向)、mode(回転モード)、~
+oid(配置オブジェクト)が設定可。
+
+---slideshow~
+スライドショー形式。title(タイトル)、location(配置位置)、size(サイズ)、~
+buttonLocation(ボタン位置)、buttonsize(ボタンサイズ)、~
+mode(スライドショーモード)、oid(配置オブジェクト)、rotation(回転角度)~
+distance(壁からの距離)、buttonRotation(ボタンの回転角度)、~
+buttonDistance(ボタンの壁からの距離)が設定可。~
+oidは配置オブジェクトを選択後、addをクリックするとリストに追加。~
+削除の場合はリスト内のオブジェクトを選択後、removeをクリック。
+
+---outlink~
+外部リンクボタン。type(リンク先内容)、buttonLocation(ボタン位置)、~
+buttonsize(ボタンサイズ)、href(リンク先URL)、~
+buttonRotation(ボタンの回転角度)、buttonDistance(ボタンの壁からの距離)が設定可。
+
+---appear~
+ボタンを押すとオブジェクトが現れる。title(タイトル)、
+buttonLocation(ボタン位置)、buttonsize(ボタンサイズ)、~
+showcase(配置オブジェクト)、buttonRotation(ボタンの回転角度)、~
+buttonDistance(ボタンの壁からの距離)が設定可。~
+showcase形式は上記の各設定が可能。またaddボタンをクリックすると~
+showcaseの追加が可能になる。
+
+---post~
+メール用オブジェクト。location(配置位置)、size(サイズ)、~
+mailto(宛先メール)、rotation(回転角度)、distance(壁からの距離)が設定可。
+
+---w3d~
+3Dオブジェクト。oid(配置オブジェクト)、location(配置位置)、~
+sizeRate(サイズ比率)、rotation(回転角度)、distance(壁からの距離)が設定可。
+
+- LADファイルの保存~
+メニューバーからファイル−保存−名前を付けて保存or上書き保存を選択。~
+名前を付けて保存の場合はファイル名を記述。
+
+** LAD+BUD [#ue981319]
+*** インタフェース [#b237bcd6]
+
+&ref(http://alpha.c.oka-pu.ac.jp/~kuwahara/wiki/LAD+BUD.JPG);
+
+*** 作成方法 [#y6c9e4b2]
+
+-基本的には上記LADと使い方は同じ。
+-BUDファイルを読み込むとFloor部に俯瞰図が描画される。
+-壁を選択するとその壁を含むセルが赤く描画される。
+
+** BUD [#z593d443]
+- ８×８マス上にセルを置いていき、BUDを生成。
+
+*** インタフェース [#a5c3982e]
+
+&ref(http://alpha.c.oka-pu.ac.jp/~kuwahara/wiki/BUD.JPG);
+
+*** 作成方法 [#ld251ca4]
+
+- セルの配置~
+CellSelect部にあるセルの種類を←(S)→(F)或いは左クリックで選択。~
+壁の向きは↑(E)↓(D)で選択。~
+（このとき選んでいるセルの種類がNow Cell Type部に出力される）~
+セルの種類を選びFloorPlan部のマスを左クリックするとセルが配置される。~
+セルの削除はマス上のセルを右クリック−Deleteで行う。
+
+- セルのパラメータ変更~
+マス上のセルを右クリック−Customize−attribute或いはマス上のセルを左クリック→Cellstatus部のAttribute内のEditを左クリックで、セルのパラメータを設定。~
+name(セルの名前)、ceiling(天井テクスチャ)、floor(床テクスチャ)、height(セルの高さ)をそれぞれ設定可能。
+
+- 壁のパラメータ変更~
+マス上のセルを右クリック−Customize−walls或いはマス上のセルを左クリック→Cellstatus部のwalls内のEditを左クリックで、各方向毎の壁のパラメータを設定。~
+~
+壁の存在する方向を選択し、壁のパラメータを設定する。~
+name(壁の名前)、alpha(壁の透明度)、surface(カーブ設定)、wallpaper(壁テクスチャ)、skirtingBoard(幅木テクスチャ)、window(窓)、light(照明ボタン)の設定が可能である。~
+壁パラメータでwindow、lightをexistとした場合、Window Edit やLight Editでそれぞれのパラメータの設定が行える。~
+Window Editではlocation(位置)、size(サイズ)を、Light EditではMode(照明種類)、buttonLocation(ボタン位置)、buttonSize(ボタンサイズ)を設定可能。~
+~
+また、壁が存在しない方向を選択し、Editを選択するとドアの個数を選択可能。~
+ドアが存在している状態でDoor Editを選択するとドアのパラメータ設定が行える。~
+size(サイズ)、color(ドアテクスチャ)、alpha(ドア透明度)が設定可能。
+
+- 空間のパラメータ変更~
+メニューバーからCustomizeで空間全体のパラメータを設定。
+
+--BUD
+--- Title・・・空間のタイトルを設定。
+--- BackDrop・・・空間の外の景色を設定。
+
+--structure
+---status・・・空間の基本パラメータを設定。~
+Editを左クリックすると空間の各パラメータの設定を行う画面に移る。~
+WallPaper(壁テクスチャ)、SkirtingBoard(幅木テクスチャ)、PolePaper(柱テクスチャ)、StartCell(初期位置セル名)、StartPoint(初期位置)、StartDirection(初期向き)、Ceiling(天井テクスチャ)、Floor(床テクスチャ)、Pole(柱位置)、CellSize(セル一辺サイズ)、CellHeight(セルの高さ)、LightColor(照明種類)が設定可能。
+---BGM・・・空間内のBGMを設定。
+
+--port
+---entrance・・・空間の入口を設定。
+---exit・・・空間の出口を設定。~
+それぞれnew(新規作成)、attribute(パラメータ変更)、delete(削除)を選択可能。~
+entrance要素はportID(ポート名)、type(オブジェクトタイプ：door固定)、cellID(入口のセル名)、point(入口の位置)、direction(入口の向き)が設定可能。~
+exit要素はtype(オブジェクトタイプ：door固定)、cellID(出口のセル名)、point(出口の位置)、direction(出口の向き)、connectURL(接続先のメタファイル名)、connectPort(接続先の初期位置)が設定可能。
+
+- CellSetの使い方
+
+-- CellSetを新規作成~
+メニューバーからCellSet−Newでセルセット名を記述し作成。
+
+-- CellSetへのセル移動~
+マス上のセルを右クリック→MoveCellを選択。~
+移動先のセルセット名を選択。
+
+-- CellSetをCellSetへ移動~
+メニューバーからCellSet−MoveCellSetを選択。
+移動したいセルセット名を選択→移動先のセルセット名を選択。
+
+-- CellSetのパラメータ設定~
+メニューバーからCellSet−Attribute→パラメータ設定を行うセルセット名選択。~
+name(セルセット名)、type(セルセットタイプ)、height(セルセットの高さ)、ceiling(天井テクスチャ)、floor(床テクスチャ)、wallpaper(壁テクスチャ)、skirtingBoard(幅木テクスチャ)が設定可能。
+
+-- CellSetの削除~
+メニューバーからCellSet−Deleteで削除したいセルセット名を削除。
+
+- BUDファイルの読み込み、保存
+
+--BUDファイルの読み込み~
+メニューバーからFile−Openで既存のBUDファイルを読み込む。
+
+--BUDファイルの保存~
+メニューバーからFile−Save−新規保存or上書き保存を選択。~
+新規保存の場合はファイル名を記述。
+
+- その他機能
+
+-- メニューバーからFloor Edit−All Clearでマス上に配置されているセルの全削除を行う。
+
+** COD [#z5c24d2d]
+- 使用するコンテンツを登録し、CODを生成。
+
+*** インタフェース [#kcee26d3]
+
+&ref(http://alpha.c.oka-pu.ac.jp/~kuwahara/wiki/COD.JPG);
+
+*** 作成方法 [#fbefaa50]
+- コンテンツの登録
+-- コンテンツ登録~
+メニューバーから編集−コンテンツの追加からCODに登録したいコンテンツ種類を選択。~
+コンテンツ種類はcontent、picture、sound、shockwave3D、string、colorが選択可。~
+選択を行うとContents Status部に登録コンテンツが追加される。
+
+--各パラメータ設定~
+Contents Status部の登録コンテンツをクリックする(文字が赤くなる)と各種設定が可能になる。
+
+- グループの作成
+---Contents Title部~
+コンテンツタイトルの設定。編集をクリックしコンテンツのタイトルを記述する。
+
+---Image Preview部~
+コンテンツのURLの設定。参照をクリックし、登録コンテンツが存在するURLを指定する。~
+コンテンツが画像の場合、Image Preview部に画像が表示される。
+
+---Edit Link部~
+リンク情報の設定。リンク情報の編集をクリックし、追加をクリック。~
+タイトルにはリンク用文字列、URLにはリンク先のURLを記述。~
+
+---Information部~
+コンテンツの詳細記述。記述後OKをクリック。
+
+---Edit ShockWave3D部(ShockWave3Dのみ)~
+3Dオブジェクトのモデルソース名を記述。
+
+---Edit String部(Stringのみ)~
+文字列、文字列の色(foreground)と背景色(background)を設定。~
+編集をクリックし各種設定。srcには扱う文字列の指定を行う。~
+foreground、backgroundはcolor、RGBで指定可能。
+
+---Edit Color部(colorのみ)~
+編集をクリックし、扱う色の指定を行う。
+
+---Contents Status部~
+コンテンツを選択し右クリックでoid(オブジェクト識別子)、グループへの追加、~
+選択コンテンツの削除の設定が可能。
+
+-- コンテンツ削除~
+Contents Status部の登録コンテンツをクリックした(文字が赤くなる)状態で、~
+メニューバーから編集−コンテンツの削除で選択したコンテンツが削除される。
+
+-- コンテンツ全削除~
+メニューバーから編集−全削除で、コンテンツ全削除が行われる。
+
+- グループの作り方
+
+-- グループの作成~
+メニューバーからグループ−グループの作成を選択。~
+グループ名を記述。
+
+-- グループの削除~
+メニューバーからグループ−グループの削除を選択。~
+削除するグループ名を選択。
+
+-- グループの移動~
+メニューバーからグループ−グループの移動を選択。~
+移動するグループ名を選択後、移動先のグループ名を選択。
+
+-- Group Status部~
+Group Status部のグループ名を右クリックでグループ名の変更と削除が可能。
+
+
+- CODファイルの読み込み、保存
+
+-- CODファイルの読み込み~
+メニューバーからファイル−開くで既存のCODファイルを読み込む。
+
+-- CODファイルの保存~
+メニューバーからファイル−保存−新規保存or上書き保存を選択。~
+新規保存の場合はファイル名を記述。
+
+** Webオーサリング [#x248d47b]
+- 未定
+#pcomment

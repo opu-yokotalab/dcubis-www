@@ -1,0 +1,818 @@
+<?xml version="1.0" encoding="Shift_JIS"?>
+<data>
+
+<mapinfo mid="MAP01">
+<mapimg>後楽園.gif</mapimg>
+<initid>b8</initid>
+<initmuki>b7</initmuki>
+</mapinfo>
+
+<pano id="a6">
+<map id="MAP01">
+<pos>700,1574</pos>
+</map>
+<photo season="spring" weather="default" date="2003/4">
+<panomuki>268</panomuki>
+<dir>..\後楽園</dir><file>a6-00.jpg</file>
+<pata toid="a7">
+<area>1186,57,1286,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="a7">
+<map id="MAP01">
+<pos>715,1562</pos>
+</map>
+<photo season="spring" weather="default" date="2003/4">
+<panomuki>321</panomuki>
+<dir>..\後楽園</dir><file>a7-00.jpg</file>
+<pata toid="a6">
+<area>500,57,600,157</area>
+</pata>
+<pata toid="b7">
+<area>1294,57,1394,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="b1">
+<map id="MAP01">
+<pos>870,1872</pos>
+</map>
+<photo season="spring" weather="default" date="2003/4">
+<panomuki>79</panomuki>
+<dir>..\後楽園</dir><file>b1-00.jpg</file>
+<pata toid="b4">
+<area>1688,57,1788,157</area>
+</pata>
+<pata toid="c1">
+<area>252,57,352,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="b4">
+<map id="MAP01">
+<pos>770,1679</pos>
+</map>
+<photo season="spring" weather="default" date="2003/4">
+<panomuki>67</panomuki>
+<dir>..\後楽園</dir><file>b4-00.jpg</file>
+<pata toid="b1">
+<area>656,57,756,157</area>
+</pata>
+<pata toid="b5">
+<area>1596,57,1696,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="b5">
+<map id="MAP01">
+<pos>764,1658</pos>
+</map>
+<photo season="spring" weather="default" date="2003/4">
+<panomuki>31</panomuki>
+<dir>..\後楽園</dir><file>b5-00.jpg</file>
+<pata toid="b4">
+<area>518,57,618,157</area>
+</pata>
+<pata toid="b6">
+<area>1616,57,1716,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="b6">
+<map id="MAP01">
+<pos>751,1558</pos>
+</map>
+<photo season="spring" weather="default" date="2003/4">
+<panomuki>113</panomuki>
+<dir>..\後楽園</dir><file>b6-00.jpg</file>
+<pata toid="b5">
+<area>1006,57,1106,157</area>
+</pata>
+<pata toid="b7">
+<area>1786,57,1886,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="b7">
+<map id="MAP01">
+<pos>716,1535</pos>
+</map>
+<photo season="spring" weather="default" date="2003/4">
+<panomuki>248</panomuki>
+<dir>..\後楽園</dir><file>b7-00.jpg</file>
+<pata toid="a7">
+<area>1782,57,1882,157</area>
+</pata>
+<pata toid="b6">
+<area>1462,57,1562,157</area>
+</pata>
+<pata toid="b8">
+<area>386,57,486,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="b8">
+<map id="MAP01">
+<pos>668,1507</pos>
+</map>
+<photo season="spring" weather="default" date="2003/4">
+<panomuki>20</panomuki>
+<dir>..\後楽園</dir><file>b8-00.jpg</file>
+<pata toid="b7">
+<area>220,57,320,157</area>
+</pata>
+<pata toid="ba">
+<area>1298,57,1398,157</area>
+</pata>
+<pata toid="d8">
+<area>1674,57,1774,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="ba">
+<map id="MAP01">
+<pos>603,1405</pos>
+</map>
+<photo season="spring" weather="default" date="2003/4">
+<panomuki>84</panomuki>
+<dir>..\後楽園</dir><file>ba-00.jpg</file>
+<pata toid="b8">
+<area>712,57,812,157</area>
+</pata>
+<pata toid="da">
+<area>1870,57,1970,157</area>
+</pata>
+<link id="L06">
+<area>500,10,670,120</area>
+<object>..\後楽園\桜-近景2.jpg</object>
+</link>
+</photo>
+</pano>
+<pano id="c1">
+<map id="MAP01">
+<pos>901,1861</pos>
+</map>
+<photo season="spring" weather="default" date="2003/4">
+<panomuki>335</panomuki>
+<dir>..\後楽園</dir><file>c1-00.jpg</file>
+<pata toid="b1">
+<area>680,57,780,157</area>
+</pata>
+<pata toid="x1">
+<area>1718,57,1818,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="x1">
+<map id="MAP01">
+<pos>1022,1826</pos>
+</map>
+<photo season="spring" weather="default" date="2003/4">
+<panomuki>92</panomuki>
+<dir>..\後楽園</dir><file>x1-00.jpg</file>
+<pata toid="c1">
+<area>1328,57,1428,157</area>
+</pata>
+<pata toid="d1">
+<area>578,57,678,157</area>
+</pata>
+<link id="L05">
+<area>780,40,920,130</area>
+<object>..\後楽園\桜-近景1.jpg</object>
+</link>
+</photo>
+</pano>
+<pano id="dx">
+<map id="MAP01">
+<pos>1108,1998</pos>
+</map>
+<photo season="spring" weather="default" date="2003/4">
+<panomuki>36</panomuki>
+<dir>..\後楽園</dir><file>dx-00.jpg</file>
+<pata toid="d1">
+<area>1602,57,1702,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="d1">
+<map id="MAP01">
+<pos>1114,1851</pos>
+</map>
+<photo season="spring" weather="default" date="2003/4">
+<panomuki>87</panomuki>
+<dir>..\後楽園</dir><file>d1-00.jpg</file>
+<pata toid="x1">
+<area>1472,57,1572,157</area>
+</pata>
+<pata toid="dx">
+<area>910,57,1010,157</area>
+</pata>
+<pata toid="d2">
+<area>1830,57,1930,157</area>
+</pata>
+<pata toid="e1">
+<area>662,57,762,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="d2">
+<map id="MAP01">
+<pos>1101,1728</pos>
+</map>
+<photo season="spring" weather="default" date="2003/4">
+<panomuki>233</panomuki>
+<dir>..\後楽園</dir><file>d2-00.jpg</file>
+<pata toid="d1">
+<area>1662,57,1762,157</area>
+</pata>
+<pata toid="d3">
+<area>702,57,802,157</area>
+</pata>
+<link id="L02">
+<area>12,34,118,122</area>
+<object>..\後楽園\岡山城1.jpg</object>
+</link>
+<link id="L03">
+<area>1530,56,1640,146</area>
+<object>..\後楽園\桜-遠景1.jpg</object>
+</link>
+</photo>
+</pano>
+<pano id="d3">
+<map id="MAP01">
+<pos>1110,1644</pos>
+</map>
+<photo season="spring" weather="default" date="2003/4">
+<panomuki>349</panomuki>
+<dir>..\後楽園</dir><file>d3-00.jpg</file>
+<pata toid="d2">
+<area>408,57,508,157</area>
+</pata>
+<pata toid="d4">
+<area>1242,57,1342,157</area>
+</pata>
+<pata toid="e3">
+<area>162,57,262,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="d4">
+<map id="MAP01">
+<pos>1104,1566</pos>
+</map>
+<photo season="spring" weather="default" date="2003/4">
+<panomuki>294</panomuki>
+<dir>..\後楽園</dir><file>d4-00.jpg</file>
+<pata toid="d3">
+<area>62,57,162,157</area>
+</pata>
+<pata toid="d5">
+<area>1074,57,1174,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="d5">
+<map id="MAP01">
+<pos>1062,1520</pos>
+</map>
+<photo season="spring" weather="default" date="2003/4">
+<panomuki>266</panomuki>
+<dir>..\後楽園</dir><file>d5-00.jpg</file>
+<pata toid="d4">
+<area>1640,57,1740,157</area>
+</pata>
+<pata toid="d6">
+<area>726,57,826,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="d6">
+<map id="MAP01">
+<pos>1010,1463</pos>
+</map>
+<photo season="spring" weather="default" date="2003/4">
+<panomuki>187</panomuki>
+<dir>..\後楽園</dir><file>d6-00.jpg</file>
+<pata toid="d5">
+<area>1216,57,1316,157</area>
+</pata>
+<pata toid="d7">
+<area>1888,57,1988,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="d7">
+<map id="MAP01">
+<pos>983,1458</pos>
+</map>
+<photo season="spring" weather="default" date="2003/4">
+<panomuki>309</panomuki>
+<dir>..\後楽園</dir><file>d7-00.jpg</file>
+<pata toid="d6">
+<area>1670,57,1770,157</area>
+</pata>
+<pata toid="d8">
+<area>872,57,972,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="d8">
+<map id="MAP01">
+<pos>814,1320</pos>
+</map>
+<photo season="spring" weather="default" date="2003/4">
+<panomuki>255</panomuki>
+<dir>..\後楽園</dir><file>d8-00.jpg</file>
+<pata toid="b8">
+<area>76,57,176,157</area>
+</pata>
+<pata toid="d7">
+<area>1576,57,1676,157</area>
+</pata>
+<pata toid="d9">
+<area>604,57,704,157</area>
+</pata>
+<link id="L04">
+<area>310,30,400,120</area>
+<object>..\後楽園\桜-遠景2.jpg</object>
+</link>
+<link id="L07">
+<area>1230,70,1480,170</area>
+<object>..\後楽園\沢の池1.jpg</object>
+</link>
+<link id="L08">
+<area>1710,30,1840,130</area>
+<object>..\後楽園\唯心山.jpg</object>
+</link>
+</photo>
+</pano>
+<pano id="d9">
+<map id="MAP01">
+<pos>706,1231</pos>
+</map>
+<photo season="spring" weather="default" date="2003/4">
+<panomuki>233</panomuki>
+<dir>..\後楽園</dir><file>d9-00.jpg</file>
+<pata toid="d8">
+<area>1424,57,1524,157</area>
+</pata>
+<pata toid="da">
+<area>412,57,512,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="da">
+<map id="MAP01">
+<pos>646,1206</pos>
+</map>
+<photo season="spring" weather="default" date="2003/4">
+<panomuki>38</panomuki>
+<dir>..\後楽園</dir><file>da-00.jpg</file>
+<pata toid="ba">
+<area>710,57,810,157</area>
+</pata>
+<pata toid="d9">
+<area>336,57,436,157</area>
+</pata>
+<pata toid="ea">
+<area>1400,57,1500,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="e1">
+<map id="MAP01">
+<pos>1203,1905</pos>
+</map>
+<photo season="spring" weather="default" date="2003/4">
+<panomuki>43</panomuki>
+<dir>..\後楽園</dir><file>e1-00.jpg</file>
+<pata toid="d1">
+<area>1324,57,1424,157</area>
+</pata>
+<pata toid="e3">
+<area>1586,57,1686,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="e3">
+<map id="MAP01">
+<pos>1189,1780</pos>
+</map>
+<photo season="spring" weather="default" date="2003/4">
+<panomuki>114</panomuki>
+<dir>..\後楽園</dir><file>e3-00.jpg</file>
+<pata toid="d3">
+<area>1856,57,1956,157</area>
+</pata>
+<pata toid="e1">
+<area>1090,57,1190,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="e9">
+<map id="MAP01">
+<pos>477,1052</pos>
+</map>
+<photo season="spring" weather="default" date="2003/4">
+<panomuki>61</panomuki>
+<dir>..\後楽園</dir><file>e9-00.jpg</file>
+<pata toid="ea">
+<area>324,57,424,157</area>
+</pata>
+<link id="L01">
+<area>210,30,290,150</area>
+<object>..\後楽園\栄唱橋.jpg</object>
+</link>
+</photo>
+</pano>
+<pano id="ea">
+<map id="MAP01">
+<pos>547,1062</pos>
+</map>
+<photo season="spring" weather="default" date="2003/4">
+<panomuki>243</panomuki>
+<dir>..\後楽園</dir><file>ea-00.jpg</file>
+<pata toid="da">
+<area>1568,57,1668,157</area>
+</pata>
+<pata toid="e9">
+<area>184,57,284,157</area>
+</pata>
+</photo>
+</pano>
+
+
+
+<path fromid="a6" toid="a7">
+<distance>9</distance>
+<photo num="1" season="spring" weather="default" date="2003/4">
+<dir>..\後楽園</dir>
+</photo>
+</path>
+<path fromid="a7" toid="a6">
+<distance>9</distance>
+<photo num="1" season="spring" weather="default" date="2003/4">
+<dir>..\後楽園</dir>
+</photo>
+</path>
+<path fromid="a7" toid="b7">
+<distance>13</distance>
+<photo num="2" season="spring" weather="default" date="2003/4">
+<dir>..\後楽園</dir>
+</photo>
+</path>
+<path fromid="b1" toid="b4">
+<distance>108</distance>
+<photo num="9" season="spring" weather="default" date="2003/4">
+<dir>..\後楽園</dir>
+</photo>
+</path>
+<path fromid="b1" toid="c1">
+<distance>16</distance>
+<photo num="2" season="spring" weather="default" date="2003/4">
+<dir>..\後楽園</dir>
+</photo>
+</path>
+<path fromid="b4" toid="b1">
+<distance>108</distance>
+<photo num="13" season="spring" weather="default" date="2003/4">
+<dir>..\後楽園</dir>
+</photo>
+</path>
+<path fromid="b4" toid="b5">
+<distance>10</distance>
+<photo num="1" season="spring" weather="default" date="2003/4">
+<dir>..\後楽園</dir>
+</photo>
+</path>
+<path fromid="b5" toid="b4">
+<distance>10</distance>
+<photo num="1" season="spring" weather="default" date="2003/4">
+<dir>..\後楽園</dir>
+</photo>
+</path>
+<path fromid="b5" toid="b6">
+<distance>50</distance>
+<photo num="3" season="spring" weather="default" date="2003/4">
+<dir>..\後楽園</dir>
+</photo>
+</path>
+<path fromid="b6" toid="b5">
+<distance>50</distance>
+<photo num="5" season="spring" weather="default" date="2003/4">
+<dir>..\後楽園</dir>
+</photo>
+</path>
+<path fromid="b6" toid="b7">
+<distance>20</distance>
+<photo num="3" season="spring" weather="default" date="2003/4">
+<dir>..\後楽園</dir>
+</photo>
+</path>
+<path fromid="b7" toid="a7">
+<distance>13</distance>
+<photo num="3" season="spring" weather="default" date="2003/4">
+<dir>..\後楽園</dir>
+</photo>
+</path>
+<path fromid="b7" toid="b6">
+<distance>20</distance>
+<photo num="3" season="spring" weather="default" date="2003/4">
+<dir>..\後楽園</dir>
+</photo>
+</path>
+<path fromid="b7" toid="b8">
+<distance>27</distance>
+<photo num="3" season="spring" weather="default" date="2003/4">
+<dir>..\後楽園</dir>
+</photo>
+</path>
+<path fromid="b8" toid="b7">
+<distance>27</distance>
+<photo num="4" season="spring" weather="default" date="2003/4">
+<dir>..\後楽園</dir>
+</photo>
+</path>
+<path fromid="b8" toid="ba">
+<distance>60</distance>
+<photo num="6" season="spring" weather="default" date="2003/4">
+<dir>..\後楽園</dir>
+</photo>
+</path>
+<path fromid="b8" toid="d8">
+<distance>118</distance>
+<photo num="13" season="spring" weather="default" date="2003/4">
+<dir>..\後楽園</dir>
+</photo>
+</path>
+<path fromid="ba" toid="b8">
+<distance>60</distance>
+<photo num="6" season="spring" weather="default" date="2003/4">
+<dir>..\後楽園</dir>
+</photo>
+</path>
+<path fromid="ba" toid="da">
+<distance>101</distance>
+<photo num="10" season="spring" weather="default" date="2003/4">
+<dir>..\後楽園</dir>
+</photo>
+</path>
+<path fromid="c1" toid="b1">
+<distance>16</distance>
+<photo num="2" season="spring" weather="default" date="2003/4">
+<dir>..\後楽園</dir>
+</photo>
+</path>
+<path fromid="c1" toid="x1">
+<distance>62</distance>
+<photo num="6" season="spring" weather="default" date="2003/4">
+<dir>..\後楽園</dir>
+</photo>
+</path>
+<path fromid="x1" toid="c1">
+<distance>62</distance>
+<photo num="6" season="spring" weather="default" date="2003/4">
+<dir>..\後楽園</dir>
+</photo>
+</path>
+<path fromid="x1" toid="d1">
+<distance>47</distance>
+<photo num="5" season="spring" weather="default" date="2003/4">
+<dir>..\後楽園</dir>
+</photo>
+</path>
+<path fromid="dx" toid="d1">
+<distance>73</distance>
+<photo num="10" season="spring" weather="default" date="2003/4">
+<dir>..\後楽園</dir>
+</photo>
+</path>
+<path fromid="d1" toid="x1">
+<distance>47</distance>
+<photo num="5" season="spring" weather="default" date="2003/4">
+<dir>..\後楽園</dir>
+</photo>
+</path>
+<path fromid="d1" toid="dx">
+<distance>73</distance>
+<photo num="9" season="spring" weather="default" date="2003/4">
+<dir>..\後楽園</dir>
+</photo>
+</path>
+<path fromid="d1" toid="d2">
+<distance>61</distance>
+<photo num="5" season="spring" weather="default" date="2003/4">
+<dir>..\後楽園</dir>
+</photo>
+</path>
+<path fromid="d1" toid="e1">
+<distance>52</distance>
+<photo num="5" season="spring" weather="default" date="2003/4">
+<dir>..\後楽園</dir>
+</photo>
+</path>
+<path fromid="d2" toid="d1">
+<distance>61</distance>
+<photo num="5" season="spring" weather="default" date="2003/4">
+<dir>..\後楽園</dir>
+</photo>
+</path>
+<path fromid="d2" toid="d3">
+<distance>42</distance>
+<photo num="3" season="spring" weather="default" date="2003/4">
+<dir>..\後楽園</dir>
+</photo>
+</path>
+<path fromid="d3" toid="d2">
+<distance>42</distance>
+<photo num="4" season="spring" weather="default" date="2003/4">
+<dir>..\後楽園</dir>
+</photo>
+</path>
+<path fromid="d3" toid="d4">
+<distance>39</distance>
+<photo num="3" season="spring" weather="default" date="2003/4">
+<dir>..\後楽園</dir>
+</photo>
+</path>
+<path fromid="d3" toid="e3">
+<distance>78</distance>
+<photo num="7" season="spring" weather="default" date="2003/4">
+<dir>..\後楽園</dir>
+</photo>
+</path>
+<path fromid="d4" toid="d3">
+<distance>39</distance>
+<photo num="4" season="spring" weather="default" date="2003/4">
+<dir>..\後楽園</dir>
+</photo>
+</path>
+<path fromid="d4" toid="d5">
+<distance>31</distance>
+<photo num="4" season="spring" weather="default" date="2003/4">
+<dir>..\後楽園</dir>
+</photo>
+</path>
+<path fromid="d5" toid="d4">
+<distance>31</distance>
+<photo num="3" season="spring" weather="default" date="2003/4">
+<dir>..\後楽園</dir>
+</photo>
+</path>
+<path fromid="d5" toid="d6">
+<distance>38</distance>
+<photo num="5" season="spring" weather="default" date="2003/4">
+<dir>..\後楽園</dir>
+</photo>
+</path>
+<path fromid="d6" toid="d5">
+<distance>38</distance>
+<photo num="3" season="spring" weather="default" date="2003/4">
+<dir>..\後楽園</dir>
+</photo>
+</path>
+<path fromid="d6" toid="d7">
+<distance>13</distance>
+<photo num="1" season="spring" weather="default" date="2003/4">
+<dir>..\後楽園</dir>
+</photo>
+</path>
+<path fromid="d7" toid="d6">
+<distance>13</distance>
+<photo num="1" season="spring" weather="default" date="2003/4">
+<dir>..\後楽園</dir>
+</photo>
+</path>
+<path fromid="d7" toid="d8">
+<distance>109</distance>
+<photo num="11" season="spring" weather="default" date="2003/4">
+<dir>..\後楽園</dir>
+</photo>
+</path>
+<path fromid="d8" toid="b8">
+<distance>118</distance>
+<photo num="14" season="spring" weather="default" date="2003/4">
+<dir>..\後楽園</dir>
+</photo>
+</path>
+<path fromid="d8" toid="d7">
+<distance>109</distance>
+<photo num="11" season="spring" weather="default" date="2003/4">
+<dir>..\後楽園</dir>
+</photo>
+</path>
+<path fromid="d8" toid="d9">
+<distance>69</distance>
+<photo num="8" season="spring" weather="default" date="2003/4">
+<dir>..\後楽園</dir>
+</photo>
+</path>
+<path fromid="d9" toid="d8">
+<distance>69</distance>
+<photo num="7" season="spring" weather="default" date="2003/4">
+<dir>..\後楽園</dir>
+</photo>
+</path>
+<path fromid="d9" toid="da">
+<distance>32</distance>
+<photo num="3" season="spring" weather="default" date="2003/4">
+<dir>..\後楽園</dir>
+</photo>
+</path>
+<path fromid="da" toid="ba">
+<distance>101</distance>
+<photo num="12" season="spring" weather="default" date="2003/4">
+<dir>..\後楽園</dir>
+</photo>
+</path>
+<path fromid="da" toid="d9">
+<distance>32</distance>
+<photo num="0" season="spring" weather="default" date="2003/4">
+<dir>..\後楽園</dir>
+</photo>
+</path>
+<path fromid="da" toid="ea">
+<distance>87</distance>
+<photo num="13" season="spring" weather="default" date="2003/4">
+<dir>..\後楽園</dir>
+</photo>
+</path>
+<path fromid="e1" toid="d1">
+<distance>52</distance>
+<photo num="5" season="spring" weather="default" date="2003/4">
+<dir>..\後楽園</dir>
+</photo>
+</path>
+<path fromid="e1" toid="e3">
+<distance>62</distance>
+<photo num="7" season="spring" weather="default" date="2003/4">
+<dir>..\後楽園</dir>
+</photo>
+</path>
+<path fromid="e3" toid="d3">
+<distance>78</distance>
+<photo num="7" season="spring" weather="default" date="2003/4">
+<dir>..\後楽園</dir>
+</photo>
+</path>
+<path fromid="e3" toid="e1">
+<distance>62</distance>
+<photo num="8" season="spring" weather="default" date="2003/4">
+<dir>..\後楽園</dir>
+</photo>
+</path>
+<path fromid="e9" toid="ea">
+<distance>35</distance>
+<photo num="5" season="spring" weather="default" date="2003/4">
+<dir>..\後楽園</dir>
+</photo>
+</path>
+<path fromid="ea" toid="da">
+<distance>87</distance>
+<photo num="8" season="spring" weather="default" date="2003/4">
+<dir>..\後楽園</dir>
+</photo>
+</path>
+<path fromid="ea" toid="e9">
+<distance>35</distance>
+<photo num="5" season="spring" weather="default" date="2003/4">
+<dir>..\後楽園</dir>
+</photo>
+</path>
+
+
+
+
+
+
+<scene id="0">
+<name>シナリオ１</name>
+<pos mode="start">b8</pos>
+<pos mode="skip">b7</pos>
+<pos mode="skip">b6</pos>
+<pos mode="skip">b5</pos>
+<pos mode="skip">b4</pos>
+<pos mode="skip">b1</pos>
+<pos mode="skip">c1</pos>
+<pos mode="skip">x1</pos>
+<pos mode="stop">d1</pos>
+<pos mode="skip">e1</pos>
+<pos mode="skip">e3</pos>
+<pos mode="skip">d3</pos>
+<pos mode="skip">d4</pos>
+<pos mode="skip">d5</pos>
+<pos mode="skip">d6</pos>
+<pos mode="skip">d7</pos>
+<pos mode="skip">d8</pos>
+<pos mode="skip">d9</pos>
+<pos mode="skip">da</pos>
+<pos mode="skip">ea</pos>
+<pos mode="stop">e9</pos>
+<pos mode="skip">ea</pos>
+<pos mode="skip">da</pos>
+<pos mode="skip">ba</pos>
+<pos mode="end">b8</pos>
+</scene>
+
+</data>

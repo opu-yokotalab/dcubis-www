@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="Shift_JIS" ?>
+<building ceiling="(255,255,204)" floor="(255,255,204)" wallpaper="(255,255,204)"
+			 polepaper="(255,255,204)" roomSize="500" roomHeight="300"
+			 lightColor="normal" startRoom="room35" startPoint="frontRight"
+			 startDirection="front">
+
+    <title>D-Cubist</title>
+
+    <room name="room35" >
+        <front to="room27"></front>
+        <right to="room36"></right>
+        <frontRight></frontRight>
+    </room>
+
+    <room name="room37" >
+        <front to="room29"></front>
+        <left to="room36"></left>
+        <frontLeft></frontLeft>
+    </room>
+
+    <room name="room36" >
+        <front to="room28"></front>
+        <back to="room44"></back>
+        <right to="room37"></right>
+        <left to="room35"></left>
+    </room>
+
+    <room name="room27" >
+        <front></front>
+        <back to="room35"></back>
+        <right to="room28"></right>
+        <left></left>
+    </room>
+
+    <room name="room28" >
+        <front></front>
+        <back to="room36"></back>
+        <right to="room29"></right>
+        <left to="room27"></left>
+    </room>
+
+    <room name="room29" >
+        <front></front>
+        <back to="room37"></back>
+        <right></right>
+        <left to="room28"></left>
+    </room>
+
+    <room name="room44" >
+        <front to="room36"></front>
+        <back></back>
+        <right></right>
+        <left></left>
+    </room>
+
+</building>

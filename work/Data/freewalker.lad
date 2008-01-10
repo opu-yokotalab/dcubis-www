@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="Shift_JIS" ?>
+<layout>
+	
+	
+	
+	
+	
+	
+	
+	<wall roomID="room21" direction="right">
+	<showcase location="(0,20)" size="(365,271)">
+	<img oid="s001"></img>
+</showcase>
+	<outlink type="link" buttonLocation="(0,-154)" buttonSize="(46,48)" href="http://alpha.c.oka-pu.ac.jp/D-Cubist/panomap/test_1.html"></outlink>
+</wall>
+	
+	<wall roomID="room20" direction="front">
+	<showcase location="(0,0)" size="(428,329)">
+	<img oid="s006"></img>
+</showcase>
+</wall>
+	
+	
+	
+	
+	
+	<wall roomID="room19" direction="back">
+	<showcase location="(0,0)" size="(429,334)">
+	<img oid="s009"></img>
+</showcase>
+</wall>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<wall roomID="room21" direction="front">
+	<showcase location="(0,0)" size="(422,329)">
+	<img oid="s010"></img>
+</showcase>
+</wall>
+	
+	<wall roomID="room20" direction="back">
+	<showcase location="(0,0)" size="(414,314)">
+	<img oid="s007"></img>
+</showcase>
+</wall>
+	<wall roomID="room19" direction="front">
+	<showcase location="(0,0)" size="(443,335)">
+	<img oid="s008"></img>
+</showcase>
+</wall>
+	<wall roomID="room42" direction="left">
+	<showcase location="(0,0)" size="(400,400)">
+	<img oid="s002"></img>
+</showcase>
+</wall>
+	<wall roomID="room42" direction="back">
+	<showcase location="(0,66)" size="(315,231)">
+	<img oid="s003"></img>
+</showcase>
+	<light mode="aqua" buttonLocation="(0,-126)" buttonSize="(120,120)"></light>
+</wall>
+	<wall roomID="room43" direction="front">
+	<showcase location="(0,77)" size="(320,216)">
+	<img oid="s004"></img>
+</showcase>
+	<light mode="dark" buttonLocation="(0,-107)" buttonSize="(120,120)"></light>
+</wall>
+	
+	<wall roomID="room43" direction="back">
+	<showcase location="(0,64)" size="(324,236)">
+	<img oid="s040"></img>
+</showcase>
+	<light mode="guardman" buttonLocation="(0,-130)" buttonSize="(120,120)"></light>
+</wall>
+	
+	<wall roomID="room44" direction="front">
+	<showcase location="(0,73)" size="(334,232)">
+	<img oid="s043"></img>
+</showcase>
+	<light mode="pink" buttonLocation="(0,-118)" buttonSize="(120,120)"></light>
+</wall>
+	
+	<wall roomID="room44" direction="back">
+	<showcase location="(-139,107)" size="(181,142)">
+	<img oid="s033"></img>
+</showcase>
+	<showcase location="(92,31)" size="(189,144)">
+	<img oid="s034"></img>
+</showcase>
+	<light mode="yellow" buttonLocation="(0,-123)" buttonSize="(120,120)"></light>
+</wall>
+	
+	
+	
+	
+	
+	
+	
+	
+	<wall roomID="room26" direction="left">
+	<appear buttonLocation="(-213,-160)" buttonSize="(35,34)">
+	<showcase location="(-8,26)" size="(403,300)">
+	<img oid="s042"></img>
+</showcase>
+</appear>
+</wall>
+	
+	
+	<wall roomID="room34" direction="right">
+	<appear buttonLocation="(-51,-157)" buttonSize="(47,45)">
+	<showcase location="(-135,102)" size="(181,135)">
+	<img oid="s019"></img>
+</showcase>
+	<showcase location="(107,-51)" size="(189,139)">
+	<img oid="s020"></img>
+</showcase>
+</appear>
+	<appear buttonLocation="(18,-157)" buttonSize="(44,45)">
+	<showcase location="(105,103)" size="(192,131)">
+	<img oid="s032"></img>
+</showcase>
+	<showcase location="(-133,-52)" size="(184,140)">
+	<img oid="s021"></img>
+</showcase>
+</appear>
+</wall>
+	<wall roomID="room34" direction="left">
+	<showcase location="(-127,90)" size="(195,139)">
+	<img oid="s016"></img>
+</showcase>
+	<showcase location="(114,94)" size="(195,140)">
+	<img oid="s030"></img>
+</showcase>
+	<showcase location="(-128,-94)" size="(196,146)">
+	<img oid="s017"></img>
+</showcase>
+	<showcase location="(113,-93)" size="(195,143)">
+	<img oid="s018"></img>
+</showcase>
+</wall>
+	
+	
+	<wall roomID="room27" direction="right">
+	<box location="(-8,-2)" size="(354,337)">
+	<img oid="s041"></img>
+	<img oid="s014"></img>
+	<img oid="s015"></img>
+	<img oid="s039"></img>
+</box>
+</wall>
+	
+	<wall roomID="room18" direction="front">
+	<slideshow location="(-33,10)" size="(363,293)" buttonLocation="(187,-142)" buttonSize="(45,45)">
+	<img oid="s044"></img>
+	<img oid="s036"></img>
+	<img oid="s025"></img>
+	<img oid="s027"></img>
+	<img oid="s022"></img>
+	<img oid="s028"></img>
+</slideshow>
+</wall>
+	<wall roomID="room29" direction="left">
+	<showcase location="(-122,92)" size="(225,167)">
+	<img oid="s046"></img>
+</showcase>
+	<showcase location="(99,-93)" size="(231,168)">
+	<img oid="s048"></img>
+</showcase>
+</wall>
+	
+	<wall roomID="room36" direction="left">
+	<box location="(-10,4)" size="(322,326)">
+	<img oid="s049"></img>
+	<img oid="s050"></img>
+	<img oid="s051"></img>
+	<img oid="s052"></img>
+</box>
+</wall>
+	<wall roomID="room23" direction="right">
+	<slideshow location="(-119,66)" size="(216,160)" buttonLocation="(-122,-78)" buttonSize="(57,59)">
+	<img oid="s053"></img>
+	<img oid="s055"></img>
+	<img oid="s054"></img>
+</slideshow>
+</wall>
+</layout>

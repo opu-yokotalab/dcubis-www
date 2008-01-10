@@ -1,0 +1,9 @@
+ [[D-cubis HP:http://alpha.c.oka-pu.ac.jp/D-Cubis]]
+ 
+ [[Adobe:http://www.adobe.com/jp]]
+ 
+-Flash Communicationserverについて(共有サーバ)[[http://www.loveloveheart.com/flash/flashcom/]](消えた？)
++Flash Communicationserverについて(共有サーバ)
++[[www.loveloveheart.com/flash/flashcom/:http://www.loveloveheart.com/flash/flashcom/]](消えた？)
+ 
+ [[DIRECTOR MX Lingoスーパーマニュアルのサンプル:http://www.ohmsha.co.jp/data/link/4-274-06547-2/index.htm]]

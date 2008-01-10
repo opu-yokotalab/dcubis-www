@@ -1,0 +1,12 @@
+*進捗 [#i6f2807a]
+#contents
+** 現状、今週・来週の予定 [#ga782227]
+#include(進捗/2007)
+** 今年の目標 [#f9d7dede]
+
+- 今月の目標
+- 来月の目標
+
+*** 過去の進捗資料 [#dc10e447]
+-スライドは''dblab-shareの自分のフォルダに入れて''おいてください。
+-[[podcast:http://alpha.c.oka-pu.ac.jp/~kunishi/dblab_podcast2/rss.xml]]

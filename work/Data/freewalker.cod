@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="Shift_JIS" ?>
+<contents>
+  <content oid="s001" type="picture" src="./Contents/bikan1.jpg">
+    <information>美観地区です。FreeWalkerへリンクします。</information>
+    <links>
+      <link href="http://alpha.c.oka-pu.ac.jp/D-Cubist/panomap/test_1.html">FreeWalker</link>
+    </links>
+  </content>
+  <content oid="s002" type="picture" src="./Contents/d-cubist1.jpg">
+    <information>D-Cubistのロゴです</information>
+    <links>
+    </links>
+  </content>
+  <content oid="s003" type="picture" src="./Contents/ishizaki1.JPG">
+    <information>金だ！！</information>
+    <links>
+    </links>
+  </content>
+  <content oid="s004" type="picture" src="./Contents/ishizaki2.JPG">
+    <information>金いいねぇ</information>
+    <links>
+    </links>
+  </content>
+  <content oid="s005" type="picture" src="./Contents/ishizaki3.JPG">
+    <information>２００万、ひろげてみました</information>
+    <links>
+    </links>
+  </content>
+  <content oid="s006" type="picture" src="./Contents/今橋.JPG">
+    <information>今橋だそうです</information>
+    <links>
+    </links>
+  </content>
+  <content oid="s007" type="picture" src="./Contents/国際ホテル.JPG">
+    <information>国際ホテルです</information>
+    <links>
+    </links>
+  </content>
+  <content oid="s008" type="picture" src="./Contents/大原美術館.JPG">
+    <information>大原美術館です</information>
+    <links>
+    </links>
+  </content>
+  <content oid="s009" type="picture" src="./Contents/市立美術館.JPG">
+    <information>市立美術館です</information>
+    <links>
+    </links>
+  </content>
+  <content oid="s010" type="picture" src="./Contents/新渓園.JPG">
+    <information></information>
+    <links>
+    </links>
+  </content>
+  <content oid="s013" type="picture" src="./Contents/party11_19/CIMG0619.JPG">
+    <information>左から納所(B3)、
+難波(B4)、
+大河内(M1)、
+荒木M(B4)</information>
+    <links>
+    </links>
+  </content>
+  <content oid="s014" type="picture" src="./Contents/party11_19/CIMG0620.JPG">
+    <information>前列左から、
+庄司(B4)
+那須(M1)
+杉井(B3)
+裏細田(32歳)</information>
+    <links>
+    </links>
+  </content>
+  <content oid="s015" type="picture" src="./Contents/party11_19/CIMG0621.JPG">
+    <information>左から、
+裏細田(紙)
+武田(B3)
+西田(M2)</information>
+    <links>
+    </links>
+  </content>
+  <content oid="s016" type="picture" src="./Contents/party11_19/CIMG0622.JPG">
+    <information>前列左から
+奥野(B3)
+松井(B4)
+後列左から
+松原(M1)
+江本(M1)</information>
+    <links>
+    </links>
+  </content>
+  <content oid="s017" type="picture" src="./Contents/party11_19/CIMG0623.JPG">
+    <information>前列左から
+横田教授
+岡部さん(両備システムズ)
+後列左から
+徳森さん
+三宅さん(D2)</information>
+    <links>
+    </links>
+  </content>
+  <content oid="s018" type="picture" src="./Contents/party11_19/CIMG0624.JPG">
+    <information>左から
+荒木Y(M1)
+浅見(M1)
+大淵(M1)
+菜茂屋のアイドル
+北野(M2)
+‥</information>
+    <links>
+    </links>
+  </content>
+  <content oid="s019" type="picture" src="./Contents/party11_19/CIMG0625.JPG">
+    <information>左から
+國島助教授
+荒木Y(M1)
+浅見(M1)</information>
+    <links>
+    </links>
+  </content>
+  <content oid="s020" type="picture" src="./Contents/party11_19/CIMG0626.JPG">
+    <information>左から
+辻(B3)
+小林(B3)</information>
+    <links>
+    </links>
+  </content>
+  <content oid="s021" type="picture" src="./Contents/party11_19/CIMG0627.JPG">
+    <information>左から
+田中(B4)シャワー付
+森(B3)</information>
+    <links>
+    </links>
+  </content>
+  <content oid="s022" type="picture" src="./Contents/party11_19/CIMG0628.JPG">
+    <information>pink３姉妹
+裏細田豪遊現場</information>
+    <links>
+    </links>
+  </content>
+  <content oid="s023" type="picture" src="./Contents/party11_19/CIMG0629.JPG">
+    <information></information>
+    <links>
+    </links>
+  </content>
+  <content oid="s024" type="picture" src="./Contents/party11_19/CIMG0630.JPG">
+    <information></information>
+    <links>
+    </links>
+  </content>
+  <content oid="s025" type="picture" src="./Contents/party11_19/CIMG0631.JPG">
+    <information>裏細田密会現場
+(その２)</information>
+    <links>
+    </links>
+  </content>
+  <content oid="s026" type="picture" src="./Contents/party11_19/CIMG0632.JPG">
+    <information></information>
+    <links>
+    </links>
+  </content>
+  <content oid="s027" type="picture" src="./Contents/party11_19/CIMG0633.JPG">
+    <information>裏細田密会現場
+(その３)</information>
+    <links>
+    </links>
+  </content>
+  <content oid="s028" type="picture" src="./Contents/party11_19/CIMG0634.JPG">
+    <information>裏細田豪遊現場
+(その２)
+とうとう
+やってしまいました</information>
+    <links>
+    </links>
+  </content>
+  <content oid="s029" type="picture" src="./Contents/party11_19/CIMG0635.JPG">
+    <information></information>
+    <links>
+    </links>
+  </content>
+  <content oid="s030" type="picture" src="./Contents/party11_19/CIMG0636.JPG">
+    <information>左から
+高野(B4)
+難波(B4)</information>
+    <links>
+    </links>
+  </content>
+  <content oid="s031" type="picture" src="./Contents/party11_19/CIMG0637.JPG">
+    <information></information>
+    <links>
+    </links>
+  </content>
+  <content oid="s032" type="picture" src="./Contents/party11_19/CIMG0638.JPG">
+    <information>裏細田
+現在、本厄</information>
+    <links>
+    </links>
+  </content>
+  <content oid="s033" type="picture" src="./Contents/contents/CIMG0064.JPG">
+    <information>神戸夜景
+(モザイクより)</information>
+    <links>
+    </links>
+  </content>
+  <content oid="s034" type="picture" src="./Contents/contents/CIMG0187.JPG">
+    <information>六本木ヒルズ
+正面のガラス
+張りの建物が
+テレビ朝日</information>
+    <links>
+    </links>
+  </content>
+  <content oid="s035" type="picture" src="./Contents/contents/CIMG0201.JPG">
+    <information></information>
+    <links>
+    </links>
+  </content>
+  <content oid="s036" type="picture" src="./Contents/contents/CIMG0202.JPG">
+    <information>裏細田密会現場
+(その１)
+高野さん
+ごめんなさい
+画像使用料は
+細田君が払うそうです</information>
+    <links>
+    </links>
+  </content>
+  <content oid="s037" type="picture" src="./Contents/contents/CIMG0204.JPG">
+    <information></information>
+    <links>
+    </links>
+  </content>
+  <content oid="s038" type="picture" src="./Contents/contents/CIMG0205.JPG">
+    <information></information>
+    <links>
+    </links>
+  </content>
+  <content oid="s039" type="picture" src="./Contents/contents/CIMG0226.JPG">
+    <information>荒木部長</information>
+    <links>
+    </links>
+  </content>
+  <content oid="s040" type="picture" src="./Contents/contents/CIMG0227.JPG">
+    <information></information>
+    <links>
+    </links>
+  </content>
+  <content oid="s041" type="picture" src="./Contents/contents/CIMG0228.JPG">
+    <information>スクープ映像</information>
+    <links>
+    </links>
+  </content>
+  <content oid="s042" type="picture" src="./Contents/contents/CIMG0569.JPG">
+    <information>肉ドラえもん
+(江本邸にて)</information>
+    <links>
+    </links>
+  </content>
+  <content oid="s043" type="picture" src="./Contents/contents/CIMG0618.JPG">
+    <information></information>
+    <links>
+    </links>
+  </content>
+  <content oid="s044" type="picture" src="./Contents/contents/CIMG0639.JPG">
+    <information>普通の細田君</information>
+    <links>
+    </links>
+  </content>
+  <content oid="s045" type="picture" src="./Contents/party11_19/h田氏.jpg">
+    <information>裏細田
+(横田研の支配者)</information>
+    <links>
+    </links>
+  </content>
+  <content oid="s046" type="picture" src="./Contents/03-11-27/IMG_1793.JPG">
+    <information>ドラえもんと、その子供</information>
+    <links>
+    </links>
+  </content>
+  <content oid="s047" type="picture" src="./Contents/03-11-27/IMG_1797.JPG">
+    <information>かわいくねぇ</information>
+    <links>
+    </links>
+  </content>
+  <content oid="s048" type="picture" src="./Contents/03-11-27/IMG_1798.JPG">
+    <information>4 peace session</information>
+    <links>
+    </links>
+  </content>
+  <content oid="s049" type="picture" src="./Contents/03-11-27/IMG_1802.JPG">
+    <information>師弟</information>
+    <links>
+    </links>
+  </content>
+  <content oid="s050" type="picture" src="./Contents/03-11-27/IMG_1803.JPG">
+    <information>とある一風景</information>
+    <links>
+    </links>
+  </content>
+  <content oid="s051" type="picture" src="./Contents/03-11-27/IMG_1804.JPG">
+    <information>バカ ３ Peace Session</information>
+    <links>
+    </links>
+  </content>
+  <content oid="s052" type="picture" src="./Contents/03-11-27/IMG_1805.JPG">
+    <information>ふけ顔３にん衆</information>
+    <links>
+    </links>
+  </content>
+  <content oid="s053" type="picture" src="./Contents/03-11-27/IMG_1810.JPG">
+    <information>少女A</information>
+    <links>
+    </links>
+  </content>
+  <content oid="s054" type="picture" src="./Contents/03-11-27/IMG_1809.JPG">
+    <information>少女A</information>
+    <links>
+    </links>
+  </content>
+  <content oid="s055" type="picture" src="./Contents/03-11-27/IMG_1808.JPG">
+    <information>少女A</information>
+    <links>
+    </links>
+  </content>
+</contents>

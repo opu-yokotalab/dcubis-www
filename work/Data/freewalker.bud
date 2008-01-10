@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="Shift_JIS" ?>
+<building ceiling="(240,230,230)" floor="(240,230,230)" wallpaper="(204,255,255)"
+			 polepaper="(240,231,231)" roomSize="500" roomHeight="400"
+			 lightColor="normal" startRoom="room45" startPoint="center"
+			 startDirection="left">
+
+    <title>D-Cubist</title>
+
+    <room name="room34" >
+        <front to="room26"></front>
+        <back to="room42"></back>
+        <right></right>
+        <left></left>
+    </room>
+
+    <room name="room43" >
+        <front></front>
+        <back></back>
+        <right to="room44"></right>
+        <left to="room42"></left>
+    </room>
+
+    <room name="room44" >
+        <front></front>
+        <back></back>
+        <right to="room45"></right>
+        <left to="room43"></left>
+    </room>
+
+    <room name="room19" >
+        <front></front>
+        <back></back>
+        <right to="room20"></right>
+        <left to="room18"></left>
+    </room>
+
+    <room name="room20" >
+        <front></front>
+        <back></back>
+        <right to="room21"></right>
+        <left to="room19"></left>
+    </room>
+
+    <room name="room21" >
+        <front></front>
+        <back to="room29"></back>
+        <right></right>
+        <left to="room20"></left>
+    </room>
+
+    <room name="room45" >
+        <front to="room37"></front>
+        <back></back>
+        <right></right>
+        <left to="room44"></left>
+    </room>
+
+    <room name="room42" >
+        <front to="room34"></front>
+        <back></back>
+        <right to="room43"></right>
+        <left></left>
+    </room>
+
+    <room name="room18" >
+        <front></front>
+        <back to="room26"></back>
+        <right to="room19"></right>
+        <left wallpaper="Contents/party11_19/h田氏.jpg" alpha="high"></left>
+    </room>
+
+    <room name="room26" >
+        <front to="room18"></front>
+        <back to="room34"></back>
+        <right to="room27"></right>
+        <left></left>
+    </room>
+
+    <room name="room27" >
+        <front></front>
+        <back></back>
+        <right></right>
+        <left to="room26"></left>
+    </room>
+
+    <room name="room29" >
+        <front to="room21"></front>
+        <back to="room37"></back>
+        <right to="room30"></right>
+        <left></left>
+    </room>
+
+    <room name="room30" >
+        <front alpha="low" wallpaper="Contents/03-11-27/IMG_1797.JPG"></front>
+        <back to="room38"></back>
+        <right to="room31"></right>
+        <left to="room29"></left>
+    </room>
+
+    <room name="room38" >
+        <front to="room30"></front>
+        <back wallpaper="Contents/03-11-27/IMG_1797.JPG" alpha="low"></back>
+        <right to="room39"></right>
+        <left to="room37"></left>
+    </room>
+
+    <room name="room23" >
+        <back to="room31"></back>
+        <right></right>
+        <backRight></backRight>
+    </room>
+
+    <room name="room31" >
+        <front to="room23"></front>
+        <back to="room39"></back>
+        <right></right>
+        <left to="room30"></left>
+    </room>
+
+    <room name="room39" >
+        <front to="room31"></front>
+        <back to="room47"></back>
+        <right></right>
+        <left to="room38"></left>
+    </room>
+
+    <room name="room47" >
+        <front to="room39"></front>
+        <right></right>
+        <frontRight></frontRight>
+    </room>
+
+    <room name="room36" >
+        <front></front>
+        <back></back>
+        <right to="room37"></right>
+        <left></left>
+    </room>
+
+    <room name="room37" >
+        <front to="room29"></front>
+        <back to="room45"></back>
+        <right to="room38"></right>
+        <left to="room36"></left>
+    </room>
+
+</building>

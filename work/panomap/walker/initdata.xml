@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="Shift_JIS"?>
+<data>
+
+<map>
+<name>美観地区</name>
+<file>bikan.xml</file>
+</map>
+  <map>
+    <name>両備システムズ道案内</name>
+    <file>toyonari.xml</file>
+  </map>
+
+<conds>
+<key>weather</key>
+<cond>
+<name>＜カラー＞</name>
+<value>default</value>
+</cond>
+<cond>
+<name>白黒</name>
+<value>wb</value>
+</cond>
+</conds>
+
+</data>

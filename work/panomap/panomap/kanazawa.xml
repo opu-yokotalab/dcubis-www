@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="Shift_JIS"?>
+<data>
+
+<mapinfo mid="MAP01">
+<mapimg>map0.gif</mapimg>
+<initid>A1</initid>
+<initmuki>A2</initmuki>
+</mapinfo>
+
+<pano id="A1">
+<map id="MAP01">
+<pos>150,50</pos>
+</map>
+<photo season="winter" weather="default" date="2003/3">
+<panomuki>187</panomuki>
+<dir>..\金沢</dir><file>A1-00.jpg</file>
+<pata toid="A2">
+<area>1448,57,1548,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="A2">
+<map id="MAP01">
+<pos>150,100</pos>
+</map>
+<photo season="winter" weather="default" date="2003/3">
+<panomuki>199</panomuki>
+<dir>..\金沢</dir><file>A2-00.jpg</file>
+<pata toid="A1">
+<area>542,57,642,157</area>
+</pata>
+<pata toid="B2">
+<area>30,57,130,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="B1">
+<map id="MAP01">
+<pos>100,50</pos>
+</map>
+<photo season="winter" weather="default" date="2003/3">
+<panomuki>135</panomuki>
+<dir>..\金沢</dir><file>B1-00.jpg</file>
+<pata toid="B2">
+<area>1164,57,1264,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="B2">
+<map id="MAP01">
+<pos>100,100</pos>
+</map>
+<photo season="winter" weather="default" date="2003/3">
+<panomuki>291</panomuki>
+<dir>..\金沢</dir><file>B2-00.jpg</file>
+<pata toid="A2">
+<area>1518,57,1618,157</area>
+</pata>
+<pata toid="B1">
+<area>1050,57,1150,157</area>
+</pata>
+<pata toid="B3">
+<area>82,57,182,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="B3">
+<map id="MAP01">
+<pos>100,150</pos>
+</map>
+<photo season="winter" weather="default" date="2003/3">
+<panomuki>289</panomuki>
+<dir>..\金沢</dir><file>B3-00.jpg</file>
+<pata toid="B2">
+<area>1036,57,1136,157</area>
+</pata>
+<pata toid="B4">
+<area>42,57,142,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="B4">
+<map id="MAP01">
+<pos>100,200</pos>
+</map>
+<photo season="winter" weather="default" date="2003/3">
+<panomuki>219</panomuki>
+<dir>..\金沢</dir><file>B4-00.jpg</file>
+<pata toid="B3">
+<area>648,57,748,157</area>
+</pata>
+<pata toid="C4">
+<area>172,57,272,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="C4">
+<map id="MAP01">
+<pos>50,200</pos>
+</map>
+<photo season="winter" weather="default" date="2003/3">
+<panomuki>308</panomuki>
+<dir>..\金沢</dir><file>C4-00.jpg</file>
+<pata toid="B4">
+<area>1610,57,1710,157</area>
+</pata>
+<pata toid="C5">
+<area>180,57,280,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="C5">
+<map id="MAP01">
+<pos>50,250</pos>
+</map>
+<photo season="winter" weather="default" date="2003/3">
+<panomuki>312</panomuki>
+<dir>..\金沢</dir><file>C5-00.jpg</file>
+<pata toid="C4">
+<area>1150,57,1250,157</area>
+</pata>
+<pata toid="C6">
+<area>180,57,280,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="C6">
+<map id="MAP01">
+<pos>50,300</pos>
+</map>
+<photo season="winter" weather="default" date="2003/3">
+<panomuki>14</panomuki>
+<dir>..\金沢</dir><file>C6-00.jpg</file>
+<pata toid="C5">
+<area>1482,57,1582,157</area>
+</pata>
+</photo>
+</pano>
+
+
+
+<path fromid="A1" toid="A2">
+<distance>5</distance>
+<photo num="7" season="winter" weather="default" date="2003/3">
+<dir>..\金沢</dir>
+</photo>
+</path>
+<path fromid="A2" toid="A1">
+<distance>5</distance>
+<photo num="7" season="winter" weather="default" date="2003/3">
+<dir>..\金沢</dir>
+</photo>
+</path>
+<path fromid="A2" toid="B2">
+<distance>5</distance>
+<photo num="19" season="winter" weather="default" date="2003/3">
+<dir>..\金沢</dir>
+</photo>
+</path>
+<path fromid="B1" toid="B2">
+<distance>5</distance>
+<photo num="10" season="winter" weather="default" date="2003/3">
+<dir>..\金沢</dir>
+</photo>
+</path>
+<path fromid="B2" toid="A2">
+<distance>5</distance>
+<photo num="20" season="winter" weather="default" date="2003/3">
+<dir>..\金沢</dir>
+</photo>
+</path>
+<path fromid="B2" toid="B1">
+<distance>5</distance>
+<photo num="12" season="winter" weather="default" date="2003/3">
+<dir>..\金沢</dir>
+</photo>
+</path>
+<path fromid="B2" toid="B3">
+<distance>5</distance>
+<photo num="9" season="winter" weather="default" date="2003/3">
+<dir>..\金沢</dir>
+</photo>
+</path>
+<path fromid="B3" toid="B2">
+<distance>5</distance>
+<photo num="8" season="winter" weather="default" date="2003/3">
+<dir>..\金沢</dir>
+</photo>
+</path>
+<path fromid="B3" toid="B4">
+<distance>5</distance>
+<photo num="16" season="winter" weather="default" date="2003/3">
+<dir>..\金沢</dir>
+</photo>
+</path>
+<path fromid="B4" toid="B3">
+<distance>5</distance>
+<photo num="17" season="winter" weather="default" date="2003/3">
+<dir>..\金沢</dir>
+</photo>
+</path>
+<path fromid="B4" toid="C4">
+<distance>5</distance>
+<photo num="7" season="winter" weather="default" date="2003/3">
+<dir>..\金沢</dir>
+</photo>
+</path>
+<path fromid="C4" toid="B4">
+<distance>5</distance>
+<photo num="7" season="winter" weather="default" date="2003/3">
+<dir>..\金沢</dir>
+</photo>
+</path>
+<path fromid="C4" toid="C5">
+<distance>5</distance>
+<photo num="6" season="winter" weather="default" date="2003/3">
+<dir>..\金沢</dir>
+</photo>
+</path>
+<path fromid="C5" toid="C4">
+<distance>5</distance>
+<photo num="6" season="winter" weather="default" date="2003/3">
+<dir>..\金沢</dir>
+</photo>
+</path>
+<path fromid="C5" toid="C6">
+<distance>5</distance>
+<photo num="18" season="winter" weather="default" date="2003/3">
+<dir>..\金沢</dir>
+</photo>
+</path>
+<path fromid="C6" toid="C5">
+<distance>5</distance>
+<photo num="20" season="winter" weather="default" date="2003/3">
+<dir>..\金沢</dir>
+</photo>
+</path>
+
+
+
+
+
+
+<scene id="0">
+<name>シナリオ１</name>
+<pos mode="start">A1</pos>
+<pos mode="skip">A2</pos>
+<pos mode="skip">B2</pos>
+<pos mode="skip">B3</pos>
+<pos mode="skip">B4</pos>
+<pos mode="skip">C4</pos>
+<pos mode="skip">C5</pos>
+<pos mode="end">C6</pos>
+</scene>
+
+</data>

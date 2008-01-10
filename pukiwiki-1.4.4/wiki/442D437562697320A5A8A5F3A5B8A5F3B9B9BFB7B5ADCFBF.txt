@@ -1,0 +1,25 @@
+* D-Cubisエンジン更新記録 [#v7a97907]
+
+|日付|名前|何をいじったの？|どういじったの？|h
+|2004-10-13|江本|WorldListener, display Object, Avatar|Port の不具合を修正|
+|2004-10-12|江本|Avatar|9/29に更新してたのでよくわからない...|
+|2004-09-28|江本|FootMarker|足跡をたどるスクリプトに関する修正|
+|2004-09-25|江本|Avatar, control Script, Action Listener, WorldListener|スクリプト統合によるコンテンツクリック時の奇妙な動作(?)を修正|
+|2004-09-23|江本|Avatar, control Script, LightColor, Action Listener, WorldListener|ライトのon/offの切り替え問題を解決、アバターに対するスクリプトの統一|
+|2004-09-22|江本|ほぼ全部かも&heart;|細かなバグを修正(再読み込みが可能になったと思う...)|
+|2004-09-17|江本|AutomaticGuidance|細かなバグを修正(point と point の間の stop を実行可能に)|
+|2004-09-16|江本|アバター操作関連など|重複したスクリプトの統合やビヘイビアの削減|
+|2004-09-14|大河内|space create script|窓もしっかりしました(まだ未完成かも…)|
+|2004-09-14|大河内|space create script|ドアをしっかりしました|
+|2004-09-11|江本|自動案内関連スクリプト|stepFrame の利用 & バグ修正|
+|2004-09-10|江本|ネット関係|stepFrame の利用（これは便利！！）|
+|2004-09-09|江本|display Object |メソッド exitFrame → stepFrame に変更|
+|2004-09-07|江本|全部かも&heart;|整頓＆修正＆自動案内スクリプト改良＆足跡機能の追加|
+|2004-08-06|江本|BuildingDataParser,   BuildingDataStorage,   BuildingDataStorageDrawer|幅木のオプション属性skirtingBoardを追加。デフォルト値をrgb(153,100,40)に設定。仕様書にも反映。|
+|2004-07-30|江本|display Object,  LayoutDataParser,  LayoutDataStorage,  LayoutDataStorageDwawer|LAD の w3d 要素の属性に "sizeRate" を追加。ディフォルト値は 1.0 。たとえば、sizeRate の値が 0.5 の場合、3Dオブジェクトのもともとのサイズの1/2 サイズに、2.0 の場合 2 倍のサイズになる。|
+|2004-07-29|大河内|space create script |高さが違う場合に出来る壁をクリックしてもそこに飛ばないように無理やり修正(完全解決ではない)|
+|2004-07-26|大河内|space create script |ドアの壁に下の茶色いのを作成。ドアの壁にも柱を作成(当然none,corner,allの影響をうけます)|
+
+
+
+[[開発関連]]

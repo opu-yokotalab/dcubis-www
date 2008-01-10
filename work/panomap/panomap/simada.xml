@@ -1,0 +1,2341 @@
+<?xml version="1.0" encoding="Shift_JIS"?>
+<data>
+
+<mapinfo mid="MAP01">
+<mapimg>ccc.gif</mapimg>
+<initid>D7</initid>
+<initmuki>V7</initmuki>
+</mapinfo>
+
+<pano id="Mc">
+<map id="MAP01">
+<pos>877,570</pos>
+</map>
+<photo season="spring" weather="fine" date="2003/5/16">
+<panomuki>284</panomuki>
+<dir>..\simada\pano</dir><file>Mc-00.jpg</file>
+<pata toid="Lc">
+<area>1010,57,1110,157</area>
+</pata>
+<pata toid="Nc">
+<area>0,57,100,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="Lc">
+<map id="MAP01">
+<pos>879,493</pos>
+</map>
+<photo season="spring" weather="fine" date="2003/5/16">
+<panomuki>27</panomuki>
+<dir>..\simada\pano</dir><file>Lc-00.jpg</file>
+<pata toid="Mc">
+<area>590,57,690,157</area>
+</pata>
+<pata toid="Kc">
+<area>1574,57,1674,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="Kc">
+<map id="MAP01">
+<pos>878,388</pos>
+</map>
+<photo season="spring" weather="fine" date="2003/5/16">
+<panomuki>206</panomuki>
+<dir>..\simada\pano</dir><file>Kc-00.jpg</file>
+<pata toid="Lc">
+<area>1548,57,1648,157</area>
+</pata>
+<pata toid="Jc">
+<area>584,57,684,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="Jc">
+<map id="MAP01">
+<pos>877,336</pos>
+</map>
+<photo season="spring" weather="fine" date="2003/5/16">
+<panomuki>183</panomuki>
+<dir>..\simada\pano</dir><file>Jc-00.jpg</file>
+<pata toid="Kc">
+<area>1416,57,1516,157</area>
+</pata>
+<pata toid="Ic">
+<area>466,57,566,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="Nc">
+<map id="MAP01">
+<pos>884,730</pos>
+</map>
+<photo season="spring" weather="fine" date="2003/5/16">
+<panomuki>160</panomuki>
+<dir>..\simada\pano</dir><file>Nc-00.jpg</file>
+<pata toid="Mc">
+<area>318,57,418,157</area>
+</pata>
+<pata toid="Oc">
+<area>1288,57,1388,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="Ik">
+<map id="MAP01">
+<pos>1611,255</pos>
+</map>
+<photo season="spring" weather="fine" date="2003/5/16">
+<panomuki>348</panomuki>
+<dir>..\simada\pano</dir><file>Ik-00.jpg</file>
+<pata toid="Ij">
+<area>846,57,946,157</area>
+</pata>
+<link id="L08">
+<area>1350,40,1480,120</area>
+<object>..\simada\link\石井小.jpg</object>
+</link>
+</photo>
+</pano>
+<pano id="Ij">
+<map id="MAP01">
+<pos>1530,258</pos>
+</map>
+<photo season="spring" weather="fine" date="2003/5/16">
+<panomuki>285</panomuki>
+<dir>..\simada\pano</dir><file>Ij-00.jpg</file>
+<pata toid="Ik">
+<area>1484,57,1584,157</area>
+</pata>
+<pata toid="Ii">
+<area>484,57,584,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="Ic">
+<map id="MAP01">
+<pos>877,284</pos>
+</map>
+<photo season="spring" weather="fine" date="2003/5/16">
+<panomuki>185</panomuki>
+<dir>..\simada\pano</dir><file>Ic-00.jpg</file>
+<pata toid="Jc">
+<area>1434,57,1534,157</area>
+</pata>
+<pata toid="Id">
+<area>1032,57,1132,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="Oc">
+<map id="MAP01">
+<pos>886,799</pos>
+</map>
+<photo season="spring" weather="fine" date="2003/5/16">
+<panomuki>179</panomuki>
+<dir>..\simada\pano</dir><file>Oc-00.jpg</file>
+<pata toid="Nc">
+<area>420,57,520,157</area>
+</pata>
+<pata toid="Pc">
+<area>1364,57,1464,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="Ii">
+<map id="MAP01">
+<pos>1451,258</pos>
+</map>
+<photo season="spring" weather="fine" date="2003/5/16">
+<panomuki>47</panomuki>
+<dir>..\simada\pano</dir><file>Ii-00.jpg</file>
+<pata toid="Ij">
+<area>206,57,306,157</area>
+</pata>
+<pata toid="Ih">
+<area>1154,57,1254,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="Id">
+<map id="MAP01">
+<pos>926,293</pos>
+</map>
+<photo season="spring" weather="fine" date="2003/5/16">
+<panomuki>207</panomuki>
+<dir>..\simada\pano</dir><file>Id-00.jpg</file>
+<pata toid="Ic">
+<area>150,57,250,157</area>
+</pata>
+<pata toid="Ie">
+<area>998,57,1098,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="Pc">
+<map id="MAP01">
+<pos>890,839</pos>
+</map>
+<photo season="spring" weather="fine" date="2003/5/16">
+<panomuki>152</panomuki>
+<dir>..\simada\pano</dir><file>Pc-00.jpg</file>
+<pata toid="Oc">
+<area>254,57,354,157</area>
+</pata>
+<pata toid="Qc">
+<area>1222,57,1322,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="Ih">
+<map id="MAP01">
+<pos>1333,261</pos>
+</map>
+<photo season="spring" weather="fine" date="2003/5/16">
+<panomuki>29</panomuki>
+<dir>..\simada\pano</dir><file>Ih-00.jpg</file>
+<pata toid="Ii">
+<area>102,57,202,157</area>
+</pata>
+<pata toid="Ig">
+<area>874,57,974,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="Ie">
+<map id="MAP01">
+<pos>941,292</pos>
+</map>
+<photo season="spring" weather="fine" date="2003/5/16">
+<panomuki>131</panomuki>
+<dir>..\simada\pano</dir><file>Ie-00.jpg</file>
+<pata toid="Id">
+<area>1610,57,1710,157</area>
+</pata>
+<pata toid="If">
+<area>602,57,702,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="Q1">
+<map id="MAP01">
+<pos>273,958</pos>
+</map>
+<photo season="spring" weather="fine" date="2003/5/16">
+<panomuki>46</panomuki>
+<dir>..\simada\pano</dir><file>Q1-00.jpg</file>
+<pata toid="Q3">
+<area>172,57,272,157</area>
+</pata>
+<link id="L13">
+<area>990,70,1080,180</area>
+<object>../simada/link/高橋0.html</object>
+</link>
+</photo>
+</pano>
+<pano id="Q3">
+<map id="MAP01">
+<pos>465,940</pos>
+</map>
+<photo season="spring" weather="fine" date="2003/5/16">
+<panomuki>152</panomuki>
+<dir>..\simada\pano</dir><file>Q3-00.jpg</file>
+<pata toid="Q1">
+<area>1714,57,1814,157</area>
+</pata>
+<pata toid="Q7">
+<area>770,57,870,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="Q7">
+<map id="MAP01">
+<pos>685,933</pos>
+</map>
+<photo season="spring" weather="fine" date="2003/5/16">
+<panomuki>230</panomuki>
+<dir>..\simada\pano</dir><file>Q7-00.jpg</file>
+<pata toid="Q3">
+<area>214,57,314,157</area>
+</pata>
+<pata toid="Qa">
+<area>1102,57,1202,157</area>
+</pata>
+<pata toid="R7">
+<area>1642,57,1742,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="Qa">
+<map id="MAP01">
+<pos>764,934</pos>
+</map>
+<photo season="spring" weather="fine" date="2003/5/16">
+<panomuki>259</panomuki>
+<dir>..\simada\pano</dir><file>Qa-00.jpg</file>
+<pata toid="Q7">
+<area>384,57,484,157</area>
+</pata>
+<pata toid="Qc">
+<area>1256,57,1356,157</area>
+</pata>
+<link id="L17">
+<area>1340,160,1500,210</area>
+<object>../simada/link/大川0.html</object>
+</link>
+</photo>
+</pano>
+<pano id="Qc">
+<map id="MAP01">
+<pos>890,936</pos>
+</map>
+<photo season="spring" weather="fine" date="2003/5/16">
+<panomuki>157</panomuki>
+<dir>..\simada\pano</dir><file>Qc-00.jpg</file>
+<pata toid="Pc">
+<area>312,57,412,157</area>
+</pata>
+<pata toid="Qa">
+<area>1724,57,1824,157</area>
+</pata>
+<pata toid="Ac">
+<area>926,57,1026,157</area>
+</pata>
+<link id="L18">
+<area>1630,150,1730,205</area>
+<object>../simada/link/大川0.html</object>
+</link>
+</photo>
+</pano>
+<pano id="Ig">
+<map id="MAP01">
+<pos>1317,277</pos>
+</map>
+<photo season="spring" weather="fine" date="2003/5/16">
+<panomuki>72</panomuki>
+<dir>..\simada\pano</dir><file>Ig-00.jpg</file>
+<pata toid="Ih">
+<area>96,57,196,157</area>
+</pata>
+<pata toid="If">
+<area>1264,57,1364,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="If">
+<map id="MAP01">
+<pos>1083,286</pos>
+</map>
+<photo season="spring" weather="fine" date="2003/5/16">
+<panomuki>212</panomuki>
+<dir>..\simada\pano</dir><file>If-00.jpg</file>
+<pata toid="Ie">
+<area>116,57,216,157</area>
+</pata>
+<pata toid="Ig">
+<area>1054,57,1154,157</area>
+</pata>
+<link id="L11">
+<area>900,90,1000,170</area>
+<object>..\simada\link\石碑x.jpg</object>
+</link>
+</photo>
+</pano>
+<pano id="Ac">
+<map id="MAP01">
+<pos>900,948</pos>
+</map>
+<photo season="spring" weather="fine" date="2003/5/16">
+<panomuki>287</panomuki>
+<dir>..\simada\pano</dir><file>Ac-00.jpg</file>
+<pata toid="Qc">
+<area>800,57,900,157</area>
+</pata>
+<pata toid="Ad">
+<area>1526,57,1626,157</area>
+</pata>
+<pata toid="Rc">
+<area>74,57,174,157</area>
+</pata>
+<link id="L10">
+<area>1730,40,1950,210</area>
+<object>..\simada\link\保育園.jpg</object>
+</link>
+</photo>
+</pano>
+<pano id="Ad">
+<map id="MAP01">
+<pos>979,943</pos>
+</map>
+<photo season="spring" weather="fine" date="2003/5/16">
+<panomuki>117</panomuki>
+<dir>..\simada\pano</dir><file>Ad-00.jpg</file>
+<pata toid="Ac">
+<area>1578,57,1678,157</area>
+</pata>
+<pata toid="Ae">
+<area>568,57,668,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="Ae">
+<map id="MAP01">
+<pos>1063,939</pos>
+</map>
+<photo season="spring" weather="fine" date="2003/5/16">
+<panomuki>280</panomuki>
+<dir>..\simada\pano</dir><file>Ae-00.jpg</file>
+<pata toid="Ad">
+<area>474,57,574,157</area>
+</pata>
+<pata toid="Af">
+<area>1468,57,1568,157</area>
+</pata>
+<link id="L14">
+<area>170,20,480,150</area>
+<object>../simada/link/工場2.html</object>
+</link>
+</photo>
+</pano>
+<pano id="Af">
+<map id="MAP01">
+<pos>1149,940</pos>
+</map>
+<photo season="spring" weather="fine" date="2003/5/16">
+<panomuki>145</panomuki>
+<dir>..\simada\pano</dir><file>Af-00.jpg</file>
+<pata toid="Ae">
+<area>1708,57,1808,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="R7">
+<map id="MAP01">
+<pos>683,1006</pos>
+</map>
+<photo season="spring" weather="fine" date="2003/5/16">
+<panomuki>205</panomuki>
+<dir>..\simada\pano</dir><file>R7-00.jpg</file>
+<pata toid="Q7">
+<area>586,57,686,157</area>
+</pata>
+<pata toid="Ra">
+<area>1094,57,1194,157</area>
+</pata>
+<pata toid="S7">
+<area>1587,57,1687,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="Ra">
+<map id="MAP01">
+<pos>770,1007</pos>
+</map>
+<photo season="spring" weather="fine" date="2003/5/16">
+<panomuki>203</panomuki>
+<dir>..\simada\pano</dir><file>Ra-00.jpg</file>
+<pata toid="R7">
+<area>80,57,180,157</area>
+</pata>
+<pata toid="Rc">
+<area>1028,57,1128,157</area>
+</pata>
+<pata toid="Sa">
+<area>1500,57,1600,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="Rc">
+<map id="MAP01">
+<pos>895,1008</pos>
+</map>
+<photo season="spring" weather="fine" date="2003/5/16">
+<panomuki>170</panomuki>
+<dir>..\simada\pano</dir><file>Rc-00.jpg</file>
+<pata toid="Ac">
+<area>412,57,512,157</area>
+</pata>
+<pata toid="Ra">
+<area>1898,57,1998,157</area>
+</pata>
+<pata toid="Sc">
+<area>1394,57,1494,157</area>
+</pata>
+<link id="L02">
+<area>200,10,300,150</area>
+<object>../simada/link/工場.html</object>
+</link>
+</photo>
+</pano>
+<pano id="S2">
+<map id="MAP01">
+<pos>467,1060</pos>
+</map>
+<photo season="spring" weather="fine" date="2003/5/16">
+<panomuki>296</panomuki>
+<dir>..\simada\pano</dir><file>S2-00.jpg</file>
+<pata toid="S4">
+<area>1540,57,1640,157</area>
+</pata>
+<pata toid="U2">
+<area>114,57,214,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="S4">
+<map id="MAP01">
+<pos>579,1057</pos>
+</map>
+<photo season="spring" weather="fine" date="2003/5/16">
+<panomuki>283</panomuki>
+<dir>..\simada\pano</dir><file>S4-00.jpg</file>
+<pata toid="S2">
+<area>504,57,604,157</area>
+</pata>
+<pata toid="S7">
+<area>1572,57,1672,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="S7">
+<map id="MAP01">
+<pos>680,1072</pos>
+</map>
+<photo season="spring" weather="fine" date="2003/5/16">
+<panomuki>102</panomuki>
+<dir>..\simada\pano</dir><file>S7-00.jpg</file>
+<pata toid="R7">
+<area>32,57,132,157</area>
+</pata>
+<pata toid="S4">
+<area>1514,57,1614,157</area>
+</pata>
+<pata toid="Sa">
+<area>500,57,600,157</area>
+</pata>
+<pata toid="T7">
+<area>1022,57,1122,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="Sa">
+<map id="MAP01">
+<pos>774,1067</pos>
+</map>
+<photo season="spring" weather="fine" date="2003/5/16">
+<panomuki>226</panomuki>
+<dir>..\simada\pano</dir><file>Sa-00.jpg</file>
+<pata toid="Ra">
+<area>664,57,764,157</area>
+</pata>
+<pata toid="S7">
+<area>196,57,296,157</area>
+</pata>
+<pata toid="Sc">
+<area>1136,57,1236,157</area>
+</pata>
+<pata toid="Da">
+<area>1636,57,1736,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="Sc">
+<map id="MAP01">
+<pos>896,1064</pos>
+</map>
+<photo season="spring" weather="fine" date="2003/5/16">
+<panomuki>165</panomuki>
+<dir>..\simada\pano</dir><file>Sc-00.jpg</file>
+<pata toid="Rc">
+<area>354,57,454,157</area>
+</pata>
+<pata toid="Sa">
+<area>1818,57,1918,157</area>
+</pata>
+<pata toid="Tc">
+<area>1332,57,1432,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="T6">
+<map id="MAP01">
+<pos>647,1100</pos>
+</map>
+<photo season="spring" weather="fine" date="2003/5/16">
+<panomuki>246</panomuki>
+<dir>..\simada\pano</dir><file>T6-00.jpg</file>
+<pata toid="T7">
+<area>1326,57,1426,157</area>
+</pata>
+<pata toid="U6">
+<area>1834,57,1934,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="T7">
+<map id="MAP01">
+<pos>679,1105</pos>
+</map>
+<photo season="spring" weather="fine" date="2003/5/16">
+<panomuki>218</panomuki>
+<dir>..\simada\pano</dir><file>T7-00.jpg</file>
+<pata toid="S7">
+<area>656,57,756,157</area>
+</pata>
+<pata toid="T6">
+<area>168,57,268,157</area>
+</pata>
+<pata toid="U7">
+<area>1640,57,1740,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="Tc">
+<map id="MAP01">
+<pos>898,1072</pos>
+</map>
+<photo season="spring" weather="fine" date="2003/5/16">
+<panomuki>24</panomuki>
+<dir>..\simada\pano</dir><file>Tc-00.jpg</file>
+<pata toid="Sc">
+<area>1464,57,1564,157</area>
+</pata>
+<pata toid="Dc">
+<area>508,57,608,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="U2">
+<map id="MAP01">
+<pos>467,1124</pos>
+</map>
+<photo season="spring" weather="fine" date="2003/5/16">
+<panomuki>8</panomuki>
+<dir>..\simada\pano</dir><file>U2-00.jpg</file>
+<pata toid="S2">
+<area>1450,57,1550,157</area>
+</pata>
+<pata toid="U3">
+<area>1888,57,1988,157</area>
+</pata>
+<pata toid="V2">
+<area>422,57,522,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="U3">
+<map id="MAP01">
+<pos>560,1125</pos>
+</map>
+<photo season="spring" weather="fine" date="2003/5/16">
+<panomuki>304</panomuki>
+<dir>..\simada\pano</dir><file>U3-00.jpg</file>
+<pata toid="U2">
+<area>630,57,730,157</area>
+</pata>
+<pata toid="U5">
+<area>1590,57,1690,157</area>
+</pata>
+<pata toid="V3">
+<area>146,57,246,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="U5">
+<map id="MAP01">
+<pos>616,1122</pos>
+</map>
+<photo season="spring" weather="fine" date="2003/5/16">
+<panomuki>280</panomuki>
+<dir>..\simada\pano</dir><file>U5-00.jpg</file>
+<pata toid="U3">
+<area>480,57,580,157</area>
+</pata>
+<pata toid="U6">
+<area>1508,57,1608,157</area>
+</pata>
+<pata toid="V5">
+<area>28,57,128,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="U6">
+<map id="MAP01">
+<pos>646,1121</pos>
+</map>
+<photo season="spring" weather="fine" date="2003/5/16">
+<panomuki>87</panomuki>
+<dir>..\simada\pano</dir><file>U6-00.jpg</file>
+<pata toid="T6">
+<area>1909,57,2009,157</area>
+</pata>
+<pata toid="U5">
+<area>1404,57,1504,157</area>
+</pata>
+<pata toid="Uy">
+<area>452,57,552,157</area>
+</pata>
+<link id="L06">
+<area>90,30,280,170</area>
+<object>../simada/link/石碑.html</object>
+</link>
+</photo>
+</pano>
+<pano id="Uy">
+<map id="MAP01">
+<pos>658,1122</pos>
+</map>
+<photo season="spring" weather="fine" date="2003/5/16">
+<panomuki>316</panomuki>
+<dir>..\simada\pano</dir><file>Uy-00.jpg</file>
+<pata toid="U6">
+<area>716,57,816,157</area>
+</pata>
+<pata toid="U7">
+<area>1650,57,1750,157</area>
+</pata>
+<pata toid="Dy">
+<area>186,57,286,157</area>
+</pata>
+<link id="L07">
+<area>800,60,900,140</area>
+<object>../simada/link/石碑.html</object>
+</link>
+</photo>
+</pano>
+<pano id="U7">
+<map id="MAP01">
+<pos>677,1127</pos>
+</map>
+<photo season="spring" weather="fine" date="2003/5/16">
+<panomuki>149</panomuki>
+<dir>..\simada\pano</dir><file>U7-00.jpg</file>
+<pata toid="T7">
+<area>296,57,396,157</area>
+</pata>
+<pata toid="Uy">
+<area>1742,57,1842,157</area>
+</pata>
+<pata toid="D7">
+<area>1230,57,1330,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="Dy">
+<map id="MAP01">
+<pos>659,1137</pos>
+</map>
+<photo season="spring" weather="fine" date="2003/5/16">
+<panomuki>79</panomuki>
+<dir>..\simada\pano</dir><file>Dy-00.jpg</file>
+<pata toid="Uy">
+<area>1810,57,1910,157</area>
+</pata>
+<link id="L05">
+<area>300,100,600,170</area>
+<object>../simada/link/石碑.html</object>
+</link>
+</photo>
+</pano>
+<pano id="D7">
+<map id="MAP01">
+<pos>676,1146</pos>
+</map>
+<photo season="spring" weather="fine" date="2003/5/16">
+<panomuki>138</panomuki>
+<dir>..\simada\pano</dir><file>D7-00.jpg</file>
+<pata toid="U7">
+<area>230,57,330,157</area>
+</pata>
+<pata toid="D8">
+<area>672,57,772,157</area>
+</pata>
+<pata toid="V7">
+<area>1176,57,1276,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="D8">
+<map id="MAP01">
+<pos>722,1145</pos>
+</map>
+<photo season="spring" weather="fine" date="2003/5/16">
+<panomuki>24</panomuki>
+<dir>..\simada\pano</dir><file>D8-00.jpg</file>
+<pata toid="D7">
+<area>1046,57,1146,157</area>
+</pata>
+<pata toid="Da">
+<area>102,57,202,157</area>
+</pata>
+<pata toid="V8">
+<area>580,57,680,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="Da">
+<map id="MAP01">
+<pos>774,1141</pos>
+</map>
+<photo season="spring" weather="fine" date="2003/5/16">
+<panomuki>291</panomuki>
+<dir>..\simada\pano</dir><file>Da-00.jpg</file>
+<pata toid="Sa">
+<area>1036,57,1136,157</area>
+</pata>
+<pata toid="D8">
+<area>530,57,630,157</area>
+</pata>
+<pata toid="Dc">
+<area>1526,57,1626,157</area>
+</pata>
+<pata toid="Va">
+<area>36,57,136,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="Dc">
+<map id="MAP01">
+<pos>896,1136</pos>
+</map>
+<photo season="spring" weather="fine" date="2003/5/16">
+<panomuki>271</panomuki>
+<dir>..\simada\pano</dir><file>Dc-00.jpg</file>
+<pata toid="Tc">
+<area>938,57,1038,157</area>
+</pata>
+<pata toid="Da">
+<area>444,57,544,157</area>
+</pata>
+<pata toid="Vc">
+<area>24,57,124,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="V2">
+<map id="MAP01">
+<pos>475,1174</pos>
+</map>
+<photo season="spring" weather="fine" date="2003/5/16">
+<panomuki>25</panomuki>
+<dir>..\simada\pano</dir><file>V2-00.jpg</file>
+<pata toid="U2">
+<area>1496,57,1596,157</area>
+</pata>
+<pata toid="V3">
+<area>142,57,242,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="V3">
+<map id="MAP01">
+<pos>560,1178</pos>
+</map>
+<photo season="spring" weather="fine" date="2003/5/16">
+<panomuki>348</panomuki>
+<dir>..\simada\pano</dir><file>V3-00.jpg</file>
+<pata toid="U3">
+<area>1352,57,1452,157</area>
+</pata>
+<pata toid="V2">
+<area>870,57,970,157</area>
+</pata>
+<pata toid="V4">
+<area>1792,57,1892,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="V4">
+<map id="MAP01">
+<pos>592,1181</pos>
+</map>
+<photo season="spring" weather="fine" date="2003/5/16">
+<panomuki>127</panomuki>
+<dir>..\simada\pano</dir><file>V4-00.jpg</file>
+<pata toid="V3">
+<area>1634,57,1734,157</area>
+</pata>
+<pata toid="V5">
+<area>526,57,626,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="V5">
+<map id="MAP01">
+<pos>628,1179</pos>
+</map>
+<photo season="spring" weather="fine" date="2003/5/16">
+<panomuki>48</panomuki>
+<dir>..\simada\pano</dir><file>V5-00.jpg</file>
+<pata toid="U5">
+<area>1606,57,1706,157</area>
+</pata>
+<pata toid="V4">
+<area>1144,57,1244,157</area>
+</pata>
+<pata toid="V7">
+<area>134,57,234,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="V7">
+<map id="MAP01">
+<pos>674,1169</pos>
+</map>
+<photo season="spring" weather="fine" date="2003/5/16">
+<panomuki>309</panomuki>
+<dir>..\simada\pano</dir><file>V7-00.jpg</file>
+<pata toid="D7">
+<area>1158,57,1258,157</area>
+</pata>
+<pata toid="V5">
+<area>656,57,756,157</area>
+</pata>
+<pata toid="V8">
+<area>1368,57,1468,157</area>
+</pata>
+<link id="L01">
+<area>330,75,430,200</area>
+<object>../simada/link/生家0.html</object>
+</link>
+</photo>
+</pano>
+<pano id="V8">
+<map id="MAP01">
+<pos>723,1157</pos>
+</map>
+<photo season="spring" weather="fine" date="2003/5/16">
+<panomuki>223</panomuki>
+<dir>..\simada\pano</dir><file>V8-00.jpg</file>
+<pata toid="D8">
+<area>644,57,744,157</area>
+</pata>
+<pata toid="V7">
+<area>188,57,288,157</area>
+</pata>
+<pata toid="Va">
+<area>1152,57,1252,157</area>
+</pata>
+<pata toid="W8">
+<area>1636,57,1736,157</area>
+</pata>
+<link id="L04">
+<area>790,30,1070,120</area>
+<object>../simada/link/本家0.html</object>
+</link>
+<link id="D01">
+<area>1680,50,1680,50</area>
+<object>dummy</object>
+</link>
+</photo>
+</pano>
+<pano id="Va">
+<map id="MAP01">
+<pos>775,1153</pos>
+</map>
+<photo season="spring" weather="fine" date="2003/5/16">
+<panomuki>106</panomuki>
+<dir>..\simada\pano</dir><file>Va-00.jpg</file>
+<pata toid="Da">
+<area>14,57,114,157</area>
+</pata>
+<pata toid="V8">
+<area>1588,57,1688,157</area>
+</pata>
+<pata toid="Vc">
+<area>612,57,712,157</area>
+</pata>
+<link id="L03">
+<area>1360,30,1500,200</area>
+<object>../simada/link/エヘン0.html</object>
+</link>
+</photo>
+</pano>
+<pano id="Vc">
+<map id="MAP01">
+<pos>898,1150</pos>
+</map>
+<photo season="spring" weather="fine" date="2003/5/16">
+<panomuki>248</panomuki>
+<dir>..\simada\pano</dir><file>Vc-00.jpg</file>
+<pata toid="Dc">
+<area>774,57,874,157</area>
+</pata>
+<pata toid="Va">
+<area>338,57,438,157</area>
+</pata>
+<pata toid="Xc">
+<area>1660,57,1760,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="W8">
+<map id="MAP01">
+<pos>724,1186</pos>
+</map>
+<photo season="spring" weather="fine" date="2003/5/16">
+<panomuki>353</panomuki>
+<dir>..\simada\pano</dir><file>W8-00.jpg</file>
+<pata toid="V8">
+<area>1360,57,1460,157</area>
+</pata>
+<pata toid="X8">
+<area>386,57,486,157</area>
+</pata>
+<link id="L12">
+<area>530,60,830,150</area>
+<object>../simada/link/生家跡2.html</object>
+</link>
+</photo>
+</pano>
+<pano id="X8">
+<map id="MAP01">
+<pos>729,1229</pos>
+</map>
+<photo season="spring" weather="fine" date="2003/5/16">
+<panomuki>20</panomuki>
+<dir>..\simada\pano</dir><file>X8-00.jpg</file>
+<pata toid="W8">
+<area>1478,57,1578,157</area>
+</pata>
+<pata toid="X9">
+<area>42,57,142,157</area>
+</pata>
+<pata toid="Y8">
+<area>582,57,682,157</area>
+</pata>
+<link id="L09">
+<area>1010,40,1330,170</area>
+<object>../simada/link/生家跡2.html</object>
+</link>
+</photo>
+</pano>
+<pano id="X9">
+<map id="MAP01">
+<pos>750,1232</pos>
+</map>
+<photo season="spring" weather="fine" date="2003/5/16">
+<panomuki>82</panomuki>
+<dir>..\simada\pano</dir><file>X9-00.jpg</file>
+<pata toid="X8">
+<area>1428,57,1528,157</area>
+</pata>
+<pata toid="Xc">
+<area>386,57,486,157</area>
+</pata>
+<pata toid="Y9">
+<area>1008,57,1108,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="Xc">
+<map id="MAP01">
+<pos>912,1212</pos>
+</map>
+<photo season="spring" weather="fine" date="2003/5/16">
+<panomuki>171</panomuki>
+<dir>..\simada\pano</dir><file>Xc-00.jpg</file>
+<pata toid="Vc">
+<area>322,57,422,157</area>
+</pata>
+<pata toid="X9">
+<area>1825,57,1925,157</area>
+</pata>
+<pata toid="Bc">
+<area>1371,57,1471,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="Y8">
+<map id="MAP01">
+<pos>711,1297</pos>
+</map>
+<photo season="spring" weather="fine" date="2003/5/16">
+<panomuki>75</panomuki>
+<dir>..\simada\pano</dir><file>Y8-00.jpg</file>
+<pata toid="X8">
+<area>1892,57,1992,157</area>
+</pata>
+<pata toid="Y9">
+<area>412,57,512,157</area>
+</pata>
+<pata toid="Z8">
+<area>918,57,1018,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="Y9">
+<map id="MAP01">
+<pos>739,1304</pos>
+</map>
+<photo season="spring" weather="fine" date="2003/5/16">
+<panomuki>105</panomuki>
+<dir>..\simada\pano</dir><file>Y9-00.jpg</file>
+<pata toid="X9">
+<area>80,57,180,157</area>
+</pata>
+<pata toid="Y8">
+<area>1529,57,1629,157</area>
+</pata>
+<pata toid="Z9">
+<area>1064,57,1164,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="Z8">
+<map id="MAP01">
+<pos>706,1319</pos>
+</map>
+<photo season="spring" weather="fine" date="2003/5/16">
+<panomuki>77</panomuki>
+<dir>..\simada\pano</dir><file>Z8-00.jpg</file>
+<pata toid="Y8">
+<area>1893,57,1993,157</area>
+</pata>
+<pata toid="Z9">
+<area>418,57,518,157</area>
+</pata>
+<pata toid="B8">
+<area>916,57,1016,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="Z9">
+<map id="MAP01">
+<pos>739,1324</pos>
+</map>
+<photo season="spring" weather="fine" date="2003/5/16">
+<panomuki>23</panomuki>
+<dir>..\simada\pano</dir><file>Z9-00.jpg</file>
+<pata toid="Y9">
+<area>1534,57,1634,157</area>
+</pata>
+<pata toid="Z8">
+<area>1026,57,1126,157</area>
+</pata>
+<pata toid="B9">
+<area>560,57,660,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="B8">
+<map id="MAP01">
+<pos>694,1374</pos>
+</map>
+<photo season="spring" weather="fine" date="2003/5/16">
+<panomuki>228</panomuki>
+<dir>..\simada\pano</dir><file>B8-00.jpg</file>
+<pata toid="Z8">
+<area>762,57,862,157</area>
+</pata>
+<pata toid="B9">
+<area>1206,57,1306,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="B9">
+<map id="MAP01">
+<pos>728,1370</pos>
+</map>
+<photo season="spring" weather="fine" date="2003/5/16">
+<panomuki>303</panomuki>
+<dir>..\simada\pano</dir><file>B9-00.jpg</file>
+<pata toid="Z9">
+<area>1174,57,1274,157</area>
+</pata>
+<pata toid="B8">
+<area>572,57,672,157</area>
+</pata>
+<pata toid="Ba">
+<area>1622,57,1722,157</area>
+</pata>
+<link id="L15">
+<area>1790,140,1930,210</area>
+<object>../simada/link/十三川0.html</object>
+</link>
+</photo>
+</pano>
+<pano id="Ba">
+<map id="MAP01">
+<pos>842,1363</pos>
+</map>
+<photo season="spring" weather="fine" date="2003/5/16">
+<panomuki>286</panomuki>
+<dir>..\simada\pano</dir><file>Ba-00.jpg</file>
+<pata toid="B9">
+<area>506,57,606,157</area>
+</pata>
+<pata toid="Bc">
+<area>1510,57,1610,157</area>
+</pata>
+<link id="L16">
+<area>20,160,410,190</area>
+<object>../simada/link/十三川0.html</object>
+</link>
+</photo>
+</pano>
+<pano id="Bc">
+<map id="MAP01">
+<pos>916,1351</pos>
+</map>
+<photo season="spring" weather="fine" date="2003/5/16">
+<panomuki>329</panomuki>
+<dir>..\simada\pano</dir><file>Bc-00.jpg</file>
+<pata toid="Xc">
+<area>1234,57,1334,157</area>
+</pata>
+<pata toid="Ba">
+<area>626,57,726,157</area>
+</pata>
+</photo>
+</pano>
+
+
+
+<path fromid="Mc" toid="Lc">
+<distance>53</distance>
+<photo num="8" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Mc" toid="Nc">
+<distance>65</distance>
+<photo num="20" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Lc" toid="Mc">
+<distance>53</distance>
+<photo num="9" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Lc" toid="Kc">
+<distance>52</distance>
+<photo num="12" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Kc" toid="Lc">
+<distance>52</distance>
+<photo num="14" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Kc" toid="Jc">
+<distance>26</distance>
+<photo num="6" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Jc" toid="Kc">
+<distance>26</distance>
+<photo num="6" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Jc" toid="Ic">
+<distance>26</distance>
+<photo num="6" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Nc" toid="Mc">
+<distance>65</distance>
+<photo num="17" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Nc" toid="Oc">
+<distance>34</distance>
+<photo num="8" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Ik" toid="Ij">
+<distance>40</distance>
+<photo num="4" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Ij" toid="Ik">
+<distance>40</distance>
+<photo num="5" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Ij" toid="Ii">
+<distance>39</distance>
+<photo num="14" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Ic" toid="Jc">
+<distance>26</distance>
+<photo num="7" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Ic" toid="Id">
+<distance>24</distance>
+<photo num="6" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Oc" toid="Nc">
+<distance>34</distance>
+<photo num="7" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Oc" toid="Pc">
+<distance>20</distance>
+<photo num="5" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Ii" toid="Ij">
+<distance>39</distance>
+<photo num="13" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Ii" toid="Ih">
+<distance>59</distance>
+<photo num="12" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Id" toid="Ic">
+<distance>24</distance>
+<photo num="6" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Id" toid="Ie">
+<distance>7</distance>
+<photo num="2" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Pc" toid="Oc">
+<distance>20</distance>
+<photo num="4" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Pc" toid="Qc">
+<distance>48</distance>
+<photo num="13" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Ih" toid="Ii">
+<distance>59</distance>
+<photo num="12" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Ih" toid="Ig">
+<distance>11</distance>
+<photo num="2" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Ie" toid="Id">
+<distance>7</distance>
+<photo num="3" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Ie" toid="If">
+<distance>71</distance>
+<photo num="16" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Q1" toid="Q3">
+<distance>96</distance>
+<photo num="30" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Q3" toid="Q1">
+<distance>96</distance>
+<photo num="31" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Q3" toid="Q7">
+<distance>110</distance>
+<photo num="13" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Q7" toid="Q3">
+<distance>110</distance>
+<photo num="15" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Q7" toid="Qa">
+<distance>39</distance>
+<photo num="9" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Q7" toid="R7">
+<distance>36</distance>
+<photo num="7" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Qa" toid="Q7">
+<distance>39</distance>
+<photo num="9" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Qa" toid="Qc">
+<distance>63</distance>
+<photo num="14" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Qc" toid="Pc">
+<distance>48</distance>
+<photo num="11" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Qc" toid="Qa">
+<distance>63</distance>
+<photo num="12" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Qc" toid="Ac">
+<distance>7</distance>
+<photo num="2" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Ig" toid="Ih">
+<distance>11</distance>
+<photo num="2" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Ig" toid="If">
+<distance>117</distance>
+<photo num="30" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="If" toid="Ie">
+<distance>71</distance>
+<photo num="17" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="If" toid="Ig">
+<distance>117</distance>
+<photo num="30" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Ac" toid="Qc">
+<distance>7</distance>
+<photo num="3" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Ac" toid="Ad">
+<distance>39</distance>
+<photo num="10" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Ac" toid="Rc">
+<distance>30</distance>
+<photo num="8" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Ad" toid="Ac">
+<distance>39</distance>
+<photo num="12" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Ad" toid="Ae">
+<distance>42</distance>
+<photo num="10" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Ae" toid="Ad">
+<distance>42</distance>
+<photo num="11" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Ae" toid="Af">
+<distance>43</distance>
+<photo num="9" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Af" toid="Ae">
+<distance>43</distance>
+<photo num="9" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="R7" toid="Q7">
+<distance>36</distance>
+<photo num="7" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="R7" toid="Ra">
+<distance>43</distance>
+<photo num="9" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="R7" toid="S7">
+<distance>33</distance>
+<photo num="6" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Ra" toid="R7">
+<distance>43</distance>
+<photo num="8" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Ra" toid="Rc">
+<distance>62</distance>
+<photo num="13" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Ra" toid="Sa">
+<distance>30</distance>
+<photo num="7" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Rc" toid="Ac">
+<distance>30</distance>
+<photo num="8" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Rc" toid="Ra">
+<distance>62</distance>
+<photo num="13" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Rc" toid="Sc">
+<distance>28</distance>
+<photo num="8" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="S2" toid="S4">
+<distance>56</distance>
+<photo num="12" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="S2" toid="U2">
+<distance>32</distance>
+<photo num="6" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="S4" toid="S2">
+<distance>56</distance>
+<photo num="12" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="S4" toid="S7">
+<distance>51</distance>
+<photo num="12" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="S7" toid="R7">
+<distance>33</distance>
+<photo num="6" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="S7" toid="S4">
+<distance>51</distance>
+<photo num="12" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="S7" toid="Sa">
+<distance>47</distance>
+<photo num="11" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="S7" toid="T7">
+<distance>16</distance>
+<photo num="3" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Sa" toid="Ra">
+<distance>30</distance>
+<photo num="6" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Sa" toid="S7">
+<distance>47</distance>
+<photo num="10" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Sa" toid="Sc">
+<distance>61</distance>
+<photo num="13" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Sa" toid="Da">
+<distance>37</distance>
+<photo num="10" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Sc" toid="Rc">
+<distance>28</distance>
+<photo num="7" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Sc" toid="Sa">
+<distance>61</distance>
+<photo num="14" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Sc" toid="Tc">
+<distance>4</distance>
+<photo num="1" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="T6" toid="T7">
+<distance>16</distance>
+<photo num="4" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="T6" toid="U6">
+<distance>10</distance>
+<photo num="1" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="T7" toid="S7">
+<distance>16</distance>
+<photo num="3" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="T7" toid="T6">
+<distance>16</distance>
+<photo num="4" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="T7" toid="U7">
+<distance>11</distance>
+<photo num="4" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Tc" toid="Sc">
+<distance>4</distance>
+<photo num="1" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Tc" toid="Dc">
+<distance>32</distance>
+<photo num="10" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="U2" toid="S2">
+<distance>32</distance>
+<photo num="6" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="U2" toid="U3">
+<distance>46</distance>
+<photo num="12" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="U2" toid="V2">
+<distance>25</distance>
+<photo num="6" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="U3" toid="U2">
+<distance>46</distance>
+<photo num="11" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="U3" toid="U5">
+<distance>28</distance>
+<photo num="7" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="U3" toid="V3">
+<distance>26</distance>
+<photo num="6" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="U5" toid="U3">
+<distance>28</distance>
+<photo num="7" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="U5" toid="U6">
+<distance>15</distance>
+<photo num="2" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="U5" toid="V5">
+<distance>29</distance>
+<photo num="7" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="U6" toid="T6">
+<distance>10</distance>
+<photo num="1" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="U6" toid="U5">
+<distance>15</distance>
+<photo num="2" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="U6" toid="Uy">
+<distance>6</distance>
+<photo num="4" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Uy" toid="U6">
+<distance>6</distance>
+<photo num="5" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Uy" toid="U7">
+<distance>9</distance>
+<photo num="3" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Uy" toid="Dy">
+<distance>7</distance>
+<photo num="2" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="U7" toid="T7">
+<distance>11</distance>
+<photo num="3" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="U7" toid="Uy">
+<distance>9</distance>
+<photo num="3" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="U7" toid="D7">
+<distance>9</distance>
+<photo num="4" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Dy" toid="Uy">
+<distance>7</distance>
+<photo num="2" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="D7" toid="U7">
+<distance>9</distance>
+<photo num="4" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="D7" toid="D8">
+<distance>23</distance>
+<photo num="7" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="D7" toid="V7">
+<distance>11</distance>
+<photo num="4" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="D8" toid="D7">
+<distance>23</distance>
+<photo num="6" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="D8" toid="Da">
+<distance>26</distance>
+<photo num="8" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="D8" toid="V8">
+<distance>6</distance>
+<photo num="0" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Da" toid="Sa">
+<distance>37</distance>
+<photo num="9" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Da" toid="D8">
+<distance>26</distance>
+<photo num="7" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Da" toid="Dc">
+<distance>61</distance>
+<photo num="19" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Da" toid="Va">
+<distance>6</distance>
+<photo num="0" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Dc" toid="Tc">
+<distance>32</distance>
+<photo num="9" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Dc" toid="Da">
+<distance>61</distance>
+<photo num="16" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Dc" toid="Vc">
+<distance>7</distance>
+<photo num="0" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="V2" toid="U2">
+<distance>25</distance>
+<photo num="7" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="V2" toid="V3">
+<distance>42</distance>
+<photo num="10" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="V3" toid="U3">
+<distance>26</distance>
+<photo num="6" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="V3" toid="V2">
+<distance>42</distance>
+<photo num="10" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="V3" toid="V4">
+<distance>16</distance>
+<photo num="5" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="V4" toid="V3">
+<distance>16</distance>
+<photo num="5" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="V4" toid="V5">
+<distance>18</distance>
+<photo num="5" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="V5" toid="U5">
+<distance>29</distance>
+<photo num="7" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="V5" toid="V4">
+<distance>18</distance>
+<photo num="6" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="V5" toid="V7">
+<distance>23</distance>
+<photo num="5" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="V7" toid="D7">
+<distance>11</distance>
+<photo num="4" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="V7" toid="V5">
+<distance>23</distance>
+<photo num="4" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="V7" toid="V8">
+<distance>25</distance>
+<photo num="7" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="V8" toid="D8">
+<distance>6</distance>
+<photo num="0" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="V8" toid="V7">
+<distance>25</distance>
+<photo num="7" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="V8" toid="Va">
+<distance>26</distance>
+<photo num="6" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="V8" toid="W8">
+<distance>14</distance>
+<photo num="3" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Va" toid="Da">
+<distance>6</distance>
+<photo num="0" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Va" toid="V8">
+<distance>26</distance>
+<photo num="5" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Va" toid="Vc">
+<distance>61</distance>
+<photo num="12" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Vc" toid="Dc">
+<distance>7</distance>
+<photo num="0" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Vc" toid="Va">
+<distance>61</distance>
+<photo num="12" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Vc" toid="Xc">
+<distance>31</distance>
+<photo num="6" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="W8" toid="V8">
+<distance>14</distance>
+<photo num="3" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="W8" toid="X8">
+<distance>21</distance>
+<photo num="4" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="X8" toid="W8">
+<distance>21</distance>
+<photo num="5" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="X8" toid="X9">
+<distance>10</distance>
+<photo num="2" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="X8" toid="Y8">
+<distance>35</distance>
+<photo num="4" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="X9" toid="X8">
+<distance>10</distance>
+<photo num="2" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="X9" toid="Xc">
+<distance>81</distance>
+<photo num="18" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="X9" toid="Y9">
+<distance>36</distance>
+<photo num="5" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Xc" toid="Vc">
+<distance>31</distance>
+<photo num="6" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Xc" toid="X9">
+<distance>81</distance>
+<photo num="17" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Xc" toid="Bc">
+<distance>69</distance>
+<photo num="14" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Y8" toid="X8">
+<distance>35</distance>
+<photo num="5" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Y8" toid="Y9">
+<distance>14</distance>
+<photo num="2" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Y8" toid="Z8">
+<distance>11</distance>
+<photo num="5" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Y9" toid="X9">
+<distance>36</distance>
+<photo num="5" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Y9" toid="Y8">
+<distance>14</distance>
+<photo num="2" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Y9" toid="Z9">
+<distance>10</distance>
+<photo num="4" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Z8" toid="Y8">
+<distance>11</distance>
+<photo num="5" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Z8" toid="Z9">
+<distance>16</distance>
+<photo num="3" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Z8" toid="B8">
+<distance>28</distance>
+<photo num="6" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Z9" toid="Y9">
+<distance>10</distance>
+<photo num="5" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Z9" toid="Z8">
+<distance>16</distance>
+<photo num="3" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Z9" toid="B9">
+<distance>23</distance>
+<photo num="5" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="B8" toid="Z8">
+<distance>28</distance>
+<photo num="6" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="B8" toid="B9">
+<distance>17</distance>
+<photo num="3" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="B9" toid="Z9">
+<distance>23</distance>
+<photo num="4" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="B9" toid="B8">
+<distance>17</distance>
+<photo num="3" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="B9" toid="Ba">
+<distance>57</distance>
+<photo num="6" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Ba" toid="B9">
+<distance>57</distance>
+<photo num="7" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Ba" toid="Bc">
+<distance>37</distance>
+<photo num="12" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Bc" toid="Xc">
+<distance>69</distance>
+<photo num="14" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+<path fromid="Bc" toid="Ba">
+<distance>37</distance>
+<photo num="12" season="spring" weather="fine" date="2003/5/16">
+<dir>..\simada\pata</dir>
+</photo>
+</path>
+
+
+
+<point>
+<pos>725,1189</pos>
+<icon>..\simada\poi\エヘン.gif</icon>
+<img>..\simada\poi\エヘン.jpg</img>
+<txt>..\simada\poi\エヘン.txt</txt>
+</point>
+<point>
+<pos>668,1137</pos>
+<icon>..\simada\poi\お宮.gif</icon>
+<img>..\simada\poi\お宮.jpg</img>
+<txt>..\simada\poi\お宮.txt</txt>
+</point>
+<point>
+<pos>929,970</pos>
+<icon>..\simada\poi\工場.gif</icon>
+<img>..\simada\poi\工場.jpg</img>
+<txt>..\simada\poi\工場.txt</txt>
+</point>
+<point>
+<pos>273,965</pos>
+<icon>..\simada\poi\高橋.gif</icon>
+<img>..\simada\poi\高橋.jpg</img>
+<txt>..\simada\poi\高橋.txt</txt>
+</point>
+<point>
+<pos>669,1195</pos>
+<icon>..\simada\poi\生家跡.gif</icon>
+<img>..\simada\poi\生家跡.jpg</img>
+<txt>..\simada\poi\生家跡.txt</txt>
+</point>
+<point>
+<pos>1613,200</pos>
+<icon>..\simada\poi\石井小.gif</icon>
+<img>..\simada\poi\石井小.jpg</img>
+<txt>..\simada\poi\石井小.txt</txt>
+</point>
+<point>
+<pos>899,940</pos>
+<icon>..\simada\poi\大川の橋.gif</icon>
+<img>..\simada\poi\大川の橋.jpg</img>
+<txt>..\simada\poi\大川の橋.txt</txt>
+</point>
+<point>
+<pos>737,1119</pos>
+<icon>..\simada\poi\本家.gif</icon>
+<img>..\simada\poi\本家.jpg</img>
+<txt>..\simada\poi\本家.txt</txt>
+</point>
+<point>
+<pos>865,941</pos>
+<icon>..\simada\poi\大川.gif</icon>
+<img>..\simada\poi\大川.jpg</img>
+<txt>..\simada\poi\大川.txt</txt>
+</point>
+<point>
+<pos>790,1380</pos>
+<icon>..\simada\poi\十三川.gif</icon>
+<img>..\simada\poi\十三川.jpg</img>
+<txt>..\simada\poi\十三川.txt</txt>
+</point>
+<point>
+<pos>652,1114</pos>
+<icon>..\simada\poi\石碑.gif</icon>
+<img>..\simada\poi\石碑.jpg</img>
+<txt>..\simada\poi\石碑.txt</txt>
+</point>
+<point>
+<pos>1097,277</pos>
+<icon>..\simada\poi\石碑2.gif</icon>
+<img>..\simada\poi\石碑2.jpg</img>
+<txt>..\simada\poi\石碑2.txt</txt>
+</point>
+
+
+
+<scene id="0">
+<name>十三川</name>
+<pos mode="start">B9</pos>
+<pos mode="end">B9:L15</pos>
+</scene>
+<scene id="1">
+<name>大川</name>
+<pos mode="start">Qa</pos>
+<pos mode="end">Qa:L17</pos>
+</scene>
+<scene id="2">
+<name>生家</name>
+<pos mode="start">V7</pos>
+<pos mode="end">V7:L01</pos>
+</scene>
+<scene id="3">
+<name>本家</name>
+<pos mode="start">V8</pos>
+<pos mode="end">V8:L04</pos>
+</scene>
+<scene id="4">
+<name>お宮</name>
+<pos mode="start">Uy</pos>
+<pos mode="end">Uy:L07</pos>
+</scene>
+<scene id="5">
+<name>高橋</name>
+<pos mode="start">Q1</pos>
+<pos mode="end">Q1:L13</pos>
+</scene>
+<scene id="6">
+<name>工場</name>
+<pos mode="start">Rc</pos>
+<pos mode="end">Rc:L02</pos>
+</scene>
+<scene id="7">
+<name>石井小</name>
+<pos mode="start">Ik</pos>
+<pos mode="end">Ik:L08</pos>
+</scene>
+<scene id="8">
+<name>エヘン</name>
+<pos mode="start">Va</pos>
+<pos mode="end">Va:L03</pos>
+</scene>
+<scene id="9">
+<name>散策</name>
+<pos mode="start">V7</pos>
+<pos mode="skip">D7</pos>
+<pos mode="skip">U7</pos>
+<pos mode="skip">Uy</pos>
+<pos mode="skip">U6</pos>
+<pos mode="skip">U5</pos>
+<pos mode="skip">V5</pos>
+<pos mode="skip">V4</pos>
+<pos mode="skip">V3</pos>
+<pos mode="end">U3</pos>
+</scene>
+
+</data>

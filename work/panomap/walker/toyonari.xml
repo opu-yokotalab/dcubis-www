@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="Shift_JIS"?>
+<data>
+  <mapinfo mid="MAP11">
+    <mapimg>toyonari5.gif</mapimg>
+    <initid>P0</initid>
+    <initmuki>D1</initmuki>
+  </mapinfo>
+  <pano id="P0">
+    <map id="XX">
+      <pos>256,88</pos>
+    </map>
+    <inf/>
+    <photo date="default" season="default" weather="default">
+      <panomuki>263</panomuki>
+      <dir>..&#x5c;toyonari&#x5c;pano</dir>
+      <file>P0-00.jpg</file>
+      <size>1915,228</size>
+      <pata toid="P1">
+        <area>1863,71,48,171</area>
+      </pata>
+      <link id="D1">
+        <area>1672,20,1672,20</area>
+        <object>xxx.jpg</object>
+      </link>
+    </photo>
+  </pano>
+  <pano id="P1">
+    <map id="XX">
+      <pos>253,107</pos>
+    </map>
+    <inf/>
+    <photo date="default" season="default" weather="default">
+      <panomuki>300</panomuki>
+      <dir>..&#x5c;toyonari&#x5c;pano</dir>
+      <file>P1-00.jpg</file>
+      <size>1917,227</size>
+      <pata toid="P0">
+        <area>1110,70,1210,170</area>
+      </pata>
+      <pata toid="M1">
+        <area>750,62,850,162</area>
+      </pata>
+    </photo>
+  </pano>
+  <pano id="M1">
+    <map id="XX">
+      <pos>200,76</pos>
+    </map>
+    <inf/>
+    <photo date="default" season="default" weather="default">
+      <panomuki>115</panomuki>
+      <dir>..&#x5c;toyonari&#x5c;pano</dir>
+      <file>M1-00.jpg</file>
+      <size>1916,228</size>
+      <pata toid="P1">
+        <area>706,60,806,160</area>
+      </pata>
+      <pata toid="K1">
+        <area>1652,68,1752,168</area>
+      </pata>
+    </photo>
+  </pano>
+  <pano id="K1">
+    <map id="XX">
+      <pos>174,63</pos>
+    </map>
+    <inf/>
+    <photo date="default" season="default" weather="default">
+      <panomuki>18</panomuki>
+      <dir>..&#x5c;toyonari&#x5c;pano</dir>
+      <file>K1-00.jpg</file>
+      <size>1915,227</size>
+      <pata toid="M1">
+        <area>159,69,259,169</area>
+      </pata>
+      <pata toid="K3">
+        <area>581,72,681,172</area>
+      </pata>
+      <link id="L01">
+        <area>961,60,1010,117</area>
+        <object>..&#x5c;toyonari&#x5c;link&#x5c;E6-03.jpg</object>
+      </link>
+    </photo>
+  </pano>
+  <pano id="K3">
+    <map id="XX">
+      <pos>167,94</pos>
+    </map>
+    <inf/>
+    <photo date="default" season="default" weather="default">
+      <panomuki>145</panomuki>
+      <dir>..&#x5c;toyonari&#x5c;pano</dir>
+      <file>K3-00.jpg</file>
+      <size>1916,226</size>
+      <pata toid="K1">
+        <area>364,62,464,162</area>
+      </pata>
+      <pata toid="E3">
+        <area>1751,66,1851,166</area>
+      </pata>
+    </photo>
+  </pano>
+  <pano id="E3">
+    <map id="XX">
+      <pos>79,67</pos>
+    </map>
+    <inf/>
+    <photo date="default" season="default" weather="default">
+      <panomuki>345</panomuki>
+      <dir>..&#x5c;toyonari&#x5c;pano</dir>
+      <file>E3-00.jpg</file>
+      <size>1918,227</size>
+      <pata toid="K3">
+        <area>1855,61,37,161</area>
+      </pata>
+      <pata toid="E5">
+        <area>414,69,514,169</area>
+      </pata>
+    </photo>
+  </pano>
+  <pano id="E5">
+    <map id="XX">
+      <pos>71,108</pos>
+    </map>
+    <inf/>
+    <photo date="default" season="default" weather="default">
+      <panomuki>157</panomuki>
+      <dir>..&#x5c;toyonari&#x5c;pano</dir>
+      <file>E5-00.jpg</file>
+      <size>1916,228</size>
+      <pata toid="E3">
+        <area>360,69,460,169</area>
+      </pata>
+      <pata toid="E6">
+        <area>1333,77,1433,177</area>
+      </pata>
+    </photo>
+  </pano>
+  <pano id="E6">
+    <map id="XX">
+      <pos>68,123</pos>
+    </map>
+    <inf/>
+    <photo date="default" season="default" weather="default">
+      <panomuki>296</panomuki>
+      <dir>..&#x5c;toyonari&#x5c;pano</dir>
+      <file>E6-00.jpg</file>
+      <size>1918,227</size>
+      <pata toid="E5">
+        <area>1120,75,1220,175</area>
+      </pata>
+      <link id="L02">
+        <area>625,2,773,151</area>
+        <object>..&#x5c;toyonari&#x5c;link&#x5c;E6-03.jpg</object>
+      </link>
+    </photo>
+  </pano>
+  <path fromid="P0" toid="P1">
+    <distance/>
+    <photo date="default" num="5" season="default" weather="default">
+      <dir>..&#x5c;toyonari&#x5c;pata</dir>
+      <pre/>
+    </photo>
+  </path>
+  <path fromid="P1" toid="P0">
+    <distance/>
+    <photo date="default" num="5" season="default" weather="default">
+      <dir>..&#x5c;toyonari&#x5c;pata</dir>
+      <pre/>
+    </photo>
+  </path>
+  <path fromid="P1" toid="M1">
+    <distance/>
+    <photo date="default" num="37" season="default" weather="default">
+      <dir>..&#x5c;toyonari&#x5c;pata</dir>
+      <pre/>
+    </photo>
+  </path>
+  <path fromid="M1" toid="P1">
+    <distance/>
+    <photo date="default" num="38" season="default" weather="default">
+      <dir>..&#x5c;toyonari&#x5c;pata</dir>
+      <pre/>
+    </photo>
+  </path>
+  <path fromid="M1" toid="K1">
+    <distance/>
+    <photo date="default" num="14" season="default" weather="default">
+      <dir>..&#x5c;toyonari&#x5c;pata</dir>
+      <pre/>
+    </photo>
+  </path>
+  <path fromid="K1" toid="M1">
+    <distance/>
+    <photo date="default" num="14" season="default" weather="default">
+      <dir>..&#x5c;toyonari&#x5c;pata</dir>
+      <pre/>
+    </photo>
+  </path>
+  <path fromid="K3" toid="K1">
+    <distance/>
+    <photo date="default" num="12" season="default" weather="default">
+      <dir>..&#x5c;toyonari&#x5c;pata</dir>
+      <pre/>
+    </photo>
+  </path>
+  <path fromid="K1" toid="K3">
+    <distance/>
+    <photo date="default" num="12" season="default" weather="default">
+      <dir>..&#x5c;toyonari&#x5c;pata</dir>
+      <pre/>
+    </photo>
+  </path>
+  <path fromid="K3" toid="E3">
+    <distance/>
+    <photo date="default" num="55" season="default" weather="default">
+      <dir>..&#x5c;toyonari&#x5c;pata</dir>
+      <pre/>
+    </photo>
+  </path>
+  <path fromid="E3" toid="K3">
+    <distance/>
+    <photo date="default" num="54" season="default" weather="default">
+      <dir>..&#x5c;toyonari&#x5c;pata</dir>
+      <pre/>
+    </photo>
+  </path>
+  <path fromid="E3" toid="E5">
+    <distance/>
+    <photo date="default" num="23" season="default" weather="default">
+      <dir>..&#x5c;toyonari&#x5c;pata</dir>
+      <pre/>
+    </photo>
+  </path>
+  <path fromid="E5" toid="E3">
+    <distance/>
+    <photo date="default" num="24" season="default" weather="default">
+      <dir>..&#x5c;toyonari&#x5c;pata</dir>
+      <pre/>
+    </photo>
+  </path>
+  <path fromid="E5" toid="E6">
+    <distance/>
+    <photo date="default" num="5" season="default" weather="default">
+      <dir>..&#x5c;toyonari&#x5c;pata</dir>
+      <pre/>
+    </photo>
+  </path>
+  <path fromid="E6" toid="E5">
+    <distance/>
+    <photo date="default" num="3" season="default" weather="default">
+      <dir>..&#x5c;toyonari&#x5c;pata</dir>
+      <pre/>
+    </photo>
+  </path>
+  <scene id="S1">
+    <name>新福バス停→会社</name>
+    <pos mode="start">P0</pos>
+    <pos mode="skip" msg1="新福バス停から南方向の&#x2026;" msg2="横断歩道まで進みます">P1</pos>
+    <pos mode="skip" msg1="横断歩道を渡って&#x2026;" msg2="しばらく直進します">M1</pos>
+    <pos mode="stop" msg1="そのまままっすぐ&#x2026;" msg2="直進します" msg3="ここから両備システムズが見えます">K1:L01</pos>
+    <pos mode="skip" msg1="ここの角を左折します" msg2="">K3</pos>
+    <pos mode="skip" msg1="最初の角を右折して&#x2026;" msg2="直進します">E3</pos>
+    <pos mode="skip" msg1="マンションの手前を左折して&#x2026;" msg2="直進します">E5</pos>
+    <pos mode="end" msg1="そのまままっすぐ&#x2026;" msg2="進んで&#x2026;" msg3="正面からお入りください">E6:L02</pos>
+  </scene>
+  <scene id="S3">
+    <name>会社</name>
+    <pos mode="start">E6</pos>
+    <pos mode="end">E6:L02</pos>
+  </scene>
+  <scene id="S4">
+    <name>新福バス停</name>
+    <pos mode="start">P0</pos>
+  </scene>
+  <pano id="AA">
+    <map id="XX">
+      <pos>336,125</pos>
+    </map>
+    <inf/>
+    <photo date="default" season="default" weather="default"/>
+  </pano>
+</data>

@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="Shift_JIS"?>
+<data>
+  <mapinfo mid="MAP01">
+    <mapimg>kenkou4.gif</mapimg>
+    <initid>CM</initid>
+    <initmuki>IM</initmuki>
+  </mapinfo>
+  <pano id="IK">
+    <map id="MAP01">
+      <pos>10,100</pos>
+    </map>
+    <photo>
+      <panomuki>22</panomuki>
+      <dir>..&#x5c;kenkou</dir>
+      <file>4-IK-00.jpg</file>
+      <pata toid="IM">
+        <area>70,57,170,157</area>
+      </pata>
+    </photo>
+  </pano>
+  <pano id="IM">
+    <map id="MAP01">
+      <pos>29,100</pos>
+    </map>
+    <photo>
+      <panomuki>23</panomuki>
+      <dir>..&#x5c;kenkou</dir>
+      <file>4-IM-00.jpg</file>
+      <pata toid="IK">
+        <area>1030,57,1130,157</area>
+      </pata>
+      <pata toid="IO">
+        <area>60,57,160,157</area>
+      </pata>
+      <pata toid="CM">
+        <area>550,57,650,157</area>
+      </pata>
+    </photo>
+  </pano>
+  <pano id="IO">
+    <map id="MAP01">
+      <pos>47,100</pos>
+    </map>
+    <photo>
+      <panomuki>14</panomuki>
+      <dir>..&#x5c;kenkou</dir>
+      <file>4-IO-00.jpg</file>
+      <pata toid="IM">
+        <area>990,57,1090,157</area>
+      </pata>
+      <pata toid="IP">
+        <area>30,57,130,157</area>
+      </pata>
+      <warp id="W01">
+        <area>1565,122,1582,142</area>
+        <object>kenkou1.xml</object>
+        <initid>IP</initid>
+        <initmuki>CP</initmuki>
+      </warp>
+      <pata toid="EVT4">
+        <area>1503,80,1550,178</area>
+      </pata>
+      <size>1924,228</size>
+    </photo>
+    <inf/>
+  </pano>
+  <pano id="IP">
+    <map id="MAP01">
+      <pos>80,100</pos>
+    </map>
+    <photo>
+      <panomuki>111</panomuki>
+      <dir>..&#x5c;kenkou</dir>
+      <file>4-IP-00.jpg</file>
+      <pata toid="IO">
+        <area>1500,57,1600,157</area>
+      </pata>
+      <pata toid="IQ">
+        <area>550,57,650,157</area>
+      </pata>
+    </photo>
+  </pano>
+  <pano id="IQ">
+    <map id="MAP01">
+      <pos>110,100</pos>
+    </map>
+    <photo>
+      <panomuki>22</panomuki>
+      <dir>..&#x5c;kenkou</dir>
+      <file>4-IQ-00.jpg</file>
+      <pata toid="IP">
+        <area>1020,57,1120,157</area>
+      </pata>
+      <pata toid="IT">
+        <area>50,57,150,157</area>
+      </pata>
+      <pata toid="EQ">
+        <area>510,57,610,157</area>
+      </pata>
+    </photo>
+  </pano>
+  <pano id="IT">
+    <map id="MAP01">
+      <pos>127,100</pos>
+    </map>
+    <photo>
+      <panomuki>26</panomuki>
+      <dir>..&#x5c;kenkou</dir>
+      <file>4-IT-00.jpg</file>
+      <pata toid="IQ">
+        <area>1050,57,1150,157</area>
+      </pata>
+      <pata toid="IX">
+        <area>80,57,180,157</area>
+      </pata>
+    </photo>
+  </pano>
+  <pano id="IX">
+    <map id="MAP01">
+      <pos>206,100</pos>
+    </map>
+    <photo>
+      <panomuki>25</panomuki>
+      <dir>..&#x5c;kenkou</dir>
+      <file>4-IX-00.jpg</file>
+      <pata toid="IT">
+        <area>1040,57,1140,157</area>
+      </pata>
+      <pata toid="IZ">
+        <area>80,57,180,157</area>
+      </pata>
+      <pata toid="EX">
+        <area>570,57,670,157</area>
+      </pata>
+    </photo>
+  </pano>
+  <pano id="IZ">
+    <map id="MAP01">
+      <pos>230,100</pos>
+    </map>
+    <photo>
+      <panomuki>24</panomuki>
+      <dir>..&#x5c;kenkou</dir>
+      <file>4-IZ-00.jpg</file>
+      <pata toid="IX">
+        <area>1040,57,1140,157</area>
+      </pata>
+    </photo>
+  </pano>
+  <pano id="EQ">
+    <map id="MAP01">
+      <pos>110,144</pos>
+    </map>
+    <photo>
+      <panomuki>205</panomuki>
+      <dir>..&#x5c;kenkou</dir>
+      <file>4-EQ-00.jpg</file>
+      <pata toid="IQ">
+        <area>570,57,670,157</area>
+      </pata>
+      <pata toid="EV">
+        <area>1020,57,1120,157</area>
+      </pata>
+      <pata toid="CQ">
+        <area>1530,57,1630,157</area>
+      </pata>
+    </photo>
+  </pano>
+  <pano id="EV">
+    <map id="MAP01">
+      <pos>160,140</pos>
+    </map>
+    <photo>
+      <panomuki>201</panomuki>
+      <dir>..&#x5c;kenkou</dir>
+      <file>4-EV-00.jpg</file>
+      <pata toid="EQ">
+        <area>40,57,140,157</area>
+      </pata>
+      <pata toid="EX">
+        <area>990,57,1090,157</area>
+      </pata>
+    </photo>
+  </pano>
+  <pano id="EX">
+    <map id="MAP01">
+      <pos>206,124</pos>
+    </map>
+    <photo>
+      <panomuki>220</panomuki>
+      <dir>..&#x5c;kenkou</dir>
+      <file>4-EX-00.jpg</file>
+      <pata toid="IX">
+        <area>630,57,730,157</area>
+      </pata>
+      <pata toid="EV">
+        <area>80,57,180,157</area>
+      </pata>
+    </photo>
+  </pano>
+  <pano id="CM">
+    <map id="MAP01">
+      <pos>29,172</pos>
+    </map>
+    <photo>
+      <panomuki>108</panomuki>
+      <dir>..&#x5c;kenkou</dir>
+      <file>4-CM-00.jpg</file>
+      <pata toid="IM">
+        <area>50,57,150,157</area>
+      </pata>
+      <pata toid="CP">
+        <area>520,57,620,157</area>
+      </pata>
+      <pata toid="AM">
+        <area>1020,57,1120,157</area>
+      </pata>
+    </photo>
+  </pano>
+  <pano id="CP">
+    <map id="MAP01">
+      <pos>80,172</pos>
+    </map>
+    <photo>
+      <panomuki>109</panomuki>
+      <dir>..&#x5c;kenkou</dir>
+      <file>4-CP-00.jpg</file>
+      <pata toid="CM">
+        <area>1490,57,1590,157</area>
+      </pata>
+      <pata toid="CQ">
+        <area>530,57,630,157</area>
+      </pata>
+    </photo>
+  </pano>
+  <pano id="CQ">
+    <map id="MAP01">
+      <pos>110,172</pos>
+    </map>
+    <photo>
+      <panomuki>198</panomuki>
+      <dir>..&#x5c;kenkou</dir>
+      <file>4-CQ-00.jpg</file>
+      <pata toid="AQ">
+        <area>1510,57,1610,157</area>
+      </pata>
+      <pata toid="CP">
+        <area>50,57,150,157</area>
+      </pata>
+      <pata toid="EQ">
+        <area>530,57,630,157</area>
+      </pata>
+    </photo>
+  </pano>
+  <pano id="AM">
+    <map id="MAP01">
+      <pos>29,202</pos>
+    </map>
+    <photo>
+      <panomuki>280</panomuki>
+      <dir>..&#x5c;kenkou</dir>
+      <file>4-AM-00.jpg</file>
+      <pata toid="CM">
+        <area>970,57,1070,157</area>
+      </pata>
+    </photo>
+  </pano>
+  <pano id="AQ">
+    <map id="MAP01">
+      <pos>110,202</pos>
+    </map>
+    <photo>
+      <panomuki>267</panomuki>
+      <dir>..&#x5c;kenkou</dir>
+      <file>4-AQ-00.jpg</file>
+      <pata toid="CQ">
+        <area>890,57,990,157</area>
+      </pata>
+    </photo>
+  </pano>
+  <path fromid="IK" toid="IM">
+    <distance>9</distance>
+    <photo num="2">
+      <dir>..&#x5c;kenkou</dir>
+      <pre>4-IK-IM-</pre>
+    </photo>
+  </path>
+  <path fromid="IM" toid="IK">
+    <distance>9</distance>
+    <photo num="3">
+      <dir>..&#x5c;kenkou</dir>
+      <pre>4-IM-IK-</pre>
+    </photo>
+  </path>
+  <path fromid="IM" toid="IO">
+    <distance>9</distance>
+    <photo num="2">
+      <dir>..&#x5c;kenkou</dir>
+      <pre>4-IM-IO-</pre>
+    </photo>
+  </path>
+  <path fromid="IM" toid="CM">
+    <distance>36</distance>
+    <photo num="6">
+      <dir>..&#x5c;kenkou</dir>
+      <pre>4-IM-CM-</pre>
+    </photo>
+  </path>
+  <path fromid="IO" toid="IM">
+    <distance>9</distance>
+    <photo num="1">
+      <dir>..&#x5c;kenkou</dir>
+      <pre>4-IO-IM-</pre>
+    </photo>
+  </path>
+  <path fromid="IO" toid="IP">
+    <distance>16</distance>
+    <photo num="3">
+      <dir>..&#x5c;kenkou</dir>
+      <pre>4-IO-IP-</pre>
+    </photo>
+  </path>
+  <path fromid="IP" toid="IO">
+    <distance>16</distance>
+    <photo num="2">
+      <dir>..&#x5c;kenkou</dir>
+      <pre>4-IP-IO-</pre>
+    </photo>
+  </path>
+  <path fromid="IP" toid="IQ">
+    <distance>15</distance>
+    <photo num="3">
+      <dir>..&#x5c;kenkou</dir>
+      <pre>4-IP-IQ-</pre>
+    </photo>
+  </path>
+  <path fromid="IQ" toid="IP">
+    <distance>15</distance>
+    <photo num="3">
+      <dir>..&#x5c;kenkou</dir>
+      <pre>4-IQ-IP-</pre>
+    </photo>
+  </path>
+  <path fromid="IQ" toid="IT">
+    <distance>8</distance>
+    <photo num="2">
+      <dir>..&#x5c;kenkou</dir>
+      <pre>4-IQ-IT-</pre>
+    </photo>
+  </path>
+  <path fromid="IQ" toid="EQ">
+    <distance>22</distance>
+    <photo num="4">
+      <dir>..&#x5c;kenkou</dir>
+      <pre>4-IQ-EQ-</pre>
+    </photo>
+  </path>
+  <path fromid="IT" toid="IQ">
+    <distance>8</distance>
+    <photo num="2">
+      <dir>..&#x5c;kenkou</dir>
+      <pre>4-IT-IQ-</pre>
+    </photo>
+  </path>
+  <path fromid="IT" toid="IX">
+    <distance>39</distance>
+    <photo num="10">
+      <dir>..&#x5c;kenkou</dir>
+      <pre>4-IT-IX-</pre>
+    </photo>
+  </path>
+  <path fromid="IX" toid="IT">
+    <distance>39</distance>
+    <photo num="10">
+      <dir>..&#x5c;kenkou</dir>
+      <pre>4-IX-IT-</pre>
+    </photo>
+  </path>
+  <path fromid="IX" toid="IZ">
+    <distance>12</distance>
+    <photo num="3">
+      <dir>..&#x5c;kenkou</dir>
+      <pre>4-IX-IZ-</pre>
+    </photo>
+  </path>
+  <path fromid="IX" toid="EX">
+    <distance>12</distance>
+    <photo num="2">
+      <dir>..&#x5c;kenkou</dir>
+      <pre>4-IX-EX-</pre>
+    </photo>
+  </path>
+  <path fromid="IZ" toid="IX">
+    <distance>12</distance>
+    <photo num="3">
+      <dir>..&#x5c;kenkou</dir>
+      <pre>4-IZ-IX-</pre>
+    </photo>
+  </path>
+  <path fromid="EQ" toid="IQ">
+    <distance>22</distance>
+    <photo num="5">
+      <dir>..&#x5c;kenkou</dir>
+      <pre>4-EQ-IQ-</pre>
+    </photo>
+  </path>
+  <path fromid="EQ" toid="EV">
+    <distance>25</distance>
+    <photo num="6">
+      <dir>..&#x5c;kenkou</dir>
+      <pre>4-EQ-EV-</pre>
+    </photo>
+  </path>
+  <path fromid="EQ" toid="CQ">
+    <distance>14</distance>
+    <photo num="2">
+      <dir>..&#x5c;kenkou</dir>
+      <pre>4-EQ-CQ-</pre>
+    </photo>
+  </path>
+  <path fromid="EV" toid="EQ">
+    <distance>25</distance>
+    <photo num="2">
+      <dir>..&#x5c;kenkou</dir>
+      <pre>4-EV-EQ-</pre>
+    </photo>
+  </path>
+  <path fromid="EV" toid="EX">
+    <distance>24</distance>
+    <photo num="6">
+      <dir>..&#x5c;kenkou</dir>
+      <pre>4-EV-EX-</pre>
+    </photo>
+  </path>
+  <path fromid="EX" toid="IX">
+    <distance>12</distance>
+    <photo num="2">
+      <dir>..&#x5c;kenkou</dir>
+      <pre>4-EX-IX-</pre>
+    </photo>
+  </path>
+  <path fromid="EX" toid="EV">
+    <distance>24</distance>
+    <photo num="6">
+      <dir>..&#x5c;kenkou</dir>
+      <pre>4-EX-EV-</pre>
+    </photo>
+  </path>
+  <path fromid="CM" toid="IM">
+    <distance>36</distance>
+    <photo num="5">
+      <dir>..&#x5c;kenkou</dir>
+      <pre>4-CM-IM-</pre>
+    </photo>
+  </path>
+  <path fromid="CM" toid="CP">
+    <distance>25</distance>
+    <photo num="4">
+      <dir>..&#x5c;kenkou</dir>
+      <pre>4-CM-CP-</pre>
+    </photo>
+  </path>
+  <path fromid="CM" toid="AM">
+    <distance>15</distance>
+    <photo num="3">
+      <dir>..&#x5c;kenkou</dir>
+      <pre>4-CM-AM-</pre>
+    </photo>
+  </path>
+  <path fromid="CP" toid="CM">
+    <distance>25</distance>
+    <photo num="3">
+      <dir>..&#x5c;kenkou</dir>
+      <pre>4-CP-CM-</pre>
+    </photo>
+  </path>
+  <path fromid="CP" toid="CQ">
+    <distance>15</distance>
+    <photo num="3">
+      <dir>..&#x5c;kenkou</dir>
+      <pre>4-CP-CQ-</pre>
+    </photo>
+  </path>
+  <path fromid="CQ" toid="EQ">
+    <distance>14</distance>
+    <photo num="2">
+      <dir>..&#x5c;kenkou</dir>
+      <pre>4-CQ-EQ-</pre>
+    </photo>
+  </path>
+  <path fromid="CQ" toid="CP">
+    <distance>15</distance>
+    <photo num="3">
+      <dir>..&#x5c;kenkou</dir>
+      <pre>4-CQ-CP-</pre>
+    </photo>
+  </path>
+  <path fromid="CQ" toid="AQ">
+    <distance>15</distance>
+    <photo num="2">
+      <dir>..&#x5c;kenkou</dir>
+      <pre>4-CQ-AQ-</pre>
+    </photo>
+  </path>
+  <path fromid="AM" toid="CM">
+    <distance>15</distance>
+    <photo num="3">
+      <dir>..&#x5c;kenkou</dir>
+      <pre>4-AM-CM-</pre>
+    </photo>
+  </path>
+  <path fromid="AQ" toid="CQ">
+    <distance>15</distance>
+    <photo num="3">
+      <dir>..&#x5c;kenkou</dir>
+      <pre>4-AQ-CQ-</pre>
+    </photo>
+  </path>
+  <scene id="0">
+    <name>行き</name>
+    <pos mode="start">IO</pos>
+    <pos mode="skip">IP</pos>
+    <pos mode="skip">IQ</pos>
+    <pos mode="skip">EQ</pos>
+    <pos mode="end">EV</pos>
+  </scene>
+  <scene id="1">
+    <name>帰り</name>
+    <pos mode="start">EV</pos>
+    <pos mode="skip">EX</pos>
+    <pos mode="skip">IX</pos>
+    <pos mode="skip">IT</pos>
+    <pos mode="skip">IQ</pos>
+    <pos mode="skip">IP</pos>
+    <pos mode="end">IO</pos>
+  </scene>
+  <pano id="EVT4">
+    <map id="XX">
+      <pos>45,72</pos>
+    </map>
+    <inf/>
+    <photo date="default" season="default" weather="default">
+      <panomuki>275</panomuki>
+      <dir>..&#x5c;kenkou</dir>
+      <file>EVT4-00.jpg</file>
+      <size>1600,240</size>
+      <pata toid="IO">
+        <area>1494,27,106,212</area>
+      </pata>
+      <warp id="W001">
+        <area>161,154,179,172</area>
+        <object>kenkou1.xml</object>
+        <initid>EVT1</initid>
+        <initmuki>IP</initmuki>
+      </warp>
+    </photo>
+  </pano>
+  <path fromid="IO" toid="EVT4">
+    <distance/>
+    <photo date="default" num="0" season="default" weather="default">
+      <dir/>
+      <pre/>
+    </photo>
+  </path>
+  <path fromid="EVT4" toid="IO">
+    <distance/>
+    <photo date="default" num="0" season="default" weather="default">
+      <dir/>
+      <pre/>
+    </photo>
+  </path>
+</data>

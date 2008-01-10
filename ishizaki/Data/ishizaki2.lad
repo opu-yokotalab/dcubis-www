@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="Shift_JIS" ?>
+<layout>
+
+    <wall roomID="room27" direction="front">
+	<showcase location="(0,0)" size="(640,480)">
+	<img oid="s001"/>
+	</showcase>
+    </wall>
+
+    <wall roomID="room27" direction="left">
+	
+    </wall>
+
+    <wall roomID="room27" direction="frontLeft">
+    </wall>
+
+    <wall name="four">
+    </wall>
+
+    <wall name="five">
+	
+    </wall>
+
+    <wall name="six">
+	
+    </wall>
+
+    <wall name="two">
+    </wall>
+
+    <wall name="one">
+	
+    </wall>
+
+    <wall name="three">
+	
+    </wall>
+
+    <wall name="seven">
+    </wall>
+
+    <wall name="eight">
+    </wall>
+
+    <wall name="ten">
+	<light mode="guardman" buttonLocation="(0,0)" buttonSize="(500,500)"/>
+	</wall>
+
+    <wall name="nine">
+	<appear buttonLocation="(0,0)" buttonSize="(100,100)">
+	<showcase location="(190,130)" size="(300,200)">
+	<img oid="s015"/>
+	</showcase>
+	<showcase location="(-190,-130)" size="(300,200)">
+	<img oid="s014"/>
+	</showcase>
+	</appear>
+    </wall>
+
+    <wall name="twelve">
+	<outlink type="movie" buttonLocation="(0,0)" buttonSize="(500,500)" href="http://alpha.c.oka-pu.ac.jp/D-Cubist/"/>
+    </wall>
+
+    <wall name="eleven">
+	<box location="(0,75)" size="(50,50)">
+	<img oid="s013"/>
+	<img oid="s012"/>
+	<img oid="s011"/>
+	<img oid="s010"/>
+	</box>
+    </wall>
+
+    <wall name="thirteen">
+<showcase location="(0,0)" size="(10,700)">
+	<img oid="s009"/>
+	</showcase>
+    </wall>
+
+    <wall name="fourteen">
+	
+	</wall>
+
+    <wall name="sixteen">
+	
+	</wall>
+
+    <wall name="fifteen">
+	<showcase location="(0,0)" size="(500,10)">
+	<img oid="s008"/>
+	</showcase>
+    </wall>
+
+    <wall name="eighteen">
+	<slideshow location="(0,40)" size="(500,500)" buttonLocation="(0,-75)" buttonSize="(50,50)">
+	<img oid="s007"/>
+	<img oid="s006"/>
+	<img oid="s005"/>
+	</slideshow>
+    </wall>
+
+    <wall name="nineteen">
+	<showcase location="(0,0)" size="(700,500)">
+	<img oid="s004"/>
+	</showcase>
+    </wall>
+
+    <wall name="seventeen">
+
+	</wall>
+
+</layout>

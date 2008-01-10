@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="Shift_JIS" ?>
+<contents>
+  <content oid="s001" type="picture" src="./Contents/pic/hanabi/CIMG0073.JPG">
+    <information>岡山の花火</information>
+    <links>
+    </links>
+  </content>
+  <content oid="s002" type="picture" src="./Contents/pic/hanabi/CIMG0077.JPG">
+    <information>岡山の花火(失敗作)</information>
+    <links>
+    </links>
+  </content>
+  <content oid="s003" type="picture" src="./Contents/pic/hanabi/CIMG0079.JPG">
+    <information>岡山の花火(微妙)</information>
+    <links>
+    </links>
+  </content>
+  <content oid="s004" type="picture" src="./Contents/pic/hanabi/CIMG0082.JPG">
+    <information>岡山の花火(まあまあ)</information>
+    <links>
+    </links>
+  </content>
+  <content oid="s005" type="picture" src="./Contents/pic/hanabi/CIMG0085.JPG">
+    <information>岡山の花火(いいかんじなんじゃねぇの)</information>
+    <links>
+    </links>
+  </content>
+  <content oid="s006" type="picture" src="./Contents/pic/hanabi/CIMG0086.JPG">
+    <information>岡山の花火(いまいち)</information>
+    <links>
+    </links>
+  </content>
+  <content oid="s007" type="picture" src="./Contents/pic/hanabi/CIMG0087.JPG">
+    <information>岡山の花火(まあまあ)</information>
+    <links>
+    </links>
+  </content>
+  <content oid="s008" type="picture" src="./Contents/pic/abashiri/CIMG0255.JPG">
+    <information>網走湖</information>
+    <links>
+    </links>
+  </content>
+  <content oid="s009" type="picture" src="./Contents/pic/abashiri/CIMG0256.JPG">
+    <information>網走湖２</information>
+    <links>
+    </links>
+  </content>
+  <content oid="s010" type="picture" src="./Contents/pic/abashiri/CIMG0257.JPG">
+    <information>網走湖、そういえば気温１３℃だった</information>
+    <links>
+      <link href="http://alpha.c.oka-pu.ac.jp/D-Cubis/ishizaki/D-Cubist.htm">type1</link>
+    </links>
+  </content>
+  <content oid="s011" type="picture" src="./Contents/pic/abashiri/CIMG0273.JPG">
+    <information>飛行機</information>
+    <links>
+      <link href="http://alpha.c.oka-pu.ac.jp/D-Cubis/ishizaki/D-Cubist4.htm">type4</link>
+    </links>
+  </content>
+  <content oid="s012" type="picture" src="./Contents/pic/abashiri/CIMG0274.JPG">
+    <information>全日空ホテルの一室</information>
+    <links>
+      <link href="http://alpha.c.oka-pu.ac.jp/D-Cubis/ishizaki/D-Cubist2.htm">type2</link>
+    </links>
+  </content>
+  <content oid="s013" type="picture" src="./Contents/pic/abashiri/CIMG0272.JPG">
+    <information>飛行機JAS</information>
+    <links>
+      <link href="http://alpha.c.oka-pu.ac.jp/D-Cubis/ishizaki/D-Cubist3.htm">type3</link>
+    </links>
+  </content>
+  <content oid="s014" type="picture" src="./Contents/pic/hanabi/CIMG0095.JPG">
+    <information>岡山の花火(微妙)</information>
+    <links>
+    </links>
+  </content>
+  <content oid="s015" type="picture" src="./Contents/pic/hanabi/CIMG0093.JPG">
+    <information>岡山の花火(最悪)</information>
+    <links>
+    </links>
+  </content>
+  <content oid="s016" type="picture" src="./Contents/banner.gif">
+    <information>テストです。動けばいいのになぁ</information>
+    <links>
+    </links>
+  </content>
+</contents>

@@ -1,0 +1,3090 @@
+<?xml version="1.0" encoding="Shift_JIS"?>
+<data>
+
+<mapinfo mid="MAP01">
+<mapimg>map1.gif</mapimg>
+<initid>QM</initid>
+<initmuki>PM</initmuki>
+</mapinfo>
+
+<pano id="WE">
+<map id="MAP01">
+<pos>281,45</pos>
+</map>
+<photo season="winter" weather="default" date="2002/12">
+<panomuki>348</panomuki>
+<dir>..\bikan\pano</dir><file>WE-00.jpg</file>
+<pata toid="WF">
+<area>60,57,160,157</area>
+</pata>
+<pata toid="UE">
+<area>585,57,685,157</area>
+</pata>
+</photo>
+<photo season="winter" weather="wb" date="2002/12">
+<panomuki>348</panomuki>
+<dir>..\bikan\pano\wb</dir><file>WE-00.jpg</file>
+<pata toid="WF">
+<area>60,57,160,157</area>
+</pata>
+<pata toid="UE">
+<area>585,57,685,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="WF">
+<map id="MAP01">
+<pos>318,68</pos>
+</map>
+<photo season="winter" weather="default" date="2002/12">
+<panomuki>65</panomuki>
+<dir>..\bikan\pano</dir><file>WF-00.jpg</file>
+<pata toid="WE">
+<area>1425,57,1525,157</area>
+</pata>
+<pata toid="WG">
+<area>486,57,586,157</area>
+</pata>
+</photo>
+<photo season="winter" weather="wb" date="2002/12">
+<panomuki>65</panomuki>
+<dir>..\bikan\pano\wb</dir><file>WF-00.jpg</file>
+<pata toid="WE">
+<area>1425,57,1525,157</area>
+</pata>
+<pata toid="WG">
+<area>486,57,586,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="WG">
+<map id="MAP01">
+<pos>394,121</pos>
+</map>
+<photo season="winter" weather="default" date="2002/12">
+<panomuki>348</panomuki>
+<dir>..\bikan\pano</dir><file>WG-00.jpg</file>
+<pata toid="WF">
+<area>1030,57,1130,157</area>
+</pata>
+<pata toid="WK">
+<area>60,57,160,157</area>
+</pata>
+<pata toid="UG">
+<area>555,57,655,157</area>
+</pata>
+</photo>
+<photo season="winter" weather="wb" date="2002/12">
+<panomuki>348</panomuki>
+<dir>..\bikan\pano\wb</dir><file>WG-00.jpg</file>
+<pata toid="WF">
+<area>1030,57,1130,157</area>
+</pata>
+<pata toid="WK">
+<area>60,57,160,157</area>
+</pata>
+<pata toid="UG">
+<area>555,57,655,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="WK">
+<map id="MAP01">
+<pos>491,194</pos>
+</map>
+<photo season="winter" weather="default" date="2002/12">
+<panomuki>11</panomuki>
+<dir>..\bikan\pano</dir><file>WK-00.jpg</file>
+<pata toid="WG">
+<area>1170,57,1270,157</area>
+</pata>
+<pata toid="WQ">
+<area>198,57,298,157</area>
+</pata>
+<pata toid="UK">
+<area>675,57,775,157</area>
+</pata>
+</photo>
+<photo season="winter" weather="wb" date="2002/12">
+<panomuki>11</panomuki>
+<dir>..\bikan\pano\wb</dir><file>WK-00.jpg</file>
+<pata toid="WG">
+<area>1170,57,1270,157</area>
+</pata>
+<pata toid="WQ">
+<area>198,57,298,157</area>
+</pata>
+<pata toid="UK">
+<area>675,57,775,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="WQ">
+<map id="MAP01">
+<pos>628,264</pos>
+</map>
+<photo season="winter" weather="default" date="2002/12">
+<panomuki>264</panomuki>
+<dir>..\bikan\pano</dir><file>WQ-00.jpg</file>
+<pata toid="WK">
+<area>545,57,645,157</area>
+</pata>
+<pata toid="SQ">
+<area>0,57,100,157</area>
+</pata>
+</photo>
+<photo season="winter" weather="wb" date="2002/12">
+<panomuki>264</panomuki>
+<dir>..\bikan\pano\wb</dir><file>WQ-00.jpg</file>
+<pata toid="WK">
+<area>545,57,645,157</area>
+</pata>
+<pata toid="SQ">
+<area>0,57,100,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="UE">
+<map id="MAP01">
+<pos>253,75</pos>
+</map>
+<photo season="winter" weather="default" date="2002/12">
+<panomuki>356</panomuki>
+<dir>..\bikan\pano</dir><file>UE-00.jpg</file>
+<pata toid="WE">
+<area>1605,57,1705,157</area>
+</pata>
+<pata toid="UG">
+<area>166,57,266,157</area>
+</pata>
+<pata toid="OE">
+<area>674,57,774,157</area>
+</pata>
+</photo>
+<photo season="winter" weather="wb" date="2002/12">
+<panomuki>356</panomuki>
+<dir>..\bikan\pano\wb</dir><file>UE-00.jpg</file>
+<pata toid="WE">
+<area>1605,57,1705,157</area>
+</pata>
+<pata toid="UG">
+<area>166,57,266,157</area>
+</pata>
+<pata toid="OE">
+<area>674,57,774,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="UG">
+<map id="MAP01">
+<pos>363,170</pos>
+</map>
+<photo season="winter" weather="default" date="2002/12">
+<panomuki>171</panomuki>
+<dir>..\bikan\pano</dir><file>UG-00.jpg</file>
+<pata toid="WG">
+<area>555,57,655,157</area>
+</pata>
+<pata toid="UE">
+<area>75,57,175,157</area>
+</pata>
+<pata toid="UK">
+<area>1030,57,1130,157</area>
+</pata>
+<pata toid="QG">
+<area>1550,57,1650,157</area>
+</pata>
+</photo>
+<photo season="winter" weather="wb" date="2002/12">
+<panomuki>171</panomuki>
+<dir>..\bikan\pano\wb</dir><file>UG-00.jpg</file>
+<pata toid="WG">
+<area>555,57,655,157</area>
+</pata>
+<pata toid="UE">
+<area>75,57,175,157</area>
+</pata>
+<pata toid="UK">
+<area>1030,57,1130,157</area>
+</pata>
+<pata toid="QG">
+<area>1550,57,1650,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="UK">
+<map id="MAP01">
+<pos>460,244</pos>
+</map>
+<photo season="winter" weather="default" date="2002/12">
+<panomuki>170</panomuki>
+<dir>..\bikan\pano</dir><file>UK-00.jpg</file>
+<pata toid="WK">
+<area>552,57,652,157</area>
+</pata>
+<pata toid="UG">
+<area>80,57,180,157</area>
+</pata>
+<pata toid="UM">
+<area>1060,57,1160,157</area>
+</pata>
+<pata toid="QK">
+<area>1520,57,1620,157</area>
+</pata>
+</photo>
+<photo season="winter" weather="wb" date="2002/12">
+<panomuki>170</panomuki>
+<dir>..\bikan\pano\wb</dir><file>UK-00.jpg</file>
+<pata toid="WK">
+<area>552,57,652,157</area>
+</pata>
+<pata toid="UG">
+<area>80,57,180,157</area>
+</pata>
+<pata toid="UM">
+<area>1060,57,1160,157</area>
+</pata>
+<pata toid="QK">
+<area>1520,57,1620,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="UM">
+<map id="MAP01">
+<pos>518,281</pos>
+</map>
+<photo season="winter" weather="default" date="2002/12">
+<panomuki>177</panomuki>
+<dir>..\bikan\pano</dir><file>UM-00.jpg</file>
+<pata toid="UK">
+<area>110,57,210,157</area>
+</pata>
+<pata toid="SM">
+<area>1500,57,1600,157</area>
+</pata>
+</photo>
+<photo season="winter" weather="wb" date="2002/12">
+<panomuki>177</panomuki>
+<dir>..\bikan\pano\wb</dir><file>UM-00.jpg</file>
+<pata toid="UK">
+<area>110,57,210,157</area>
+</pata>
+<pata toid="SM">
+<area>1500,57,1600,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="SM">
+<map id="MAP01">
+<pos>502,318</pos>
+</map>
+<photo season="winter" weather="default" date="2002/12">
+<panomuki>18</panomuki>
+<dir>..\bikan\pano</dir><file>SM-00.jpg</file>
+<pata toid="UM">
+<area>1610,57,1710,157</area>
+</pata>
+<pata toid="SO">
+<area>40,57,140,157</area>
+</pata>
+<pata toid="QM">
+<area>630,57,730,157</area>
+</pata>
+</photo>
+<photo season="winter" weather="wb" date="2002/12">
+<panomuki>18</panomuki>
+<dir>..\bikan\pano\wb</dir><file>SM-00.jpg</file>
+<pata toid="UM">
+<area>1610,57,1710,157</area>
+</pata>
+<pata toid="SO">
+<area>40,57,140,157</area>
+</pata>
+<pata toid="QM">
+<area>630,57,730,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="SO">
+<map id="MAP01">
+<pos>543,328</pos>
+</map>
+<photo season="winter" weather="default" date="2002/12">
+<panomuki>359</panomuki>
+<dir>..\bikan\pano</dir><file>SO-00.jpg</file>
+<pata toid="SM">
+<area>980,57,1080,157</area>
+</pata>
+<pata toid="SQ">
+<area>30,57,130,157</area>
+</pata>
+<pata toid="RO">
+<area>780,57,880,157</area>
+</pata>
+</photo>
+<photo season="winter" weather="wb" date="2002/12">
+<panomuki>359</panomuki>
+<dir>..\bikan\pano\wb</dir><file>SO-00.jpg</file>
+<pata toid="SM">
+<area>980,57,1080,157</area>
+</pata>
+<pata toid="SQ">
+<area>30,57,130,157</area>
+</pata>
+<pata toid="RO">
+<area>780,57,880,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="SQ">
+<map id="MAP01">
+<pos>629,345</pos>
+</map>
+<photo season="winter" weather="default" date="2002/12">
+<panomuki>1</panomuki>
+<dir>..\bikan\pano</dir><file>SQ-00.jpg</file>
+<pata toid="WQ">
+<area>1390,57,1490,157</area>
+</pata>
+<pata toid="SO">
+<area>1000,57,1100,157</area>
+</pata>
+<pata toid="OQ">
+<area>510,57,610,157</area>
+</pata>
+</photo>
+<photo season="winter" weather="wb" date="2002/12">
+<panomuki>1</panomuki>
+<dir>..\bikan\pano\wb</dir><file>SQ-00.jpg</file>
+<pata toid="WQ">
+<area>1390,57,1490,157</area>
+</pata>
+<pata toid="SO">
+<area>1000,57,1100,157</area>
+</pata>
+<pata toid="OQ">
+<area>510,57,610,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="RO">
+<map id="MAP01">
+<pos>509,351</pos>
+</map>
+<photo season="winter" weather="default" date="2002/12">
+<panomuki>266</panomuki>
+<dir>..\bikan\pano</dir><file>RO-00.jpg</file>
+<pata toid="SO">
+<area>1190,57,1290,157</area>
+</pata>
+<pata toid="QO">
+<area>1872,57,1972,157</area>
+</pata>
+</photo>
+<photo season="winter" weather="wb" date="2002/12">
+<panomuki>266</panomuki>
+<dir>..\bikan\pano\wb</dir><file>RO-00.jpg</file>
+<pata toid="SO">
+<area>1190,57,1290,157</area>
+</pata>
+<pata toid="QO">
+<area>1872,57,1972,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="QG">
+<map id="MAP01">
+<pos>321,226</pos>
+</map>
+<photo season="winter" weather="default" date="2002/12">
+<panomuki>343</panomuki>
+<dir>..\bikan\pano</dir><file>QG-00.jpg</file>
+<pata toid="UG">
+<area>1496,57,1596,157</area>
+</pata>
+<pata toid="QK">
+<area>46,57,146,157</area>
+</pata>
+<pata toid="PG">
+<area>546,57,646,157</area>
+</pata>
+<link id="L05">
+<area>672,90,750,172</area>
+<object>..\bikan\link\今橋.jpg</object>
+</link>
+</photo>
+<photo season="winter" weather="wb" date="2002/12">
+<panomuki>343</panomuki>
+<dir>..\bikan\pano\wb</dir><file>QG-00.jpg</file>
+<pata toid="UG">
+<area>1496,57,1596,157</area>
+</pata>
+<pata toid="QK">
+<area>46,57,146,157</area>
+</pata>
+<pata toid="PG">
+<area>546,57,646,157</area>
+</pata>
+<link id="L05">
+<area>672,90,750,172</area>
+<object>..\bikan\link\今橋.jpg</object>
+</link>
+</photo>
+</pano>
+<pano id="QK">
+<map id="MAP01">
+<pos>418,304</pos>
+</map>
+<photo season="winter" weather="default" date="2002/12">
+<panomuki>344</panomuki>
+<dir>..\bikan\pano</dir><file>QK-00.jpg</file>
+<pata toid="UK">
+<area>1486,57,1586,157</area>
+</pata>
+<pata toid="QG">
+<area>1046,57,1146,157</area>
+</pata>
+<pata toid="QM">
+<area>76,57,176,157</area>
+</pata>
+<link id="L01">
+<area>1730,50,1870,180</area>
+<object>..\bikan\link\鶴形.txt</object>
+</link>
+<link id="L02">
+<area>1320,50,1440,180</area>
+<object>..\bikan\link\カモ井.txt</object>
+</link>
+</photo>
+<photo season="winter" weather="wb" date="2002/12">
+<panomuki>344</panomuki>
+<dir>..\bikan\pano\wb</dir><file>QK-00.jpg</file>
+<pata toid="UK">
+<area>1486,57,1586,157</area>
+</pata>
+<pata toid="QG">
+<area>1046,57,1146,157</area>
+</pata>
+<pata toid="QM">
+<area>76,57,176,157</area>
+</pata>
+<link id="L01">
+<area>1730,50,1870,180</area>
+<object>..\bikan\link\鶴形.txt</object>
+</link>
+<link id="L02">
+<area>1320,50,1440,180</area>
+<object>..\bikan\link\カモ井.txt</object>
+</link>
+</photo>
+</pano>
+<pano id="QM">
+<map id="MAP01">
+<pos>478,358</pos>
+</map>
+<inf>倉敷考古館</inf>
+<photo season="winter" weather="default" date="2002/12">
+<panomuki>351</panomuki>
+<dir>..\bikan\pano</dir><file>QM-00.jpg</file>
+<pata toid="SM">
+<area>1506,57,1606,157</area>
+</pata>
+<pata toid="QK">
+<area>1036,57,1136,157</area>
+</pata>
+<pata toid="QO">
+<area>26,57,126,157</area>
+</pata>
+<pata toid="PM">
+<area>556,57,656,157</area>
+</pata>
+<link id="L03">
+<area>1400,70,1450,100</area>
+<object>..\bikan\link\倉敷考古館.jpg</object>
+</link>
+<link id="D01">
+<area>800,70,800,70</area>
+<object>DUMMY.jpg</object>
+</link>
+<link id="L032">
+<area>1400,130,1450,160</area>
+<object>http://www.kurakibi.jp/bikan/look/koukokan.htm</object>
+</link>
+<warp id="W01">
+<area>1320,70,1390,180</area>
+<object>kenkou1.xml</object>
+<initid>CP</initid>
+<initmuki>IP</initmuki>
+</warp>
+</photo>
+<photo season="winter" weather="wb" date="2002/12">
+<panomuki>351</panomuki>
+<dir>..\bikan\pano\wb</dir><file>QM-00.jpg</file>
+<pata toid="SM">
+<area>1506,57,1606,157</area>
+</pata>
+<pata toid="QK">
+<area>1036,57,1136,157</area>
+</pata>
+<pata toid="QO">
+<area>26,57,126,157</area>
+</pata>
+<pata toid="PM">
+<area>556,57,656,157</area>
+</pata>
+<link id="L03">
+<area>1400,70,1450,100</area>
+<object>..\bikan\link\倉敷考古館.jpg</object>
+</link>
+<warp id="W01">
+<area>1320,70,1390,180</area>
+<object>kenkou1.xml</object>
+<initid>CP</initid>
+<initmuki>IP</initmuki>
+</warp>
+</photo>
+<photo season="winter" weather="snow" date="2003/1">
+<panomuki>316</panomuki>
+<dir>..\bikan\pano\snow</dir><file>QM-00.jpg</file>
+<pata toid="QO">
+<area>1861,57,1961,157</area>
+</pata>
+<pata toid="PM">
+<area>436,57,536,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="QO">
+<map id="MAP01">
+<pos>501,372</pos>
+</map>
+<photo season="winter" weather="default" date="2002/12">
+<panomuki>283</panomuki>
+<dir>..\bikan\pano</dir><file>QO-00.jpg</file>
+<pata toid="RO">
+<area>1090,57,1190,157</area>
+</pata>
+<pata toid="QM">
+<area>710,57,810,157</area>
+</pata>
+<pata toid="MO">
+<area>110,57,210,157</area>
+</pata>
+</photo>
+<photo season="winter" weather="wb" date="2002/12">
+<panomuki>283</panomuki>
+<dir>..\bikan\pano\wb</dir><file>QO-00.jpg</file>
+<pata toid="RO">
+<area>1090,57,1190,157</area>
+</pata>
+<pata toid="QM">
+<area>710,57,810,157</area>
+</pata>
+<pata toid="MO">
+<area>110,57,210,157</area>
+</pata>
+</photo>
+<photo season="winter" weather="snow" date="2003/1">
+<panomuki>263</panomuki>
+<dir>..\bikan\pano\snow</dir><file>QO-00.jpg</file>
+<pata toid="QM">
+<area>578,57,678,157</area>
+</pata>
+<pata toid="MO">
+<area>1888,57,1988,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="PG">
+<map id="MAP01">
+<pos>310,237</pos>
+</map>
+<photo season="winter" weather="default" date="2002/12">
+<panomuki>146</panomuki>
+<dir>..\bikan\pano</dir><file>PG-00.jpg</file>
+<pata toid="QG">
+<area>526,57,626,157</area>
+</pata>
+<pata toid="OG">
+<area>1496,57,1596,157</area>
+</pata>
+</photo>
+<photo season="winter" weather="wb" date="2002/12">
+<panomuki>146</panomuki>
+<dir>..\bikan\pano\wb</dir><file>PG-00.jpg</file>
+<pata toid="QG">
+<area>526,57,626,157</area>
+</pata>
+<pata toid="OG">
+<area>1496,57,1596,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="PM">
+<map id="MAP01">
+<pos>466,373</pos>
+</map>
+<photo season="winter" weather="default" date="2002/12">
+<panomuki>159</panomuki>
+<dir>..\bikan\pano</dir><file>PM-00.jpg</file>
+<pata toid="QM">
+<area>526,57,626,157</area>
+</pata>
+<pata toid="OM">
+<area>1496,57,1596,157</area>
+</pata>
+</photo>
+<photo season="winter" weather="wb" date="2002/12">
+<panomuki>159</panomuki>
+<dir>..\bikan\pano\wb</dir><file>PM-00.jpg</file>
+<pata toid="QM">
+<area>526,57,626,157</area>
+</pata>
+<pata toid="OM">
+<area>1496,57,1596,157</area>
+</pata>
+</photo>
+<photo season="winter" weather="snow" date="2003/1">
+<panomuki>100</panomuki>
+<dir>..\bikan\pano\snow</dir><file>PM-00.jpg</file>
+<pata toid="QM">
+<area>223,57,323,157</area>
+</pata>
+<pata toid="OM">
+<area>1179,57,1279,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="OA">
+<map id="MAP01">
+<pos>61,155</pos>
+</map>
+<photo season="winter" weather="default" date="2002/12">
+<panomuki>300</panomuki>
+<dir>..\bikan\pano</dir><file>OA-00.jpg</file>
+<pata toid="OC">
+<area>1520,57,1620,157</area>
+</pata>
+<pata toid="NA">
+<area>100,57,200,157</area>
+</pata>
+</photo>
+<photo season="winter" weather="wb" date="2002/12">
+<panomuki>300</panomuki>
+<dir>..\bikan\pano\wb</dir><file>OA-00.jpg</file>
+<pata toid="OC">
+<area>1520,57,1620,157</area>
+</pata>
+<pata toid="NA">
+<area>100,57,200,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="OC">
+<map id="MAP01">
+<pos>146,146</pos>
+</map>
+<photo season="winter" weather="default" date="2002/12">
+<panomuki>26</panomuki>
+<dir>..\bikan\pano</dir><file>OC-00.jpg</file>
+<pata toid="OA">
+<area>1020,57,1120,157</area>
+</pata>
+<pata toid="OE">
+<area>120,57,220,157</area>
+</pata>
+</photo>
+<photo season="winter" weather="wb" date="2002/12">
+<panomuki>26</panomuki>
+<dir>..\bikan\pano\wb</dir><file>OC-00.jpg</file>
+<pata toid="OA">
+<area>1020,57,1120,157</area>
+</pata>
+<pata toid="OE">
+<area>120,57,220,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="OE">
+<map id="MAP01">
+<pos>181,151</pos>
+</map>
+<photo season="winter" weather="default" date="2002/12">
+<panomuki>340</panomuki>
+<dir>..\bikan\pano</dir><file>OE-00.jpg</file>
+<pata toid="UE">
+<area>1517,57,1617,157</area>
+</pata>
+<pata toid="OC">
+<area>855,57,955,157</area>
+</pata>
+<pata toid="OG">
+<area>54,57,154,157</area>
+</pata>
+</photo>
+<photo season="winter" weather="wb" date="2002/12">
+<panomuki>340</panomuki>
+<dir>..\bikan\pano\wb</dir><file>OE-00.jpg</file>
+<pata toid="UE">
+<area>1517,57,1617,157</area>
+</pata>
+<pata toid="OC">
+<area>855,57,955,157</area>
+</pata>
+<pata toid="OG">
+<area>54,57,154,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="OG">
+<map id="MAP01">
+<pos>299,248</pos>
+</map>
+<photo season="winter" weather="default" date="2002/12">
+<panomuki>326</panomuki>
+<dir>..\bikan\pano</dir><file>OG-00.jpg</file>
+<pata toid="PG">
+<area>1496,57,1596,157</area>
+</pata>
+<pata toid="OE">
+<area>996,57,1096,157</area>
+</pata>
+<pata toid="OI">
+<area>76,57,176,157</area>
+</pata>
+<pata toid="NG">
+<area>660,57,760,157</area>
+</pata>
+<link id="L11">
+<area>1598,26,1758,110</area>
+<object>..\bikan\link\有隣館.jpg</object>
+</link>
+</photo>
+<photo season="winter" weather="wb" date="2002/12">
+<panomuki>326</panomuki>
+<dir>..\bikan\pano\wb</dir><file>OG-00.jpg</file>
+<pata toid="PG">
+<area>1496,57,1596,157</area>
+</pata>
+<pata toid="OE">
+<area>996,57,1096,157</area>
+</pata>
+<pata toid="OI">
+<area>76,57,176,157</area>
+</pata>
+<pata toid="NG">
+<area>660,57,760,157</area>
+</pata>
+<link id="L11">
+<area>1598,26,1758,110</area>
+<object>..\bikan\link\有隣館.jpg</object>
+</link>
+</photo>
+</pano>
+<pano id="OI">
+<map id="MAP01">
+<pos>327,280</pos>
+</map>
+<photo season="winter" weather="default" date="2002/12">
+<panomuki>334</panomuki>
+<dir>..\bikan\pano</dir><file>OI-00.jpg</file>
+<pata toid="OG">
+<area>1016,57,1116,157</area>
+</pata>
+<pata toid="OM">
+<area>96,57,196,157</area>
+</pata>
+<pata toid="XI">
+<area>450,57,550,157</area>
+</pata>
+</photo>
+<photo season="winter" weather="wb" date="2002/12">
+<panomuki>334</panomuki>
+<dir>..\bikan\pano\wb</dir><file>OI-00.jpg</file>
+<pata toid="OG">
+<area>1016,57,1116,157</area>
+</pata>
+<pata toid="OM">
+<area>96,57,196,157</area>
+</pata>
+<pata toid="XI">
+<area>450,57,550,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="OM">
+<map id="MAP01">
+<pos>455,390</pos>
+</map>
+<inf>倉敷館</inf>
+<photo season="winter" weather="default" date="2002/12">
+<panomuki>159</panomuki>
+<dir>..\bikan\pano</dir><file>OM-00.jpg</file>
+<pata toid="PM">
+<area>496,57,596,157</area>
+</pata>
+<pata toid="OI">
+<area>66,57,166,157</area>
+</pata>
+<pata toid="MM">
+<area>1266,57,1366,157</area>
+</pata>
+<link id="L12">
+<area>1437,69,1523,180</area>
+<object>http://www.city.kurashiki.okayama.jp/kankou/INF/ASS/index.html</object>
+</link>
+</photo>
+<photo season="winter" weather="wb" date="2002/12">
+<panomuki>159</panomuki>
+<dir>..\bikan\pano\wb</dir><file>OM-00.jpg</file>
+<pata toid="PM">
+<area>496,57,596,157</area>
+</pata>
+<pata toid="OI">
+<area>66,57,166,157</area>
+</pata>
+<pata toid="MM">
+<area>1266,57,1366,157</area>
+</pata>
+<link id="L12">
+<area>1437,69,1523,180</area>
+<object>http://www.city.kurashiki.okayama.jp/kankou/INF/ASS/index.html</object>
+</link>
+</photo>
+<photo season="winter" weather="snow" date="2003/1">
+<panomuki>279</panomuki>
+<dir>..\bikan\pano\snow</dir><file>OM-00.jpg</file>
+<pata toid="PM">
+<area>1168,57,1268,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="OQ">
+<map id="MAP01">
+<pos>618,417</pos>
+</map>
+<photo season="winter" weather="default" date="2002/12">
+<panomuki>290</panomuki>
+<dir>..\bikan\pano</dir><file>OQ-00.jpg</file>
+<pata toid="SQ">
+<area>1070,57,1170,157</area>
+</pata>
+<pata toid="MQ">
+<area>110,57,210,157</area>
+</pata>
+</photo>
+<photo season="winter" weather="wb" date="2002/12">
+<panomuki>290</panomuki>
+<dir>..\bikan\pano\wb</dir><file>OQ-00.jpg</file>
+<pata toid="SQ">
+<area>1070,57,1170,157</area>
+</pata>
+<pata toid="MQ">
+<area>110,57,210,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="NA">
+<map id="MAP01">
+<pos>71,294</pos>
+</map>
+<inf>倉敷国際ホテル</inf>
+<photo season="winter" weather="default" date="2002/12">
+<panomuki>116</panomuki>
+<dir>..\bikan\pano</dir><file>NA-00.jpg</file>
+<pata toid="OA">
+<area>70,57,170,157</area>
+</pata>
+<pata toid="MA">
+<area>1040,57,1140,157</area>
+</pata>
+</photo>
+<photo season="winter" weather="wb" date="2002/12">
+<panomuki>116</panomuki>
+<dir>..\bikan\pano\wb</dir><file>NA-00.jpg</file>
+<pata toid="OA">
+<area>70,57,170,157</area>
+</pata>
+<pata toid="MA">
+<area>1040,57,1140,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="NG">
+<map id="MAP01">
+<pos>281,266</pos>
+</map>
+<inf>大原美術館</inf>
+<photo season="winter" weather="default" date="2002/12">
+<panomuki>295</panomuki>
+<dir>..\bikan\pano</dir><file>NG-00.jpg</file>
+<pata toid="OG">
+<area>1220,57,1320,157</area>
+</pata>
+<link id="L13">
+<area>314,12,379,133</area>
+<object>http://www.ohara.or.jp/index.html</object>
+</link>
+</photo>
+<photo season="winter" weather="wb" date="2002/12">
+<panomuki>295</panomuki>
+<dir>..\bikan\pano\wb</dir><file>NG-00.jpg</file>
+<pata toid="OG">
+<area>1220,57,1320,157</area>
+</pata>
+<link id="L13">
+<area>314,12,379,133</area>
+<object>http://www.ohara.or.jp/index.html</object>
+</link>
+</photo>
+</pano>
+<pano id="XE">
+<map id="MAP01">
+<pos>235,338</pos>
+</map>
+<photo season="winter" weather="default" date="2002/12">
+<panomuki>111</panomuki>
+<dir>..\bikan\pano</dir><file>XE-00.jpg</file>
+<pata toid="XG">
+<area>690,57,790,157</area>
+</pata>
+</photo>
+<photo season="winter" weather="wb" date="2002/12">
+<panomuki>111</panomuki>
+<dir>..\bikan\pano\wb</dir><file>XE-00.jpg</file>
+<pata toid="XG">
+<area>690,57,790,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="XG">
+<map id="MAP01">
+<pos>270,356</pos>
+</map>
+<photo season="winter" weather="default" date="2002/12">
+<panomuki>303</panomuki>
+<dir>..\bikan\pano</dir><file>XG-00.jpg</file>
+<pata toid="XE">
+<area>750,57,850,157</area>
+</pata>
+<pata toid="XI">
+<area>1550,57,1650,157</area>
+</pata>
+<pata toid="MG">
+<area>50,57,150,157</area>
+</pata>
+<link id="L10">
+<area>322,44,450,162</area>
+<object>..\bikan\link\新渓園.jpg</object>
+</link>
+</photo>
+<photo season="winter" weather="wb" date="2002/12">
+<panomuki>303</panomuki>
+<dir>..\bikan\pano\wb</dir><file>XG-00.jpg</file>
+<pata toid="XE">
+<area>750,57,850,157</area>
+</pata>
+<pata toid="XI">
+<area>1550,57,1650,157</area>
+</pata>
+<pata toid="MG">
+<area>50,57,150,157</area>
+</pata>
+<link id="L10">
+<area>322,44,450,162</area>
+<object>..\bikan\link\新渓園.jpg</object>
+</link>
+</photo>
+</pano>
+<pano id="XI">
+<map id="MAP01">
+<pos>295,358</pos>
+</map>
+<photo season="winter" weather="default" date="2002/12">
+<panomuki>180</panomuki>
+<dir>..\bikan\pano</dir><file>XI-00.jpg</file>
+<pata toid="OI">
+<area>550,57,650,157</area>
+</pata>
+<pata toid="XG">
+<area>70,57,170,157</area>
+</pata>
+<pata toid="MI">
+<area>1520,57,1620,157</area>
+</pata>
+</photo>
+<photo season="winter" weather="wb" date="2002/12">
+<panomuki>180</panomuki>
+<dir>..\bikan\pano\wb</dir><file>XI-00.jpg</file>
+<pata toid="OI">
+<area>550,57,650,157</area>
+</pata>
+<pata toid="XG">
+<area>70,57,170,157</area>
+</pata>
+<pata toid="MI">
+<area>1520,57,1620,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="MA">
+<map id="MAP01">
+<pos>71,395</pos>
+</map>
+<photo season="winter" weather="default" date="2002/12">
+<panomuki>91</panomuki>
+<dir>..\bikan\pano</dir><file>MA-00.jpg</file>
+<pata toid="NA">
+<area>1873,57,1973,157</area>
+</pata>
+<pata toid="ME">
+<area>460,57,560,157</area>
+</pata>
+<pata toid="KA">
+<area>940,57,1040,157</area>
+</pata>
+<link id="L07">
+<area>56,2,262,124</area>
+<object>..\bikan\link\国際ホテル.jpg</object>
+</link>
+</photo>
+<photo season="winter" weather="wb" date="2002/12">
+<panomuki>91</panomuki>
+<dir>..\bikan\pano\wb</dir><file>MA-00.jpg</file>
+<pata toid="NA">
+<area>1873,57,1973,157</area>
+</pata>
+<pata toid="ME">
+<area>460,57,560,157</area>
+</pata>
+<pata toid="KA">
+<area>940,57,1040,157</area>
+</pata>
+<link id="L07">
+<area>56,2,262,124</area>
+<object>..\bikan\link\国際ホテル.jpg</object>
+</link>
+</photo>
+</pano>
+<pano id="ME">
+<map id="MAP01">
+<pos>180,410</pos>
+</map>
+<photo season="winter" weather="default" date="2002/12">
+<panomuki>30</panomuki>
+<dir>..\bikan\pano</dir><file>ME-00.jpg</file>
+<pata toid="MA">
+<area>1110,57,1210,157</area>
+</pata>
+<pata toid="MG">
+<area>130,57,230,157</area>
+</pata>
+<pata toid="LE">
+<area>600,57,700,157</area>
+</pata>
+</photo>
+<photo season="winter" weather="wb" date="2002/12">
+<panomuki>30</panomuki>
+<dir>..\bikan\pano\wb</dir><file>ME-00.jpg</file>
+<pata toid="MA">
+<area>1110,57,1210,157</area>
+</pata>
+<pata toid="MG">
+<area>130,57,230,157</area>
+</pata>
+<pata toid="LE">
+<area>600,57,700,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="MG">
+<map id="MAP01">
+<pos>245,427</pos>
+</map>
+<photo season="winter" weather="default" date="2002/12">
+<panomuki>71</panomuki>
+<dir>..\bikan\pano</dir><file>MG-00.jpg</file>
+<pata toid="XG">
+<area>1865,57,1965,157</area>
+</pata>
+<pata toid="ME">
+<area>1220,57,1320,157</area>
+</pata>
+<pata toid="MI">
+<area>370,57,470,157</area>
+</pata>
+</photo>
+<photo season="winter" weather="wb" date="2002/12">
+<panomuki>71</panomuki>
+<dir>..\bikan\pano\wb</dir><file>MG-00.jpg</file>
+<pata toid="XG">
+<area>1865,57,1965,157</area>
+</pata>
+<pata toid="ME">
+<area>1220,57,1320,157</area>
+</pata>
+<pata toid="MI">
+<area>370,57,470,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="MI">
+<map id="MAP01">
+<pos>265,436</pos>
+</map>
+<photo season="winter" weather="default" date="2002/12">
+<panomuki>296</panomuki>
+<dir>..\bikan\pano</dir><file>MI-00.jpg</file>
+<pata toid="XI">
+<area>1160,57,1260,157</area>
+</pata>
+<pata toid="MG">
+<area>730,57,830,157</area>
+</pata>
+<pata toid="KI">
+<area>170,57,270,157</area>
+</pata>
+</photo>
+<photo season="winter" weather="wb" date="2002/12">
+<panomuki>296</panomuki>
+<dir>..\bikan\pano\wb</dir><file>MI-00.jpg</file>
+<pata toid="XI">
+<area>1160,57,1260,157</area>
+</pata>
+<pata toid="MG">
+<area>730,57,830,157</area>
+</pata>
+<pata toid="KI">
+<area>170,57,270,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="MM">
+<map id="MAP01">
+<pos>459,441</pos>
+</map>
+<inf>倉敷民芸館</inf>
+<photo season="winter" weather="default" date="2002/12">
+<panomuki>277</panomuki>
+<dir>..\bikan\pano</dir><file>MM-00.jpg</file>
+<pata toid="OM">
+<area>926,57,1026,157</area>
+</pata>
+<pata toid="LM">
+<area>26,57,126,157</area>
+</pata>
+</photo>
+<photo season="winter" weather="wb" date="2002/12">
+<panomuki>277</panomuki>
+<dir>..\bikan\pano\wb</dir><file>MM-00.jpg</file>
+<pata toid="OM">
+<area>926,57,1026,157</area>
+</pata>
+<pata toid="LM">
+<area>26,57,126,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="MO">
+<map id="MAP01">
+<pos>489,470</pos>
+</map>
+<photo season="winter" weather="default" date="2002/12">
+<panomuki>6</panomuki>
+<dir>..\bikan\pano</dir><file>MO-00.jpg</file>
+<pata toid="QO">
+<area>1456,57,1556,157</area>
+</pata>
+<pata toid="MQ">
+<area>56,57,156,157</area>
+</pata>
+<pata toid="CO">
+<area>500,57,600,157</area>
+</pata>
+</photo>
+<photo season="winter" weather="wb" date="2002/12">
+<panomuki>6</panomuki>
+<dir>..\bikan\pano\wb</dir><file>MO-00.jpg</file>
+<pata toid="QO">
+<area>1456,57,1556,157</area>
+</pata>
+<pata toid="MQ">
+<area>56,57,156,157</area>
+</pata>
+<pata toid="CO">
+<area>500,57,600,157</area>
+</pata>
+</photo>
+<photo season="winter" weather="snow" date="2003/1">
+<panomuki>3</panomuki>
+<dir>..\bikan\pano\snow</dir><file>MO-00.jpg</file>
+<pata toid="QO">
+<area>1460,57,1560,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="MQ">
+<map id="MAP01">
+<pos>598,495</pos>
+</map>
+<inf>アイビースクエア</inf>
+<photo season="winter" weather="default" date="2002/12">
+<panomuki>8</panomuki>
+<dir>..\bikan\pano</dir><file>MQ-00.jpg</file>
+<pata toid="OQ">
+<area>1510,57,1610,157</area>
+</pata>
+<pata toid="MO">
+<area>1056,57,1156,157</area>
+</pata>
+<pata toid="KQ">
+<area>560,57,660,157</area>
+</pata>
+</photo>
+<photo season="winter" weather="wb" date="2002/12">
+<panomuki>8</panomuki>
+<dir>..\bikan\pano\wb</dir><file>MQ-00.jpg</file>
+<pata toid="OQ">
+<area>1510,57,1610,157</area>
+</pata>
+<pata toid="MO">
+<area>1056,57,1156,157</area>
+</pata>
+<pata toid="KQ">
+<area>560,57,660,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="LE">
+<map id="MAP01">
+<pos>170,440</pos>
+</map>
+<inf>大原美術館－分館</inf>
+<photo season="winter" weather="default" date="2002/12">
+<panomuki>263</panomuki>
+<dir>..\bikan\pano</dir><file>LE-00.jpg</file>
+<pata toid="ME">
+<area>970,57,1070,157</area>
+</pata>
+<link id="L06">
+<area>1882,22,234,154</area>
+<object>..\bikan\link\分館.jpg</object>
+</link>
+</photo>
+<photo season="winter" weather="wb" date="2002/12">
+<panomuki>263</panomuki>
+<dir>..\bikan\pano\wb</dir><file>LE-00.jpg</file>
+<pata toid="ME">
+<area>970,57,1070,157</area>
+</pata>
+<link id="L06">
+<area>1882,22,234,154</area>
+<object>..\bikan\link\分館.jpg</object>
+</link>
+</photo>
+</pano>
+<pano id="LM">
+<map id="MAP01">
+<pos>453,495</pos>
+</map>
+<inf>郷土美術館</inf>
+<photo season="winter" weather="default" date="2002/12">
+<panomuki>286</panomuki>
+<dir>..\bikan\pano</dir><file>LM-00.jpg</file>
+<pata toid="MM">
+<area>1026,57,1126,157</area>
+</pata>
+<pata toid="CM">
+<area>56,57,156,157</area>
+</pata>
+</photo>
+<photo season="winter" weather="wb" date="2002/12">
+<panomuki>286</panomuki>
+<dir>..\bikan\pano\wb</dir><file>LM-00.jpg</file>
+<pata toid="MM">
+<area>1026,57,1126,157</area>
+</pata>
+<pata toid="CM">
+<area>56,57,156,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="KA">
+<map id="MAP01">
+<pos>73,473</pos>
+</map>
+<photo season="winter" weather="default" date="2002/12">
+<panomuki>299</panomuki>
+<dir>..\bikan\pano</dir><file>KA-00.jpg</file>
+<pata toid="MA">
+<area>1060,57,1160,157</area>
+</pata>
+<pata toid="KI">
+<area>1570,57,1670,157</area>
+</pata>
+<pata toid="CA">
+<area>90,57,190,157</area>
+</pata>
+<link id="L09">
+<area>258,26,456,132</area>
+<object>..\bikan\link\市立美術館.jpg</object>
+</link>
+</photo>
+<photo season="winter" weather="wb" date="2002/12">
+<panomuki>299</panomuki>
+<dir>..\bikan\pano\wb</dir><file>KA-00.jpg</file>
+<pata toid="MA">
+<area>1060,57,1160,157</area>
+</pata>
+<pata toid="KI">
+<area>1570,57,1670,157</area>
+</pata>
+<pata toid="CA">
+<area>90,57,190,157</area>
+</pata>
+<link id="L09">
+<area>258,26,456,132</area>
+<object>..\bikan\link\市立美術館.jpg</object>
+</link>
+</photo>
+</pano>
+<pano id="KI">
+<map id="MAP01">
+<pos>240,498</pos>
+</map>
+<photo season="winter" weather="default" date="2002/12">
+<panomuki>271</panomuki>
+<dir>..\bikan\pano</dir><file>KI-00.jpg</file>
+<pata toid="MI">
+<area>1030,57,1130,157</area>
+</pata>
+<pata toid="KA">
+<area>550,57,650,157</area>
+</pata>
+<pata toid="AI">
+<area>50,57,150,157</area>
+</pata>
+</photo>
+<photo season="winter" weather="wb" date="2002/12">
+<panomuki>271</panomuki>
+<dir>..\bikan\pano\wb</dir><file>KI-00.jpg</file>
+<pata toid="MI">
+<area>1030,57,1130,157</area>
+</pata>
+<pata toid="KA">
+<area>550,57,650,157</area>
+</pata>
+<pata toid="AI">
+<area>50,57,150,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="KQ">
+<map id="MAP01">
+<pos>591,534</pos>
+</map>
+<photo season="winter" weather="default" date="2002/12">
+<panomuki>98</panomuki>
+<dir>..\bikan\pano</dir><file>KQ-00.jpg</file>
+<pata toid="MQ">
+<area>50,57,150,157</area>
+</pata>
+<pata toid="CQ">
+<area>1030,57,1130,157</area>
+</pata>
+</photo>
+<photo season="winter" weather="wb" date="2002/12">
+<panomuki>98</panomuki>
+<dir>..\bikan\pano\wb</dir><file>KQ-00.jpg</file>
+<pata toid="MQ">
+<area>50,57,150,157</area>
+</pata>
+<pata toid="CQ">
+<area>1030,57,1130,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="CA">
+<map id="MAP01">
+<pos>71,665</pos>
+</map>
+<photo season="winter" weather="default" date="2002/12">
+<panomuki>295</panomuki>
+<dir>..\bikan\pano</dir><file>CA-00.jpg</file>
+<pata toid="KA">
+<area>1050,57,1150,157</area>
+</pata>
+<pata toid="AA">
+<area>1885,57,1985,157</area>
+</pata>
+</photo>
+<photo season="winter" weather="wb" date="2002/12">
+<panomuki>295</panomuki>
+<dir>..\bikan\pano\wb</dir><file>CA-00.jpg</file>
+<pata toid="KA">
+<area>1050,57,1150,157</area>
+</pata>
+<pata toid="AA">
+<area>1885,57,1985,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="CM">
+<map id="MAP01">
+<pos>428,699</pos>
+</map>
+<photo season="winter" weather="default" date="2002/12">
+<panomuki>273</panomuki>
+<dir>..\bikan\pano</dir><file>CM-00.jpg</file>
+<pata toid="LM">
+<area>965,57,1065,157</area>
+</pata>
+<pata toid="CO">
+<area>1465,57,1565,157</area>
+</pata>
+<pata toid="AM">
+<area>1881,57,1981,157</area>
+</pata>
+</photo>
+<photo season="winter" weather="wb" date="2002/12">
+<panomuki>273</panomuki>
+<dir>..\bikan\pano\wb</dir><file>CM-00.jpg</file>
+<pata toid="LM">
+<area>965,57,1065,157</area>
+</pata>
+<pata toid="CO">
+<area>1465,57,1565,157</area>
+</pata>
+<pata toid="AM">
+<area>1881,57,1981,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="CO">
+<map id="MAP01">
+<pos>457,697</pos>
+</map>
+<photo season="winter" weather="default" date="2002/12">
+<panomuki>301</panomuki>
+<dir>..\bikan\pano</dir><file>CO-00.jpg</file>
+<pata toid="MO">
+<area>1116,57,1216,157</area>
+</pata>
+<pata toid="CM">
+<area>565,57,665,157</area>
+</pata>
+<pata toid="CQ">
+<area>1532,57,1632,157</area>
+</pata>
+<pata toid="AO">
+<area>40,57,140,157</area>
+</pata>
+</photo>
+<photo season="winter" weather="wb" date="2002/12">
+<panomuki>301</panomuki>
+<dir>..\bikan\pano\wb</dir><file>CO-00.jpg</file>
+<pata toid="MO">
+<area>1116,57,1216,157</area>
+</pata>
+<pata toid="CM">
+<area>565,57,665,157</area>
+</pata>
+<pata toid="CQ">
+<area>1532,57,1632,157</area>
+</pata>
+<pata toid="AO">
+<area>40,57,140,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="CQ">
+<map id="MAP01">
+<pos>564,686</pos>
+</map>
+<photo season="winter" weather="default" date="2002/12">
+<panomuki>266</panomuki>
+<dir>..\bikan\pano</dir><file>CQ-00.jpg</file>
+<pata toid="KQ">
+<area>947,57,1047,157</area>
+</pata>
+<pata toid="CO">
+<area>398,57,498,157</area>
+</pata>
+<pata toid="AQ">
+<area>1876,57,1976,157</area>
+</pata>
+</photo>
+<photo season="winter" weather="wb" date="2002/12">
+<panomuki>266</panomuki>
+<dir>..\bikan\pano\wb</dir><file>CQ-00.jpg</file>
+<pata toid="KQ">
+<area>947,57,1047,157</area>
+</pata>
+<pata toid="CO">
+<area>398,57,498,157</area>
+</pata>
+<pata toid="AQ">
+<area>1876,57,1976,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="AA">
+<map id="MAP01">
+<pos>98,710</pos>
+</map>
+<photo season="winter" weather="default" date="2002/12">
+<panomuki>220</panomuki>
+<dir>..\bikan\pano</dir><file>AA-00.jpg</file>
+<pata toid="CA">
+<area>480,57,580,157</area>
+</pata>
+<pata toid="AI">
+<area>1200,57,1300,157</area>
+</pata>
+</photo>
+<photo season="winter" weather="wb" date="2002/12">
+<panomuki>220</panomuki>
+<dir>..\bikan\pano\wb</dir><file>AA-00.jpg</file>
+<pata toid="CA">
+<area>480,57,580,157</area>
+</pata>
+<pata toid="AI">
+<area>1200,57,1300,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="AI">
+<map id="MAP01">
+<pos>217,719</pos>
+</map>
+<photo season="winter" weather="default" date="2002/12">
+<panomuki>23</panomuki>
+<dir>..\bikan\pano</dir><file>AI-00.jpg</file>
+<pata toid="KI">
+<area>1550,57,1650,157</area>
+</pata>
+<pata toid="AA">
+<area>1060,57,1160,157</area>
+</pata>
+<pata toid="AK">
+<area>110,57,210,157</area>
+</pata>
+</photo>
+<photo season="winter" weather="wb" date="2002/12">
+<panomuki>23</panomuki>
+<dir>..\bikan\pano\wb</dir><file>AI-00.jpg</file>
+<pata toid="KI">
+<area>1550,57,1650,157</area>
+</pata>
+<pata toid="AA">
+<area>1060,57,1160,157</area>
+</pata>
+<pata toid="AK">
+<area>110,57,210,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="AK">
+<map id="MAP01">
+<pos>259,720</pos>
+</map>
+<photo season="winter" weather="default" date="2002/12">
+<panomuki>111</panomuki>
+<dir>..\bikan\pano</dir><file>AK-00.jpg</file>
+<pata toid="AI">
+<area>1510,57,1610,157</area>
+</pata>
+<pata toid="AM">
+<area>550,57,650,157</area>
+</pata>
+</photo>
+<photo season="winter" weather="wb" date="2002/12">
+<panomuki>111</panomuki>
+<dir>..\bikan\pano\wb</dir><file>AK-00.jpg</file>
+<pata toid="AI">
+<area>1510,57,1610,157</area>
+</pata>
+<pata toid="AM">
+<area>550,57,650,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="AM">
+<map id="MAP01">
+<pos>429,717</pos>
+</map>
+<photo season="winter" weather="default" date="2002/12">
+<panomuki>24</panomuki>
+<dir>..\bikan\pano</dir><file>AM-00.jpg</file>
+<pata toid="CM">
+<area>1500,57,1600,157</area>
+</pata>
+<pata toid="AK">
+<area>1020,57,1120,157</area>
+</pata>
+<pata toid="AO">
+<area>80,57,180,157</area>
+</pata>
+</photo>
+<photo season="winter" weather="wb" date="2002/12">
+<panomuki>24</panomuki>
+<dir>..\bikan\pano\wb</dir><file>AM-00.jpg</file>
+<pata toid="CM">
+<area>1500,57,1600,157</area>
+</pata>
+<pata toid="AK">
+<area>1020,57,1120,157</area>
+</pata>
+<pata toid="AO">
+<area>80,57,180,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="AO">
+<map id="MAP01">
+<pos>457,715</pos>
+</map>
+<photo season="winter" weather="default" date="2002/12">
+<panomuki>343</panomuki>
+<dir>..\bikan\pano</dir><file>AO-00.jpg</file>
+<pata toid="CO">
+<area>1300,57,1400,157</area>
+</pata>
+<pata toid="AM">
+<area>860,57,960,157</area>
+</pata>
+<pata toid="AQ">
+<area>1840,57,1940,157</area>
+</pata>
+</photo>
+<photo season="winter" weather="wb" date="2002/12">
+<panomuki>343</panomuki>
+<dir>..\bikan\pano\wb</dir><file>AO-00.jpg</file>
+<pata toid="CO">
+<area>1300,57,1400,157</area>
+</pata>
+<pata toid="AM">
+<area>860,57,960,157</area>
+</pata>
+<pata toid="AQ">
+<area>1840,57,1940,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="AQ">
+<map id="MAP01">
+<pos>561,702</pos>
+</map>
+<photo season="winter" weather="default" date="2002/12">
+<panomuki>266</panomuki>
+<dir>..\bikan\pano</dir><file>AQ-00.jpg</file>
+<pata toid="CQ">
+<area>950,57,1050,157</area>
+</pata>
+<pata toid="AO">
+<area>430,57,530,157</area>
+</pata>
+</photo>
+<photo season="winter" weather="wb" date="2002/12">
+<panomuki>266</panomuki>
+<dir>..\bikan\pano\wb</dir><file>AQ-00.jpg</file>
+<pata toid="CQ">
+<area>950,57,1050,157</area>
+</pata>
+<pata toid="AO">
+<area>430,57,530,157</area>
+</pata>
+</photo>
+</pano>
+
+
+
+<path fromid="WE" toid="WF">
+<distance>21</distance>
+<photo num="5" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="5" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="WE" toid="UE">
+<distance>20</distance>
+<photo num="7" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="7" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="WF" toid="WE">
+<distance>21</distance>
+<photo num="4" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="4" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="WF" toid="WG">
+<distance>46</distance>
+<photo num="15" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="15" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="WG" toid="WF">
+<distance>46</distance>
+<photo num="13" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="13" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="WG" toid="WK">
+<distance>60</distance>
+<photo num="14" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="14" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="WG" toid="UG">
+<distance>28</distance>
+<photo num="8" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="8" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="WK" toid="WG">
+<distance>60</distance>
+<photo num="12" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="12" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="WK" toid="WQ">
+<distance>76</distance>
+<photo num="17" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="17" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="WK" toid="UK">
+<distance>29</distance>
+<photo num="8" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="8" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="WQ" toid="WK">
+<distance>76</distance>
+<photo num="20" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="20" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="WQ" toid="SQ">
+<distance>40</distance>
+<photo num="10" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="10" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="UE" toid="WE">
+<distance>20</distance>
+<photo num="6" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="6" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="UE" toid="UG">
+<distance>72</distance>
+<photo num="18" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="18" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="UE" toid="OE">
+<distance>52</distance>
+<photo num="17" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="17" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="UG" toid="WG">
+<distance>28</distance>
+<photo num="8" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="8" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="UG" toid="UE">
+<distance>72</distance>
+<photo num="20" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="20" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="UG" toid="UK">
+<distance>61</distance>
+<photo num="13" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="13" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="UG" toid="QG">
+<distance>34</distance>
+<photo num="11" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="11" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="UK" toid="WK">
+<distance>29</distance>
+<photo num="8" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="8" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="UK" toid="UG">
+<distance>61</distance>
+<photo num="14" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="14" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="UK" toid="UM">
+<distance>34</distance>
+<photo num="11" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="11" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="UK" toid="QK">
+<distance>36</distance>
+<photo num="12" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="12" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="UM" toid="UK">
+<distance>34</distance>
+<photo num="9" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="9" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="UM" toid="SM">
+<distance>20</distance>
+<photo num="6" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="6" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="SM" toid="UM">
+<distance>20</distance>
+<photo num="6" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="6" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="SM" toid="SO">
+<distance>21</distance>
+<photo num="9" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="9" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="SM" toid="QM">
+<distance>23</distance>
+<photo num="6" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="6" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="SO" toid="SM">
+<distance>21</distance>
+<photo num="9" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="9" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="SO" toid="SQ">
+<distance>43</distance>
+<photo num="9" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="9" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="SO" toid="RO">
+<distance>20</distance>
+<photo num="8" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="8" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="SQ" toid="WQ">
+<distance>40</distance>
+<photo num="11" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="11" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="SQ" toid="SO">
+<distance>43</distance>
+<photo num="8" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="8" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="SQ" toid="OQ">
+<distance>36</distance>
+<photo num="9" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="9" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="RO" toid="SO">
+<distance>20</distance>
+<photo num="8" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="8" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="RO" toid="QO">
+<distance>11</distance>
+<photo num="4" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="4" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="QG" toid="UG">
+<distance>34</distance>
+<photo num="10" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="10" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="QG" toid="QK">
+<distance>62</distance>
+<photo num="16" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="16" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="QG" toid="PG">
+<distance>8</distance>
+<photo num="3" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="3" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="QK" toid="UK">
+<distance>36</distance>
+<photo num="11" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="11" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="QK" toid="QG">
+<distance>62</distance>
+<photo num="16" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="16" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="QK" toid="QM">
+<distance>40</distance>
+<photo num="10" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="10" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="QM" toid="SM">
+<distance>23</distance>
+<photo num="6" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="6" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="QM" toid="QK">
+<distance>40</distance>
+<photo num="10" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="10" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="QM" toid="QO">
+<distance>13</distance>
+<photo num="5" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="5" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+<photo num="5" season="winter" weather="snow" date="2003/1">
+<dir>..\bikan\pano\snow</dir>
+</photo>
+</path>
+<path fromid="QM" toid="PM">
+<distance>9</distance>
+<photo num="4" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="4" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+<photo num="4" season="winter" weather="snow" date="2003/1">
+<dir>..\bikan\pano\snow</dir>
+</photo>
+</path>
+<path fromid="QO" toid="RO">
+<distance>11</distance>
+<photo num="4" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="4" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="QO" toid="QM">
+<distance>13</distance>
+<photo num="4" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="4" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+<photo num="4" season="winter" weather="snow" date="2003/1">
+<dir>..\bikan\pano\snow</dir>
+</photo>
+</path>
+<path fromid="QO" toid="MO">
+<distance>49</distance>
+<photo num="15" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="15" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+<photo num="14" season="winter" weather="snow" date="2003/1">
+<dir>..\bikan\pano\snow</dir>
+</photo>
+</path>
+<path fromid="PG" toid="QG">
+<distance>8</distance>
+<photo num="4" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="4" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="PG" toid="OG">
+<distance>8</distance>
+<photo num="3" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="3" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="PM" toid="QM">
+<distance>9</distance>
+<photo num="6" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="6" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+<photo num="4" season="winter" weather="snow" date="2003/1">
+<dir>..\bikan\pano\snow</dir>
+</photo>
+</path>
+<path fromid="PM" toid="OM">
+<distance>10</distance>
+<photo num="5" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="5" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+<photo num="5" season="winter" weather="snow" date="2003/1">
+<dir>..\bikan\pano\snow</dir>
+</photo>
+</path>
+<path fromid="OA" toid="OC">
+<distance>42</distance>
+<photo num="10" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="10" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="OA" toid="NA">
+<distance>69</distance>
+<photo num="14" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="14" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="OC" toid="OA">
+<distance>42</distance>
+<photo num="10" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="10" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="OC" toid="OE">
+<distance>17</distance>
+<photo num="6" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="6" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="OE" toid="UE">
+<distance>52</distance>
+<photo num="15" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="15" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="OE" toid="OC">
+<distance>17</distance>
+<photo num="6" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="6" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="OE" toid="OG">
+<distance>73</distance>
+<photo num="19" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="19" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="OG" toid="PG">
+<distance>8</distance>
+<photo num="3" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="3" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="OG" toid="OE">
+<distance>73</distance>
+<photo num="18" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="18" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="OG" toid="OI">
+<distance>23</distance>
+<photo num="6" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="6" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="OG" toid="NG">
+<distance>11</distance>
+<photo num="4" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="4" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="OI" toid="OG">
+<distance>23</distance>
+<photo num="6" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="6" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="OI" toid="OM">
+<distance>84</distance>
+<photo num="21" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="21" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="OI" toid="XI">
+<distance>42</distance>
+<photo num="10" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="10" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="OM" toid="PM">
+<distance>10</distance>
+<photo num="5" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="5" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+<photo num="3" season="winter" weather="snow" date="2003/1">
+<dir>..\bikan\pano\snow</dir>
+</photo>
+</path>
+<path fromid="OM" toid="OI">
+<distance>84</distance>
+<photo num="20" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="20" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="OM" toid="MM">
+<distance>25</distance>
+<photo num="7" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="7" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="OQ" toid="SQ">
+<distance>36</distance>
+<photo num="9" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="9" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="OQ" toid="MQ">
+<distance>40</distance>
+<photo num="10" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="10" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="NA" toid="OA">
+<distance>69</distance>
+<photo num="14" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="14" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="NA" toid="MA">
+<distance>50</distance>
+<photo num="11" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="11" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="NG" toid="OG">
+<distance>11</distance>
+<photo num="4" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="4" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="XE" toid="XG">
+<distance>19</distance>
+<photo num="5" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="5" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="XG" toid="XE">
+<distance>19</distance>
+<photo num="5" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="5" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="XG" toid="XI">
+<distance>12</distance>
+<photo num="5" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="5" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="XG" toid="MG">
+<distance>37</distance>
+<photo num="11" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="11" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="XI" toid="OI">
+<distance>42</distance>
+<photo num="10" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="10" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="XI" toid="XG">
+<distance>12</distance>
+<photo num="4" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="4" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="XI" toid="MI">
+<distance>41</distance>
+<photo num="10" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="10" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="MA" toid="NA">
+<distance>50</distance>
+<photo num="11" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="11" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="MA" toid="ME">
+<distance>55</distance>
+<photo num="14" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="14" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="MA" toid="KA">
+<distance>39</distance>
+<photo num="8" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="8" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="ME" toid="MA">
+<distance>55</distance>
+<photo num="14" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="14" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="ME" toid="MG">
+<distance>33</distance>
+<photo num="6" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="6" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="ME" toid="LE">
+<distance>15</distance>
+<photo num="2" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="2" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="MG" toid="XG">
+<distance>37</distance>
+<photo num="15" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="15" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="MG" toid="ME">
+<distance>33</distance>
+<photo num="7" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="7" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="MG" toid="MI">
+<distance>10</distance>
+<photo num="3" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="3" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="MI" toid="XI">
+<distance>41</distance>
+<photo num="11" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="11" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="MI" toid="MG">
+<distance>10</distance>
+<photo num="3" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="3" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="MI" toid="KI">
+<distance>33</distance>
+<photo num="6" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="6" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="MM" toid="OM">
+<distance>25</distance>
+<photo num="8" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="8" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="MM" toid="LM">
+<distance>27</distance>
+<photo num="10" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="10" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="MO" toid="QO">
+<distance>49</distance>
+<photo num="15" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="15" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+<photo num="14" season="winter" weather="snow" date="2003/1">
+<dir>..\bikan\pano\snow</dir>
+</photo>
+</path>
+<path fromid="MO" toid="MQ">
+<distance>55</distance>
+<photo num="16" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="16" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="MO" toid="CO">
+<distance>114</distance>
+<photo num="29" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="29" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="MQ" toid="OQ">
+<distance>40</distance>
+<photo num="11" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="11" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="MQ" toid="MO">
+<distance>55</distance>
+<photo num="15" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="15" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="MQ" toid="KQ">
+<distance>19</distance>
+<photo num="5" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="5" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="LE" toid="ME">
+<distance>15</distance>
+<photo num="2" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="2" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="LM" toid="MM">
+<distance>27</distance>
+<photo num="12" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="12" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="LM" toid="CM">
+<distance>102</distance>
+<photo num="18" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="18" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="KA" toid="MA">
+<distance>39</distance>
+<photo num="8" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="8" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="KA" toid="KI">
+<distance>84</distance>
+<photo num="17" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="17" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="KA" toid="CA">
+<distance>96</distance>
+<photo num="21" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="21" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="KI" toid="MI">
+<distance>33</distance>
+<photo num="6" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="6" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="KI" toid="KA">
+<distance>84</distance>
+<photo num="16" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="16" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="KI" toid="AI">
+<distance>111</distance>
+<photo num="23" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="23" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="KQ" toid="MQ">
+<distance>19</distance>
+<photo num="5" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="5" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="KQ" toid="CQ">
+<distance>77</distance>
+<photo num="18" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="18" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="CA" toid="KA">
+<distance>96</distance>
+<photo num="23" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="23" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="CA" toid="AA">
+<distance>26</distance>
+<photo num="4" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="4" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="CM" toid="LM">
+<distance>102</distance>
+<photo num="17" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="17" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="CM" toid="CO">
+<distance>14</distance>
+<photo num="6" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="6" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="CM" toid="AM">
+<distance>9</distance>
+<photo num="0" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="0" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="CO" toid="MO">
+<distance>114</distance>
+<photo num="28" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="28" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="CO" toid="CM">
+<distance>14</distance>
+<photo num="6" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="6" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="CO" toid="CQ">
+<distance>53</distance>
+<photo num="13" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="13" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="CO" toid="AO">
+<distance>9</distance>
+<photo num="0" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="0" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="CQ" toid="KQ">
+<distance>77</distance>
+<photo num="17" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="17" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="CQ" toid="CO">
+<distance>53</distance>
+<photo num="14" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="14" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="CQ" toid="AQ">
+<distance>8</distance>
+<photo num="2" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="2" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="AA" toid="CA">
+<distance>26</distance>
+<photo num="5" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="5" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="AA" toid="AI">
+<distance>59</distance>
+<photo num="12" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="12" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="AI" toid="KI">
+<distance>111</distance>
+<photo num="25" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="25" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="AI" toid="AA">
+<distance>59</distance>
+<photo num="12" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="12" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="AI" toid="AK">
+<distance>21</distance>
+<photo num="5" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="5" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="AK" toid="AI">
+<distance>21</distance>
+<photo num="5" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="5" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="AK" toid="AM">
+<distance>85</distance>
+<photo num="18" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="18" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="AM" toid="CM">
+<distance>9</distance>
+<photo num="0" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="0" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="AM" toid="AK">
+<distance>85</distance>
+<photo num="19" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="19" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="AM" toid="AO">
+<distance>14</distance>
+<photo num="5" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="5" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="AO" toid="CO">
+<distance>9</distance>
+<photo num="0" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="0" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="AO" toid="AM">
+<distance>14</distance>
+<photo num="4" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="4" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="AO" toid="AQ">
+<distance>52</distance>
+<photo num="12" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="12" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="AQ" toid="CQ">
+<distance>8</distance>
+<photo num="1" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="1" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+<path fromid="AQ" toid="AO">
+<distance>52</distance>
+<photo num="13" season="winter" weather="default" date="2002/12">
+<dir>..\bikan\pano</dir>
+</photo>
+<photo num="13" season="winter" weather="wb" date="2002/12">
+<dir>..\bikan\pano\wb</dir>
+</photo>
+</path>
+
+
+
+<point>
+<pos>269,287</pos>
+<icon>..\bikan\poi\oohara.gif</icon>
+<img>..\bikan\poi\大原美術館.jpg</img>
+<txt>..\bikan\poi\大原美術館.txt</txt>
+</point>
+<point>
+<pos>479,328</pos>
+<icon>..\bikan\poi\kouko.gif</icon>
+<img>..\bikan\poi\倉敷考古館.jpg</img>
+<txt>..\bikan\poi\倉敷考古館.txt</txt>
+</point>
+<point>
+<pos>441,410</pos>
+<icon>..\bikan\poi\kurasi.gif</icon>
+<img>..\bikan\poi\倉敷館.jpg</img>
+<txt>..\bikan\poi\倉敷館.txt</txt>
+</point>
+<point>
+<pos>614,495</pos>
+<icon>..\bikan\poi\アイビー.gif</icon>
+<img>..\bikan\poi\アイビー.jpg</img>
+<txt>..\bikan\poi\アイビー.txt</txt>
+</point>
+<point>
+<pos>398,145</pos>
+<icon>..\bikan\poi\中銀.gif</icon>
+<img>..\bikan\poi\中銀.jpg</img>
+<txt>..\bikan\poi\中銀.txt</txt>
+</point>
+<point>
+<pos>236,366</pos>
+<icon>..\bikan\poi\新渓園.gif</icon>
+<img>..\bikan\poi\新渓園.jpg</img>
+<txt>..\bikan\poi\新渓園.txt</txt>
+</point>
+<point>
+<pos>428,490</pos>
+<icon>..\bikan\poi\郷土玩具.gif</icon>
+<img>..\bikan\poi\郷土玩具.jpg</img>
+<txt>..\bikan\poi\郷土玩具.txt</txt>
+</point>
+<point>
+<pos>351,215</pos>
+<icon>..\bikan\poi\有隣荘.gif</icon>
+<img>..\bikan\poi\有隣荘.jpg</img>
+<txt>..\bikan\poi\有隣荘.txt</txt>
+</point>
+<point>
+<pos>433,450</pos>
+<icon>..\bikan\poi\民芸館.gif</icon>
+<img>..\bikan\poi\民芸館.jpg</img>
+<txt>..\bikan\poi\民芸館.txt</txt>
+</point>
+<point>
+<pos>89,293</pos>
+<icon>..\bikan\poi\国際ホテル.gif</icon>
+<img>..\bikan\poi\国際ホテル.jpg</img>
+<txt>..\bikan\poi\国際ホテル.txt</txt>
+</point>
+<point>
+<pos>407,275</pos>
+<icon>..\bikan\poi\鶴形.gif</icon>
+<img>..\bikan\poi\鶴形.jpg</img>
+<txt>..\bikan\poi\鶴形.txt</txt>
+</point>
+<point>
+<pos>251,230</pos>
+<icon>..\bikan\poi\エルグレコ.gif</icon>
+<img>..\bikan\poi\エルグレコ.jpg</img>
+<txt>..\bikan\poi\エルグレコ.txt</txt>
+</point>
+<point>
+<pos>519,376</pos>
+<icon>..\bikan\poi\旅館.gif</icon>
+<img>..\bikan\poi\旅館.jpg</img>
+<txt>..\bikan\poi\旅館.txt</txt>
+</point>
+<point>
+<pos>613,273</pos>
+<icon>..\bikan\poi\ビール館.gif</icon>
+<img>..\bikan\poi\ビール館.jpg</img>
+<txt>..\bikan\poi\ビール館.txt</txt>
+</point>
+
+  <scene id="1">
+    <name>大原美術館</name>
+    <pos mode="start">NG</pos>
+    <pos mode="end">NG:L13</pos>
+  </scene>
+  <scene id="2">
+    <name>倉敷考古館</name>
+    <pos mode="start">QM</pos>
+    <pos mode="end">QM:L03</pos>
+  </scene>
+  <scene id="3">
+    <name>倉敷館</name>
+    <pos mode="start">OM</pos>
+    <pos mode="end">OM:L12</pos>
+  </scene>
+
+</data>

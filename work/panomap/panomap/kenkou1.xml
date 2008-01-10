@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="Shift_JIS"?>
+<data>
+  <mapinfo mid="MAP01">
+    <mapimg>kenkou1.gif</mapimg>
+    <initid>CP</initid>
+    <initmuki>IP</initmuki>
+  </mapinfo>
+  <pano id="PP">
+    <map id="MAP01">
+      <pos>120,50</pos>
+    </map>
+    <photo>
+      <panomuki>105</panomuki>
+      <dir>..&#x5c;kenkou</dir>
+      <file>1-PP-00.jpg</file>
+      <pata toid="IP">
+        <area>990,57,1090,157</area>
+      </pata>
+    </photo>
+  </pano>
+  <pano id="IP">
+    <map id="MAP01">
+      <pos>120,140</pos>
+    </map>
+    <photo>
+      <panomuki>110</panomuki>
+      <dir>..&#x5c;kenkou</dir>
+      <file>1-IP-00.jpg</file>
+      <pata toid="PP">
+        <area>60,57,160,157</area>
+      </pata>
+      <pata toid="CP">
+        <area>1010,57,1110,157</area>
+      </pata>
+      <warp id="W02">
+        <area>1787,117,1811,142</area>
+        <object>kenkou4.xml</object>
+        <initid>IO</initid>
+        <initmuki>!W01</initmuki>
+      </warp>
+      <pata toid="EVT1">
+        <area>1739,46,1781,178</area>
+      </pata>
+      <size>1917,228</size>
+    </photo>
+    <inf/>
+  </pano>
+  <pano id="CP">
+    <map id="MAP01">
+      <pos>120,200</pos>
+    </map>
+    <photo>
+      <panomuki>285</panomuki>
+      <dir>..&#x5c;kenkou</dir>
+      <file>1-CP-00.jpg</file>
+      <pata toid="IP">
+        <area>990,57,1090,157</area>
+      </pata>
+      <warp id="W01">
+        <area>0,50,100,190</area>
+        <object>bikan.xml</object>
+        <initid>QM</initid>
+        <initmuki>!W01</initmuki>
+      </warp>
+    </photo>
+  </pano>
+  <path fromid="PP" toid="IP">
+    <distance>45</distance>
+    <photo num="9">
+      <dir>..&#x5c;kenkou</dir>
+      <pre>1-PP-IP-</pre>
+    </photo>
+  </path>
+  <path fromid="IP" toid="PP">
+    <distance>45</distance>
+    <photo num="7">
+      <dir>..&#x5c;kenkou</dir>
+      <pre>1-IP-PP-</pre>
+    </photo>
+  </path>
+  <path fromid="IP" toid="CP">
+    <distance>30</distance>
+    <photo num="3">
+      <dir>..&#x5c;kenkou</dir>
+      <pre>1-IP-CP-</pre>
+    </photo>
+  </path>
+  <path fromid="CP" toid="IP">
+    <distance>30</distance>
+    <photo num="5">
+      <dir>..&#x5c;kenkou</dir>
+      <pre>1-CP-IP-</pre>
+    </photo>
+  </path>
+  <scene id="0">
+    <name>行き</name>
+    <pos mode="start">CP</pos>
+    <pos mode="skip">IP</pos>
+    <pos mode="end">PP</pos>
+  </scene>
+  <scene id="1">
+    <name>帰り</name>
+    <pos mode="start">PP</pos>
+    <pos mode="skip">IP</pos>
+    <pos mode="end">CP</pos>
+  </scene>
+  <pano id="EVT1">
+    <map id="XX">
+      <pos>100,123</pos>
+    </map>
+    <inf/>
+    <photo date="default" season="default" weather="default">
+      <panomuki>319</panomuki>
+      <dir>..&#x5c;kenkou</dir>
+      <file>EVT1-00.jpg</file>
+      <size>1600,240</size>
+      <pata toid="IP">
+        <area>1491,26,108,223</area>
+      </pata>
+      <warp id="W004">
+        <area>161,97,179,115</area>
+        <object>kenkou4.xml</object>
+        <initid>EVT4</initid>
+        <initmuki>IO</initmuki>
+      </warp>
+    </photo>
+  </pano>
+  <path fromid="IP" toid="EVT1">
+    <distance/>
+    <photo date="default" num="0" season="default" weather="default">
+      <dir/>
+      <pre/>
+    </photo>
+  </path>
+  <path fromid="EVT1" toid="IP">
+    <distance/>
+    <photo date="default" num="0" season="default" weather="default">
+      <dir/>
+      <pre/>
+    </photo>
+  </path>
+</data>

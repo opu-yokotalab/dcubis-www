@@ -1,0 +1,1558 @@
+<?xml version="1.0" encoding="Shift_JIS"?>
+<data>
+
+<mapinfo mid="MAP01">
+<mapimg>兼六園.gif</mapimg>
+<initid>G6</initid>
+<initmuki>H6</initmuki>
+</mapinfo>
+
+<pano id="M1">
+<map id="MAP01">
+<pos>495,109</pos>
+</map>
+<photo season="winter" weather="default" date="2003/3">
+<panomuki>317</panomuki>
+<dir>..\兼六園</dir><file>M1-00.jpg</file>
+<pata toid="M2">
+<area>1830,57,1930,157</area>
+</pata>
+<pata toid="L1">
+<area>936,57,1036,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="M2">
+<map id="MAP01">
+<pos>511,119</pos>
+</map>
+<photo season="winter" weather="default" date="2003/3">
+<panomuki>26</panomuki>
+<dir>..\兼六園</dir><file>M2-00.jpg</file>
+<pata toid="M1">
+<area>1232,57,1332,157</area>
+</pata>
+<pata toid="M3">
+<area>1792,57,1892,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="M3">
+<map id="MAP01">
+<pos>521,112</pos>
+</map>
+<photo season="winter" weather="default" date="2003/3">
+<panomuki>216</panomuki>
+<dir>..\兼六園</dir><file>M3-00.jpg</file>
+<pata toid="M2">
+<area>1900,57,2000,157</area>
+</pata>
+<pata toid="M4">
+<area>1302,57,1402,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="M4">
+<map id="MAP01">
+<pos>564,146</pos>
+</map>
+<photo season="winter" weather="default" date="2003/3">
+<panomuki>360</panomuki>
+<dir>..\兼六園</dir><file>M4-00.jpg</file>
+<pata toid="M3">
+<area>1124,57,1224,157</area>
+</pata>
+<pata toid="M5">
+<area>1798,57,1898,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="M5">
+<map id="MAP01">
+<pos>609,137</pos>
+</map>
+<photo season="winter" weather="default" date="2003/3">
+<panomuki>141</panomuki>
+<dir>..\兼六園</dir><file>M5-00.jpg</file>
+<pata toid="M4">
+<area>1618,57,1718,157</area>
+</pata>
+<pata toid="M6">
+<area>1074,57,1174,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="M6">
+<map id="MAP01">
+<pos>645,184</pos>
+</map>
+<photo season="winter" weather="default" date="2003/3">
+<panomuki>191</panomuki>
+<dir>..\兼六園</dir><file>M6-00.jpg</file>
+<pata toid="M5">
+<area>302,57,402,157</area>
+</pata>
+<pata toid="L6">
+<area>1846,57,1946,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="L1">
+<map id="MAP01">
+<pos>480,99</pos>
+</map>
+<photo season="winter" weather="default" date="2003/3">
+<panomuki>157</panomuki>
+<dir>..\兼六園</dir><file>L1-00.jpg</file>
+<pata toid="M1">
+<area>980,57,1080,157</area>
+</pata>
+<pata toid="K1">
+<area>1927,57,2027,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="L6">
+<map id="MAP01">
+<pos>586,217</pos>
+</map>
+<photo season="winter" weather="default" date="2003/3">
+<panomuki>266</panomuki>
+<dir>..\兼六園</dir><file>L6-00.jpg</file>
+<pata toid="M6">
+<area>1232,57,1332,157</area>
+</pata>
+<pata toid="K6">
+<area>90,57,190,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="L8">
+<map id="MAP01">
+<pos>624,420</pos>
+</map>
+<photo season="winter" weather="default" date="2003/3">
+<panomuki>69</panomuki>
+<dir>..\兼六園</dir><file>L8-00.jpg</file>
+<pata toid="L9">
+<area>376,57,476,157</area>
+</pata>
+<pata toid="K8">
+<area>966,57,1066,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="L9">
+<map id="MAP01">
+<pos>679,430</pos>
+</map>
+<photo season="winter" weather="default" date="2003/3">
+<panomuki>67</panomuki>
+<dir>..\兼六園</dir><file>L9-00.jpg</file>
+<pata toid="L8">
+<area>1338,57,1438,157</area>
+</pata>
+<pata toid="K9">
+<area>724,57,824,157</area>
+</pata>
+<link id="L2">
+<area>1913,32,2000,138</area>
+<object>..\兼六園\明治紀念.jpg</object>
+</link>
+</photo>
+</pano>
+<pano id="K1">
+<map id="MAP01">
+<pos>394,64</pos>
+</map>
+<photo season="winter" weather="default" date="2003/3">
+<panomuki>258</panomuki>
+<dir>..\兼六園</dir><file>K1-00.jpg</file>
+<pata toid="L1">
+<area>1458,57,1558,157</area>
+</pata>
+<pata toid="J1">
+<area>288,57,388,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="K6">
+<map id="MAP01">
+<pos>577,260</pos>
+</map>
+<photo season="winter" weather="default" date="2003/3">
+<panomuki>306</panomuki>
+<dir>..\兼六園</dir><file>K6-00.jpg</file>
+<pata toid="L6">
+<area>1180,57,1280,157</area>
+</pata>
+<pata toid="J6">
+<area>456,57,556,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="K8">
+<map id="MAP01">
+<pos>584,453</pos>
+</map>
+<photo season="winter" weather="default" date="2003/3">
+<panomuki>87</panomuki>
+<dir>..\兼六園</dir><file>K8-00.jpg</file>
+<pata toid="L8">
+<area>204,57,304,157</area>
+</pata>
+<pata toid="J8">
+<area>1096,57,1196,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="K9">
+<map id="MAP01">
+<pos>687,484</pos>
+</map>
+<photo season="winter" weather="default" date="2003/3">
+<panomuki>63</panomuki>
+<dir>..\兼六園</dir><file>K9-00.jpg</file>
+<pata toid="L9">
+<area>1706,57,1806,157</area>
+</pata>
+<pata toid="J9">
+<area>838,57,938,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="J1">
+<map id="MAP01">
+<pos>311,108</pos>
+</map>
+<photo season="winter" weather="default" date="2003/3">
+<panomuki>52</panomuki>
+<dir>..\兼六園</dir><file>J1-00.jpg</file>
+<pata toid="K1">
+<area>84,57,184,157</area>
+</pata>
+<pata toid="I1">
+<area>710,57,810,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="J6">
+<map id="MAP01">
+<pos>552,290</pos>
+</map>
+<photo season="winter" weather="default" date="2003/3">
+<panomuki>63</panomuki>
+<dir>..\兼六園</dir><file>J6-00.jpg</file>
+<pata toid="K6">
+<area>22,57,122,157</area>
+</pata>
+<pata toid="I6">
+<area>1046,57,1146,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="J8">
+<map id="MAP01">
+<pos>581,466</pos>
+</map>
+<photo season="winter" weather="default" date="2003/3">
+<panomuki>172</panomuki>
+<dir>..\兼六園</dir><file>J8-00.jpg</file>
+<pata toid="K8">
+<area>464,57,564,157</area>
+</pata>
+<pata toid="I8">
+<area>1710,57,1810,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="J9">
+<map id="MAP01">
+<pos>686,511</pos>
+</map>
+<photo season="winter" weather="default" date="2003/3">
+<panomuki>81</panomuki>
+<dir>..\兼六園</dir><file>J9-00.jpg</file>
+<pata toid="K9">
+<area>1852,57,1952,157</area>
+</pata>
+<pata toid="I9">
+<area>542,57,642,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="I1">
+<map id="MAP01">
+<pos>296,191</pos>
+</map>
+<photo season="winter" weather="default" date="2003/3">
+<panomuki>321</panomuki>
+<dir>..\兼六園</dir><file>I1-00.jpg</file>
+<pata toid="J1">
+<area>1254,57,1354,157</area>
+</pata>
+<pata toid="H1">
+<area>1890,57,1990,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="I6">
+<map id="MAP01">
+<pos>531,330</pos>
+</map>
+<photo season="winter" weather="default" date="2003/3">
+<panomuki>230</panomuki>
+<dir>..\兼六園</dir><file>I6-00.jpg</file>
+<pata toid="J6">
+<area>856,57,956,157</area>
+</pata>
+<pata toid="H6">
+<area>1744,57,1844,157</area>
+</pata>
+<link id="L1">
+<area>250,55,430,154</area>
+<object>..\兼六園\内橋亭.jpg</object>
+</link>
+</photo>
+</pano>
+<pano id="I8">
+<map id="MAP01">
+<pos>565,477</pos>
+</map>
+<photo season="winter" weather="default" date="2003/3">
+<panomuki>336</panomuki>
+<dir>..\兼六園</dir><file>I8-00.jpg</file>
+<pata toid="J8">
+<area>1574,57,1674,157</area>
+</pata>
+<pata toid="H8">
+<area>608,57,708,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="I9">
+<map id="MAP01">
+<pos>730,513</pos>
+</map>
+<photo season="winter" weather="default" date="2003/3">
+<panomuki>81</panomuki>
+<dir>..\兼六園</dir><file>I9-00.jpg</file>
+<pata toid="J9">
+<area>1374,57,1474,157</area>
+</pata>
+<pata toid="H9">
+<area>204,57,304,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="H1">
+<map id="MAP01">
+<pos>307,216</pos>
+</map>
+<photo season="winter" weather="default" date="2003/3">
+<panomuki>331</panomuki>
+<dir>..\兼六園</dir><file>H1-00.jpg</file>
+<pata toid="I1">
+<area>1122,57,1222,157</area>
+</pata>
+<pata toid="F1">
+<area>472,57,572,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="H6">
+<map id="MAP01">
+<pos>504,379</pos>
+</map>
+<photo season="winter" weather="default" date="2003/3">
+<panomuki>153</panomuki>
+<dir>..\兼六園</dir><file>H6-00.jpg</file>
+<pata toid="I6">
+<area>448,57,548,157</area>
+</pata>
+<pata toid="G8">
+<area>1370,57,1470,157</area>
+</pata>
+<pata toid="G6">
+<area>1736,57,1836,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="H8">
+<map id="MAP01">
+<pos>547,485</pos>
+</map>
+<photo season="winter" weather="default" date="2003/3">
+<panomuki>217</panomuki>
+<dir>..\兼六園</dir><file>H8-00.jpg</file>
+<pata toid="I8">
+<area>994,57,1094,157</area>
+</pata>
+<pata toid="G8">
+<area>214,57,314,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="H9">
+<map id="MAP01">
+<pos>776,498</pos>
+</map>
+<photo season="winter" weather="default" date="2003/3">
+<panomuki>64</panomuki>
+<dir>..\兼六園</dir><file>H9-00.jpg</file>
+<pata toid="I9">
+<area>1166,57,1266,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="G6">
+<map id="MAP01">
+<pos>469,396</pos>
+</map>
+<photo season="winter" weather="default" date="2003/3">
+<panomuki>160</panomuki>
+<dir>..\兼六園</dir><file>G6-00.jpg</file>
+<pata toid="H6">
+<area>676,57,776,157</area>
+</pata>
+<pata toid="G8">
+<area>1166,57,1266,157</area>
+</pata>
+<pata toid="F6">
+<area>1870,57,1970,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="G8">
+<map id="MAP01">
+<pos>507,469</pos>
+</map>
+<photo season="winter" weather="default" date="2003/3">
+<panomuki>326</panomuki>
+<dir>..\兼六園</dir><file>G8-00.jpg</file>
+<pata toid="H6">
+<area>1212,57,1312,157</area>
+</pata>
+<pata toid="H8">
+<area>1780,57,1880,157</area>
+</pata>
+<pata toid="G6">
+<area>1044,57,1144,157</area>
+</pata>
+<pata toid="G9">
+<area>512,57,612,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="G9">
+<map id="MAP01">
+<pos>467,490</pos>
+</map>
+<photo season="winter" weather="default" date="2003/3">
+<panomuki>124</panomuki>
+<dir>..\兼六園</dir><file>G9-00.jpg</file>
+<pata toid="G8">
+<area>470,57,570,157</area>
+</pata>
+<pata toid="F9">
+<area>1494,57,1594,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="F1">
+<map id="MAP01">
+<pos>281,265</pos>
+</map>
+<photo season="winter" weather="default" date="2003/3">
+<panomuki>334</panomuki>
+<dir>..\兼六園</dir><file>F1-00.jpg</file>
+<pata toid="H1">
+<area>1418,100,1518,200</area>
+</pata>
+<pata toid="F2">
+<area>34,57,134,157</area>
+</pata>
+<pata toid="E1">
+<area>1084,120,1184,220</area>
+</pata>
+</photo>
+</pano>
+<pano id="F2">
+<map id="MAP01">
+<pos>318,284</pos>
+</map>
+<photo season="winter" weather="default" date="2003/3">
+<panomuki>55</panomuki>
+<dir>..\兼六園</dir><file>F2-00.jpg</file>
+<pata toid="F1">
+<area>1360,57,1460,157</area>
+</pata>
+<pata toid="F3">
+<area>476,57,576,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="F3">
+<map id="MAP01">
+<pos>404,338</pos>
+</map>
+<photo season="winter" weather="default" date="2003/3">
+<panomuki>49</panomuki>
+<dir>..\兼六園</dir><file>F3-00.jpg</file>
+<pata toid="F2">
+<area>1358,57,1458,157</area>
+</pata>
+<pata toid="F6">
+<area>552,57,652,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="F6">
+<map id="MAP01">
+<pos>435,390</pos>
+</map>
+<photo season="winter" weather="default" date="2003/3">
+<panomuki>155</panomuki>
+<dir>..\兼六園</dir><file>F6-00.jpg</file>
+<pata toid="G6">
+<area>842,57,942,157</area>
+</pata>
+<pata toid="F3">
+<area>1922,57,2022,157</area>
+</pata>
+<pata toid="F7">
+<area>1180,57,1280,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="F7">
+<map id="MAP01">
+<pos>429,425</pos>
+</map>
+<photo season="winter" weather="default" date="2003/3">
+<panomuki>92</panomuki>
+<dir>..\兼六園</dir><file>F7-00.jpg</file>
+<pata toid="F6">
+<area>18,57,118,157</area>
+</pata>
+<pata toid="F8">
+<area>1208,57,1308,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="F8">
+<map id="MAP01">
+<pos>398,457</pos>
+</map>
+<photo season="winter" weather="default" date="2003/3">
+<panomuki>63</panomuki>
+<dir>..\兼六園</dir><file>F8-00.jpg</file>
+<pata toid="F7">
+<area>44,57,144,157</area>
+</pata>
+<pata toid="F9">
+<area>556,57,656,157</area>
+</pata>
+<pata toid="C8">
+<area>1036,57,1136,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="F9">
+<map id="MAP01">
+<pos>436,498</pos>
+</map>
+<photo season="winter" weather="default" date="2003/3">
+<panomuki>131</panomuki>
+<dir>..\兼六園</dir><file>F9-00.jpg</file>
+<pata toid="G9">
+<area>584,57,684,157</area>
+</pata>
+<pata toid="F8">
+<area>1880,57,1980,157</area>
+</pata>
+<pata toid="E9">
+<area>1316,57,1416,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="E1">
+<map id="MAP01">
+<pos>210,249</pos>
+</map>
+<photo season="winter" weather="default" date="2003/3">
+<panomuki>310</panomuki>
+<dir>..\兼六園</dir><file>E1-00.jpg</file>
+<pata toid="F1">
+<area>1690,57,1790,157</area>
+</pata>
+<pata toid="E2">
+<area>534,57,634,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="E2">
+<map id="MAP01">
+<pos>165,263</pos>
+</map>
+<photo season="winter" weather="default" date="2003/3">
+<panomuki>42</panomuki>
+<dir>..\兼六園</dir><file>E2-00.jpg</file>
+<pata toid="E1">
+<area>86,57,186,157</area>
+</pata>
+<pata toid="E3">
+<area>1202,57,1302,157</area>
+</pata>
+<link id="L3">
+<area>1833,13,2015,158</area>
+<object>..\兼六園\夕顔亭.jpg</object>
+</link>
+</photo>
+</pano>
+<pano id="E3">
+<map id="MAP01">
+<pos>135,262</pos>
+</map>
+<photo season="winter" weather="default" date="2003/3">
+<panomuki>217</panomuki>
+<dir>..\兼六園</dir><file>E3-00.jpg</file>
+<pata toid="E2">
+<area>1130,57,1230,157</area>
+</pata>
+<pata toid="E4">
+<area>1628,57,1728,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="E4">
+<map id="MAP01">
+<pos>106,326</pos>
+</map>
+<photo season="winter" weather="default" date="2003/3">
+<panomuki>292</panomuki>
+<dir>..\兼六園</dir><file>E4-00.jpg</file>
+<pata toid="E3">
+<area>1168,57,1268,157</area>
+</pata>
+<pata toid="E5">
+<area>164,57,264,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="E5">
+<map id="MAP01">
+<pos>85,388</pos>
+</map>
+<photo season="winter" weather="default" date="2003/3">
+<panomuki>63</panomuki>
+<dir>..\兼六園</dir><file>E5-00.jpg</file>
+<pata toid="E4">
+<area>1845,57,1945,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="E9">
+<map id="MAP01">
+<pos>410,523</pos>
+</map>
+<photo season="winter" weather="default" date="2003/3">
+<panomuki>285</panomuki>
+<dir>..\兼六園</dir><file>E9-00.jpg</file>
+<pata toid="F9">
+<area>1250,57,1350,157</area>
+</pata>
+<pata toid="C9">
+<area>676,57,776,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="C8">
+<map id="MAP01">
+<pos>364,489</pos>
+</map>
+<photo season="winter" weather="default" date="2003/3">
+<panomuki>259</panomuki>
+<dir>..\兼六園</dir><file>C8-00.jpg</file>
+<pata toid="F8">
+<area>1116,57,1216,157</area>
+</pata>
+<pata toid="C9">
+<area>1450,57,1550,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="C9">
+<map id="MAP01">
+<pos>383,521</pos>
+</map>
+<photo season="winter" weather="default" date="2003/3">
+<panomuki>189</panomuki>
+<dir>..\兼六園</dir><file>C9-00.jpg</file>
+<pata toid="E9">
+<area>992,57,1092,157</area>
+</pata>
+<pata toid="C8">
+<area>206,57,306,157</area>
+</pata>
+<pata toid="A9">
+<area>1258,57,1358,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="A1">
+<map id="MAP01">
+<pos>238,444</pos>
+</map>
+<photo season="winter" weather="default" date="2003/3">
+<panomuki>333</panomuki>
+<dir>..\兼六園</dir><file>A1-00.jpg</file>
+<pata toid="A2">
+<area>596,57,696,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="A2">
+<map id="MAP01">
+<pos>203,468</pos>
+</map>
+<photo season="winter" weather="default" date="2003/3">
+<panomuki>223</panomuki>
+<dir>..\兼六園</dir><file>A2-00.jpg</file>
+<pata toid="A1">
+<area>974,57,1074,157</area>
+</pata>
+<pata toid="A3">
+<area>1728,57,1828,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="A3">
+<map id="MAP01">
+<pos>218,513</pos>
+</map>
+<photo season="winter" weather="default" date="2003/3">
+<panomuki>322</panomuki>
+<dir>..\兼六園</dir><file>A3-00.jpg</file>
+<pata toid="A2">
+<area>1108,57,1208,157</area>
+</pata>
+<pata toid="A4">
+<area>1822,57,1922,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="A4">
+<map id="MAP01">
+<pos>262,543</pos>
+</map>
+<photo season="winter" weather="default" date="2003/3">
+<panomuki>26</panomuki>
+<dir>..\兼六園</dir><file>A4-00.jpg</file>
+<pata toid="A3">
+<area>972,57,1072,157</area>
+</pata>
+<pata toid="A5">
+<area>170,57,270,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="A5">
+<map id="MAP01">
+<pos>309,597</pos>
+</map>
+<photo season="winter" weather="default" date="2003/3">
+<panomuki>78</panomuki>
+<dir>..\兼六園</dir><file>A5-00.jpg</file>
+<pata toid="A4">
+<area>1606,57,1706,157</area>
+</pata>
+<pata toid="A6">
+<area>408,57,508,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="A6">
+<map id="MAP01">
+<pos>346,626</pos>
+</map>
+<photo season="winter" weather="default" date="2003/3">
+<panomuki>5</panomuki>
+<dir>..\兼六園</dir><file>A6-00.jpg</file>
+<pata toid="A5">
+<area>1156,57,1256,157</area>
+</pata>
+<pata toid="A7">
+<area>1828,57,1928,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="A7">
+<map id="MAP01">
+<pos>366,598</pos>
+</map>
+<photo season="winter" weather="default" date="2003/3">
+<panomuki>128</panomuki>
+<dir>..\兼六園</dir><file>A7-00.jpg</file>
+<pata toid="A6">
+<area>1322,57,1422,157</area>
+</pata>
+<pata toid="A8">
+<area>374,57,474,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="A8">
+<map id="MAP01">
+<pos>383,572</pos>
+</map>
+<photo season="winter" weather="default" date="2003/3">
+<panomuki>85</panomuki>
+<dir>..\兼六園</dir><file>A8-00.jpg</file>
+<pata toid="A7">
+<area>1074,57,1174,157</area>
+</pata>
+<pata toid="A9">
+<area>1892,57,1992,157</area>
+</pata>
+</photo>
+</pano>
+<pano id="A9">
+<map id="MAP01">
+<pos>396,551</pos>
+</map>
+<photo season="winter" weather="default" date="2003/3">
+<panomuki>96</panomuki>
+<dir>..\兼六園</dir><file>A9-00.jpg</file>
+<pata toid="C9">
+<area>1802,57,1902,157</area>
+</pata>
+<pata toid="A8">
+<area>1166,57,1266,157</area>
+</pata>
+</photo>
+</pano>
+
+
+
+<path fromid="M1" toid="M2">
+<distance>9</distance>
+<photo num="2" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="M1" toid="L1">
+<distance>9</distance>
+<photo num="3" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="M2" toid="M1">
+<distance>9</distance>
+<photo num="2" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="M2" toid="M3">
+<distance>6</distance>
+<photo num="1" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="M3" toid="M2">
+<distance>6</distance>
+<photo num="1" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="M3" toid="M4">
+<distance>27</distance>
+<photo num="5" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="M4" toid="M3">
+<distance>27</distance>
+<photo num="3" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="M4" toid="M5">
+<distance>22</distance>
+<photo num="4" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="M5" toid="M4">
+<distance>22</distance>
+<photo num="5" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="M5" toid="M6">
+<distance>29</distance>
+<photo num="5" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="M6" toid="M5">
+<distance>29</distance>
+<photo num="5" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="M6" toid="L6">
+<distance>33</distance>
+<photo num="7" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="L1" toid="M1">
+<distance>9</distance>
+<photo num="4" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="L1" toid="K1">
+<distance>46</distance>
+<photo num="11" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="L6" toid="M6">
+<distance>33</distance>
+<photo num="8" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="L6" toid="K6">
+<distance>21</distance>
+<photo num="5" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="L8" toid="L9">
+<distance>27</distance>
+<photo num="7" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="L8" toid="K8">
+<distance>25</distance>
+<photo num="4" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="L9" toid="L8">
+<distance>27</distance>
+<photo num="7" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="L9" toid="K9">
+<distance>27</distance>
+<photo num="4" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="K1" toid="L1">
+<distance>46</distance>
+<photo num="11" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="K1" toid="J1">
+<distance>46</distance>
+<photo num="11" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="K6" toid="L6">
+<distance>21</distance>
+<photo num="5" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="K6" toid="J6">
+<distance>19</distance>
+<photo num="4" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="K8" toid="L8">
+<distance>25</distance>
+<photo num="3" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="K8" toid="J8">
+<distance>6</distance>
+<photo num="2" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="K9" toid="L9">
+<distance>27</distance>
+<photo num="4" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="K9" toid="J9">
+<distance>13</distance>
+<photo num="2" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="J1" toid="K1">
+<distance>46</distance>
+<photo num="9" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="J1" toid="I1">
+<distance>42</distance>
+<photo num="8" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="J6" toid="K6">
+<distance>19</distance>
+<photo num="5" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="J6" toid="I6">
+<distance>22</distance>
+<photo num="6" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="J8" toid="K8">
+<distance>6</distance>
+<photo num="2" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="J8" toid="I8">
+<distance>9</distance>
+<photo num="2" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="J9" toid="K9">
+<distance>13</distance>
+<photo num="2" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="J9" toid="I9">
+<distance>22</distance>
+<photo num="3" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="I1" toid="J1">
+<distance>42</distance>
+<photo num="7" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="I1" toid="H1">
+<distance>13</distance>
+<photo num="2" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="I6" toid="J6">
+<distance>22</distance>
+<photo num="6" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="I6" toid="H6">
+<distance>27</distance>
+<photo num="3" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="I8" toid="J8">
+<distance>9</distance>
+<photo num="2" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="I8" toid="H8">
+<distance>9</distance>
+<photo num="3" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="I9" toid="J9">
+<distance>22</distance>
+<photo num="3" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="I9" toid="H9">
+<distance>24</distance>
+<photo num="5" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="H1" toid="I1">
+<distance>13</distance>
+<photo num="2" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="H1" toid="F1">
+<distance>27</distance>
+<photo num="5" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="H6" toid="I6">
+<distance>27</distance>
+<photo num="4" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="H6" toid="G8">
+<distance>45</distance>
+<photo num="10" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="H6" toid="G6">
+<distance>19</distance>
+<photo num="5" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="H8" toid="I8">
+<distance>9</distance>
+<photo num="4" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="H8" toid="G8">
+<distance>21</distance>
+<photo num="4" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="H9" toid="I9">
+<distance>24</distance>
+<photo num="4" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="G6" toid="H6">
+<distance>19</distance>
+<photo num="5" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="G6" toid="G8">
+<distance>41</distance>
+<photo num="10" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="G6" toid="F6">
+<distance>17</distance>
+<photo num="3" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="G8" toid="H6">
+<distance>45</distance>
+<photo num="10" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="G8" toid="H8">
+<distance>21</distance>
+<photo num="4" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="G8" toid="G6">
+<distance>41</distance>
+<photo num="10" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="G8" toid="G9">
+<distance>22</distance>
+<photo num="6" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="G9" toid="G8">
+<distance>22</distance>
+<photo num="5" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="G9" toid="F9">
+<distance>16</distance>
+<photo num="3" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="F1" toid="H1">
+<distance>27</distance>
+<photo num="5" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="F1" toid="F2">
+<distance>20</distance>
+<photo num="3" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="F1" toid="E1">
+<distance>36</distance>
+<photo num="14" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="F2" toid="F1">
+<distance>20</distance>
+<photo num="3" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="F2" toid="F3">
+<distance>50</distance>
+<photo num="7" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="F3" toid="F2">
+<distance>50</distance>
+<photo num="7" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="F3" toid="F6">
+<distance>30</distance>
+<photo num="3" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="F6" toid="G6">
+<distance>17</distance>
+<photo num="3" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="F6" toid="F3">
+<distance>30</distance>
+<photo num="2" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="F6" toid="F7">
+<distance>17</distance>
+<photo num="4" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="F7" toid="F6">
+<distance>17</distance>
+<photo num="4" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="F7" toid="F8">
+<distance>22</distance>
+<photo num="5" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="F8" toid="F7">
+<distance>22</distance>
+<photo num="5" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="F8" toid="F9">
+<distance>27</distance>
+<photo num="5" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="F8" toid="C8">
+<distance>23</distance>
+<photo num="5" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="F9" toid="G9">
+<distance>16</distance>
+<photo num="3" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="F9" toid="F8">
+<distance>27</distance>
+<photo num="5" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="F9" toid="E9">
+<distance>18</distance>
+<photo num="4" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="E1" toid="F1">
+<distance>36</distance>
+<photo num="14" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="E1" toid="E2">
+<distance>23</distance>
+<photo num="5" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="E2" toid="E1">
+<distance>23</distance>
+<photo num="6" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="E2" toid="E3">
+<distance>15</distance>
+<photo num="4" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="E3" toid="E2">
+<distance>15</distance>
+<photo num="3" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="E3" toid="E4">
+<distance>35</distance>
+<photo num="7" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="E4" toid="E3">
+<distance>35</distance>
+<photo num="7" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="E4" toid="E5">
+<distance>32</distance>
+<photo num="5" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="E5" toid="E4">
+<distance>32</distance>
+<photo num="4" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="E9" toid="F9">
+<distance>18</distance>
+<photo num="4" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="E9" toid="C9">
+<distance>13</distance>
+<photo num="3" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="C8" toid="F8">
+<distance>23</distance>
+<photo num="5" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="C8" toid="C9">
+<distance>18</distance>
+<photo num="3" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="C9" toid="E9">
+<distance>13</distance>
+<photo num="3" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="C9" toid="C8">
+<distance>18</distance>
+<photo num="3" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="C9" toid="A9">
+<distance>16</distance>
+<photo num="3" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="A1" toid="A2">
+<distance>21</distance>
+<photo num="4" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="A2" toid="A1">
+<distance>21</distance>
+<photo num="2" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="A2" toid="A3">
+<distance>23</distance>
+<photo num="4" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="A3" toid="A2">
+<distance>23</distance>
+<photo num="4" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="A3" toid="A4">
+<distance>26</distance>
+<photo num="6" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="A4" toid="A3">
+<distance>26</distance>
+<photo num="6" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="A4" toid="A5">
+<distance>35</distance>
+<photo num="10" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="A5" toid="A4">
+<distance>35</distance>
+<photo num="9" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="A5" toid="A6">
+<distance>23</distance>
+<photo num="2" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="A6" toid="A5">
+<distance>23</distance>
+<photo num="2" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="A6" toid="A7">
+<distance>17</distance>
+<photo num="3" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="A7" toid="A6">
+<distance>17</distance>
+<photo num="3" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="A7" toid="A8">
+<distance>15</distance>
+<photo num="3" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="A8" toid="A7">
+<distance>15</distance>
+<photo num="3" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="A8" toid="A9">
+<distance>12</distance>
+<photo num="4" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="A9" toid="C9">
+<distance>16</distance>
+<photo num="3" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+<path fromid="A9" toid="A8">
+<distance>12</distance>
+<photo num="3" season="winter" weather="default" date="2003/3">
+<dir>..\兼六園</dir>
+</photo>
+</path>
+
+
+
+<point>
+<pos>500,130</pos>
+<icon>..\兼六園\tourou.gif</icon>
+<img>..\兼六園\tourou.jpg</img>
+<txt>..\兼六園\tourou.txt</txt>
+</point>
+<point>
+<pos>189,237</pos>
+<icon>..\兼六園\夕顔亭.gif</icon>
+<img>..\兼六園\夕顔亭.jpg</img>
+<txt>..\兼六園\夕顔亭.txt</txt>
+</point>
+<point>
+<pos>316,126</pos>
+<icon>..\兼六園\噴水.gif</icon>
+<img>..\兼六園\噴水.jpg</img>
+<txt>..\兼六園\噴水.txt</txt>
+</point>
+
+
+
+<scene id="0">
+<name>シナリオ１</name>
+<pos mode="start">G6</pos>
+<pos mode="skip">H6</pos>
+<pos mode="skip">I6</pos>
+<pos mode="skip">J6</pos>
+<pos mode="skip">K6</pos>
+<pos mode="skip">L6</pos>
+<pos mode="skip">M6</pos>
+<pos mode="skip">M5</pos>
+<pos mode="skip">M4</pos>
+<pos mode="skip">M3</pos>
+<pos mode="skip">M2</pos>
+<pos mode="end">M1</pos>
+</scene>
+<scene id="1">
+<name>シナリオ２</name>
+<pos mode="start">F8</pos>
+<pos mode="skip">F9</pos>
+<pos mode="skip">G9</pos>
+<pos mode="skip">G8</pos>
+<pos mode="end">H8</pos>
+</scene>
+
+</data>

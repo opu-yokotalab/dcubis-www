@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="Shift_JIS" ?>
+<layout>
+
+    <wall roomID="room27" direction="front">
+	<showcase location="(0,0)" size="(320,240)">
+	<img oid="s001"/>
+	</showcase>
+    </wall>
+
+    <wall roomID="room27" direction="left">
+	
+    </wall>
+
+    <wall roomID="room27" direction="frontLeft">
+    </wall>
+
+    <wall name="four">
+    </wall>
+
+    <wall name="five">
+	<showcase location="(0,0)" size="(320,240)">
+	<img oid="s002"/>
+	</showcase>
+    </wall>
+
+    <wall name="six">
+	<slideshow location="(0,40)" size="(200,150)" buttonLocation="(0,-75)" buttonSize="(50,50)">
+	<img oid="s005"/>
+	<img oid="s006"/>
+	<img oid="s007"/>
+	</slideshow>
+    </wall>
+
+    <wall name="two">
+    </wall>
+
+    <wall name="one">
+	<showcase location="(0,0)" size="(320,240)">
+	<img oid="s003"/>
+	</showcase>
+    </wall>
+
+    <wall name="three">
+	<showcase location="(0,0)" size="(320,240)">
+	<img oid="s004"/>
+	</showcase>
+    </wall>
+
+    <wall name="seven">
+    </wall>
+
+    <wall name="eight">
+    </wall>
+
+    <wall name="ten">
+	<box location="(0,75)" size="(150,100)">
+	<img oid="s008"/>
+	<img oid="s009"/>
+	<img oid="s010"/>
+	<img oid="s011"/>
+	</box>
+    </wall>
+
+    <wall name="nine">
+    </wall>
+
+    <wall name="twelve">
+    </wall>
+
+    <wall name="eleven">
+    </wall>
+
+    <wall name="thirteen">
+    </wall>
+
+    <wall name="fourteen">
+	<outlink type="movie" buttonLocation="(0,0)" buttonSize="(150,150)" href="http://alpha.c.oka-pu.ac.jp/D-Cubist"/>
+	</wall>
+
+    <wall name="sixteen">
+	<appear buttonLocation="(0,0)" buttonSize="(100,100)">
+	<showcase location="(190,130)" size="(300,200)">
+	<img oid="s012"/>
+	</showcase>
+	<showcase location="(-190,-130)" size="(300,200)">
+	<img oid="s013"/>
+	</showcase>
+	</appear>
+	</wall>
+
+    <wall name="fifteen">
+    </wall>
+
+    <wall name="eighteen">
+    </wall>
+
+    <wall name="nineteen">
+    </wall>
+
+    <wall name="seventeen">
+<light mode="dark" buttonLocation="(0,0)" buttonSize="(100,100)"/>
+	</wall>
+
+</layout>

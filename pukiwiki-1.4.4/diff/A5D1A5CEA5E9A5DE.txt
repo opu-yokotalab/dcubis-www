@@ -1,0 +1,99 @@
+ //::::::::::::::
+ * パノラマで仮想空間のページ [#hf01075a]
+ //:::::::::::::::
+ #contents
+ ** misc [#vda08b66]
+ -やっぱりviewerのカスタマイズは必要かもしれん -- [[knamba]] &new{2005-09-29 (木) 02:26:12};
+ -ROI -> range of interest -- [[knamba]] &new{2005-09-29 (木) 02:28:33};
+ -PTViewer のDocumentationまとめありがたい。更にプリーズ -- [[knamba]] &new{2005-09-30 (金) 02:31:54};
+ -このシステムの特徴（ウリ）ってなんだ！？ -- [[knamba]] &new{2005-09-30 (金) 14:49:01};
+ -リアルの空間を割と簡単に仮想空間化できるところとか？ -- [[sikeda]] &new{2005-10-05 (水) 14:59:53};
+ -簡単、容易、ユーザーフレンドリー、あたりはキーワードかもね -- [[knamba]] &new{2005-10-11 (火) 17:46:26};
+ -この場合のユーザーは作成者、という意味ですよね？ -- [[sikeda]] &new{2005-10-12 (水) 13:36:20};
+ -やっぱ製作に関してかな。 -- [[knamba]] &new{2005-10-12 (水) 13:49:34};
+ -いや、閲覧者に関してもそうなんだけど、閲覧者にフレンドリーなのは当然という感じで。 -- [[knamba]] &new{2005-10-12 (水) 13:51:53};
+ -viewer作れって・・・確かに黒箱ないほうが自由はききますけど -- [[sikeda]] &new{2005-10-14 (金) 15:43:50};
+ -画面サイズで引きの限界が決まるようで、直線のウォークスルーも難しい。。。 -- [[sikeda]] &new{2005-10-21 (金) 16:13:59};
+ -Eclipseのcvsでviewerあげときます。使ってみて要望など知らせてくれるとありがたいです -- [[ikeda]] &new{2005-11-28 (月) 17:50:56};
+ -測地系とか形式とか -- [[k]] &new{2005-12-09 (金) 16:39:31};
+ -http://www.kashmir3d.com/kash/manual/gps_use.htm -- [[knamba]] &new{2005-12-09 (金) 16:40:02};
+ -http://geocaching.jog.buttobi.net/convert.php -- [[knamba]] &new{2005-12-09 (金) 16:40:21};
++-http://www.sunagaimpulse.com/Syozai/Lasersite/Laser-GPS-GIS/setumei.html -- [[knamba]] &new{2005-12-09 (金) 16:41:01};
+ 
+ #comment
+ //
+ //
+ //:::::::::::::::
+ ** 訳 [#b61c3592]
+ //:::::::::::::::
+ PTViewerのベーシックドキュメントをまとめてくれる人、偉い。
+ - [[Basic PTViewer Documentation:http://webuser.fh-furtwangen.de/~dersch/PTVJ/doc.html]]
+ - [[PTViewer Documentation のまとめ]]
+ //:::::::::::::::
+ ** リンク [#od04cf2a]
+ //:::::::::::::::
+ -- [[パノラマ画像を作成するソフトウェアツールの話:http://japan.linux.com/desktop/05/09/01/0214201.shtml]]
+ - PanolamaTools 系
+ -- [[PTViewer 2.7L2 :http://www.fsoft.it/panorama/ptviewer.htm]]
+ --- [[PTViewer 2.7L2 日本語訳:http://www.excite.co.jp/world/english/web/?wb_url=http://www.fsoft.it/panorama/ptviewer.htm&wb_lp=ENJA&wb_dis=2&wb_co=excitejapan]]
+ -- [[PTViewer3.1.2:http://webuser.fh-furtwangen.de/~dersch/]] ([[旧ページ？:http://home.no.net/dmaurer/%7Edersch/Index.htm]])
+ --- [[PTViewer3.1.2 日本語訳:http://www.excite.co.jp/world/english/web/?wb_url=http://webuser.fh-furtwangen.de/~dersch/&wb_lp=ENJA&wb_dis=2&wb_co=excitejapan]] 
+ -- [[Panorama Tools:http://panotools.sourceforge.net/]]
+ --- [[Panorama Tools 日本語訳:http://www.excite.co.jp/world/english/web/?wb_url=http://panotools.sourceforge.net/&wb_lp=ENJA&wb_dis=2&wb_co=excitejapan]]
+ -- [[PANORAMA TOOLS:http://www.path.unimelb.edu.au/~dersch/]] (old mirror)
+ --- [[PANORAMA TOOLS 日本語訳:http://www.excite.co.jp/world/english/web/?wb_url=http://www.path.unimelb.edu.au/~dersch/&wb_lp=ENJA&wb_dis=2&wb_co=excitejapan]]
+ -- [[Panorama Tools wiki:http://www.panotools.info/mediawiki/index.php?title=Main_Page]]
+ --[[WufDog's PanoTools Page:http://users2.ev1.net/~wufdog/PT/]]
+ 
+ -- [[hugin - Panorama Tools GUI:http://hugin.sourceforge.net/]]
+ --- [[hugin - Panorama Tools GUI 日本語訳:http://www.excite.co.jp/world/english/web/?wb_url=http://hugin.sourceforge.net/&wb_lp=ENJA&wb_dis=2&wb_co=excitejapan]]
+ 
+ //#########################
+ //## ptviewertester見てみる
+ //#########################
+ ** ptviewertester [#p15d67fa]
+ http://users2.ev1.net/~wufdog/PT/ptviewertester/ptviewertester.htm どういう構造なのか見てみる
+ ***html [#v6b120ca]
+ : ptviewertester.htm |
+ 一番上のフレームセットのページ
+ :: ptViewer.htm | name=framePTV パノラマのビューの部分
+ :: Controls1.htm | name=frameCTL1 左下のコントロール部分
+ :: Controls2.htm | name=frameCTL2 右側のパラメータ生成部分
+ -Controls1.htm
+ -- body タグ
+ --- onResize=history.go(0)
+ --- onload="onLoad()"
+ -- map タグ
+ --- name="cpMap"
+ --- onmousedown="javascript:DoUp()" onmouseup="javascript:DoStop()" onclick="this.blur()"
+ --- onmousedown="javascript:DoReset()" onmouseup="javascript:DoStop()" onclick="this.blur()"
+ --- onmousedown="javascript:DoLeft()" onmouseup="javascript:DoLeftAuto()" onclick="this.blur()"
+ --- onmousedown="javascript:DoLeftAuto()"  onmouseup="javascript:DoStop()" onclick="this.blur()"
+ --- onmousedown="javascript:DoStop()"      onmouseup="javascript:DoStop()" onclick="this.blur()"
+ --- onmousedown="javascript:DoZoomIn()"    onmouseup="javascript:DoStop()" onclick="this.blur()"
+ --- など
+ -- form タグ
+ --- name="frmSliders"
+ --- アプレットと連動するスライダー
+ --- input タグ
+ --- name="ValPAN"
+ --- name="ValTILT"
+ --- name="ValFOV"
+ --- name="valHSNum"
+ --- type=button onclick="this.blur();DoReset()"  value="Reset Pano"
+ --- img タグ
+ --- name="SliderPANRail"
+ --- name="SliderTILTRail"
+ --- name="SliderFOVRail"
+ -Controls2.htm
+ --body タグ
+ --- onload="UpdateFrmPtvParm(document.frmPtvParm);a('PTViewer Tester')"
+ -- form タグ
+ --- name="frmPtvParm" method="post"
+ ***javascript [#qa08adb3]
+ :ptvParam.js | in ptviewertester.htm Controls2.htm
+ ::function UpdateFrmPtvParm(form)|フォームの内容をパースしてdocument.frmPtvParm.frmPPvalPano.value （textareaの中身）に反映する
+ ::function viewIt(form) | document.frmPtvParm.frmPPvalPano.value の値でptViewer.htmを書き換える（アプレットのパラメータ変更）
+ :lib.js | in ptViewer.htm Controls1.htm Controls2.htm
+ :ptv.js | in ptViewer.htm Controls1.htm
+ :sliderv3.js | in Controls1.htm [[newpage:http://www.weizmann.ac.il/home/hofman/Home.html]] [[oldpage:http://www.phys.uu.nl/~hofman/Home.html]]

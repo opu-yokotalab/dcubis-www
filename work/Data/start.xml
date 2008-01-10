@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="SHIFT_JIS"?>
+<GraphiX-Web>  
+ <title>Title</title>  
+ <initDataUrl base="http://○○○">    
+  <bud src="Data/○○○.bud"/>    
+  <lad src="Data/○○○.lad"/>    
+  <cod src="Data/○○○.cod"/>  
+ </initDataUrl>
+</GraphiX-Web>

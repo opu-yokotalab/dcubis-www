@@ -1,0 +1,32 @@
+ * 予定 [#re549b2c]
+ #contents
+ ** カレンダー [#w4e1b547]
+ #calendar2(off)
+ ** 今後の予定 [#b17b88c8]
+ #calendar_viewer(予定,this,future)
+ ** 予定共有ツールアンケート [#s17e855b]
+ %% 予定は未定です。 って書いたら殺されそうなので %%&br;
+ 他に用意する予定です。
+ 以下の中で、いいと思うものに投票してください。
+ いい案があれば下の候補に追加してください。
+ #vote(上に出てるカレンダー[0],[[googleカレンダー:http://www.google.co.jp/googlecalendar/overview.html]][0],[[Yahoo!カレンダー:http://help.yahoo.co.jp/guide/jp/cal/tutorial/index.html]][0],自作[[(参考例):http://rsl.whitesnow.jp/okapuc/schedule/]][1],MSNのカレンダー共有[0],[[Air's Cockpit:http://www.acpit.com/~rental1/diary/diary.shtml]][0],カレンダーを部屋に貼る)
+ ** 通常予定 [#dd83138c]
+ ***会議 [#z764a0e5]
+ - 全体　金曜13:30〜
+-- D-Cubis　%% 火曜？10:00〜 %% 月曜14:00〜
++- D-Cubis　%% 火曜？10:00〜 月曜14:00〜 %%
+ - PasQ　月曜13:00〜
+ ***授業、バイト他 [#d9b3f57c]
+ - M2
+ - M1
+ -- %% 火曜　午後TA %%
+ -- 水曜　２限　%% ４限（小宮山）%% 午後DBSJ(小宮山)
+ -- %% 木曜　４限　５限？シラバス（小宮山） %%
+ -- %% 金曜　１限 %%
+ - B4
+ -- 火曜　４限(中橋) ５限(中橋)
+ -- 木曜　１限(中橋)
+ -- 土曜　一日バイト(清川)
+ -- 日曜　一日バイト(清川)
+ - B3
+ #pcomment

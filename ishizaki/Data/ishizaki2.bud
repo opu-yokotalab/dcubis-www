@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="Shift_JIS" ?>
+<building ceiling="(153,0,0)" floor="(255,153,153)" wallpaper="(153,0,0)"
+			 polepaper="(204,204,204)" roomSize="700" roomHeight="500"
+			 lightColor="pink" startRoom="room35" startPoint="center"
+			 startDirection="front">
+
+    <title>D-Cubist</title>
+
+    <room name="room35" >
+        <front to="room27"></front>
+        <back name="ten"></back>
+        <right name="eleven"></right>
+        <left name="nine"></left>
+    </room>
+
+    <room name="room36" >
+        <front to="room28"></front>
+        <back to="room44"></back>
+        <right name="thirteen"></right>
+        <left name="twelve"></left>
+    </room>
+
+    <room name="room44" >
+        <front to="room36"></front>
+        <back name="eighteen"></back>
+        <right name="nineteen"></right>
+        <left to="room43"></left>
+    </room>
+
+    <room name="room43" >
+        <front name="sixteen"></front>
+        <back name="seventeen"></back>
+        <right to="room44"></right>
+        <left to="room42"></left>
+    </room>
+
+    <room name="room42" >
+        <front to="room34"></front>
+        <back name="fifteen"></back>
+        <right to="room43"></right>
+        <left name="fourteen"></left>
+    </room>
+
+    <room name="room34" >
+        <front to="room26"></front>
+        <back to="room42"></back>
+        <right name="eight" alpha="high"></right>
+        <left name="seven"></left>
+    </room>
+
+    <room name="room27" >
+        <front></front>
+        <back to="room35"></back>
+        <right></right>
+        <left to="room26"></left>
+        <frontRight></frontRight>
+        <backLeft name="three" alpha="low"></backLeft>
+    </room>
+
+    <room name="room26" >
+        <front name="two"></front>
+        <back to="room34"></back>
+        <right to="room27"></right>
+        <left name="one"></left>
+    </room>
+
+    <room name="room28" >
+        <front name="five"></front>
+        <back to="room36"></back>
+        <right name="six"></right>
+        <left name="four" alpha="high"></left>
+    </room>
+
+</building>

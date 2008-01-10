@@ -1,0 +1,17 @@
+&color(black,#DDEEFF){	コンテンツ};
+-- [[D-Cubis]]
+---[[エンジン:http://alpha.c.oka-pu.ac.jp/D-Cubis/dev-wiki/index.php?D-Cubis%2F%A5%A8%A5%F3%A5%B8%A5%F3]]
+---[[オーサリングツール:http://alpha.c.oka-pu.ac.jp/D-Cubis/dev-wiki/index.php?D-Cubis%2F%A5%AA%A1%BC%A5%B5%A5%EA%A5%F3%A5%B0%A5%C4%A1%BC%A5%EB]]
+-- [[PasQ]]
+-- [[演出]]
+-- [[自動案内]]
+-- [[SOM]]
+-- [[プロジェクト]]
+-- [[進捗]]
+-- [[予定]]
+-- [[雑談]]
+#recent(20)
+
+//常に表示されるメニューバーです。
+&edit(MenuBar,noicon){MenuEdit};
+//を記述しておくとMenuBarを気軽に修正できるようになって便利かも。

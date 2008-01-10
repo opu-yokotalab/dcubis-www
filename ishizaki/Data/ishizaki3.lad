@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="Shift_JIS" ?>
+<layout>
+
+    <wall roomID="room28" direction="left">
+	<showcase location="(70,0)" size="(450,240)">
+	<img oid="s018"/>
+	</showcase>
+    </wall>
+
+    <wall roomID="room28" direction="backLeft">
+	<showcase location="(90,0)" size="(320,240)">
+	<img oid="s019"/>
+	</showcase>
+    </wall>
+
+    <wall roomID="room36" direction="back">
+    </wall>
+
+    <wall roomID="room36" direction="right">
+    </wall>
+
+    <wall roomID="room35" direction="back">
+    </wall>
+
+    <wall roomID="room35" direction="left">
+	<showcase location="(0,0)" size="(320,240)">
+	<img oid="s016"/>
+	</showcase>
+    </wall>
+
+    <wall roomID="room27" direction="front">
+    </wall>
+
+    <wall roomID="room27" direction="right">
+    </wall>
+
+    <wall roomID="room27" direction="left">
+    </wall>
+
+</layout>

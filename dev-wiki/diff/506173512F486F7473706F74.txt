@@ -1,0 +1,34 @@
+ [[TopPage]]
+ 
++PasQでのコンテンツ表示の一方法
++
++-記述例
++--<hotspot>x20 y400 u'javascript:ptviewer.newPanoFromList(2,0,0,90)' n'Target Right' q</hotspot>
++--<hotspot>X50 Y50 n'Hotspot0 -warped hide tripod hotspot' i'pano/1.jpg'  p</hotspot>
++--<hotspot>x275 y355 e i'Always display text' n'Always display text AAA' c'ff00ff' q</hotspot>
++--<hotspot>x1141  y207 cff0000 n'Marburger Schloss' u'pano.html'</hotspot>
++--<hotspot>x160 y268 t'IFRAME1' u'./contents/iframe_1.html' n'1890' q</hotspot>
++
++ホットスポットの座標指定はx,yかX,Yで行います。前者は絶対座標、後者は相対座標(百分率)。
++
++u'' リンク先を記述。URLの代わりにptviewerのいずれかのコマンドを使用して指定できる。「ptviewer.コマンド」で使用可能。javascriptで動作するコマンドは「javascript:ptviewer.コマンド」とすればよいはず。
++
++n''内はコメント的なもの。マウスオーバー時に左下段に表示される。
++
++t'' 名前を指定してターゲットを指定。
++
++i''内で画像指定。ビューア上に浮かんでいる感じで表示。
++
++w i''内で画像指定。パノラマ画像に貼り付く感じで表示。
++
++c'' マーカーの色指定。
++
++e i''内でコメント指定。日本語可だと思われる。|　は改行の印。 
++
++q 常に表示。
++
++p トグルで表示の有無切替。 <input type="button" value="Toggle HotSpot" onclick="document.ptviewer.toggleHS()">とかでボタンを作成。
++
++
++ 
++

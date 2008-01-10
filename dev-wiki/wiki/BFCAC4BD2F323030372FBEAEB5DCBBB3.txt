@@ -1,0 +1,21 @@
+*タスクリスト [#gdfb8f8e]
+// TO DO
+// **D-cubisの問題原因分類←時間切れになりますた
+// - Directorによるもの
+// - 3Dによるもの
+// - XMLparseによるもの
+// - セキュリティ強化によるもの
+// D-Cubis別実装
+// 演出別実装
+// 予定表カスタム、設置
+// Ｂ４，Ｍ２を卒業させる
+// 自分の修論ネタを決める
+- Directorで省メモリ化
+- 演出debug
+- %% Be e-learnig of D-Cubis crrossbrowser %%
+- D-Cubis debug
+- 俯瞰図版の認証部分削除
+* 進捗 [#daeeac2b]
+すいません。しばらくやってません。
+
+#pcomment

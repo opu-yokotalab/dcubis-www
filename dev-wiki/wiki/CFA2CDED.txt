@@ -1,0 +1,5 @@
+*連絡 [#a2863fcb]
+*全体 [#md800964]
+#article
+#include(D-Cubis/連絡)
+#include(PasQ/連絡)

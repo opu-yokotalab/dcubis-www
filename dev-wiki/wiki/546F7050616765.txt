@@ -1,0 +1,51 @@
+#norelated
+* TopPage [#qb249ac2]
+D班（開発）用のwikiになりました
+//とりあえず、書け、読め。
+//更新されないwikiに存在価値などないのです。
+
+// - wiki編集用パスワードは「dgroup」です。
+
+- *.c.oka-pu.ac.jp及び研究室内からは普通に見れます。それ以外はベーシック認証にしました。
+// 現在使える
+アカウント
+// は次の通りです。
+// |ID|Pass Word|h
+// |D-Cubis|dgroup|
+// |PasQ|dgroup|
+等の
+追加・変更したい人はパーミッションを変更してあるので、
+// 次を
+編集してください。
+//	/home/www/html/D-Cubis/dev-wiki/.htaccess
+//	/home/www/html/D-Cubis/dev-wiki/.htpassword
+
+- メーリングリスト（仮）
+|用途|メールアドレス|登録アドレス|h
+|D班|komiyama-dgroup@alpha.c.oka-pu.ac.jp|{hamaken,hanaya,ikeda,kisimoto,kiyokawa,komiyama,kudo,kuwahara,nakahashi,t-ochi}@c.oka-pu.ac.jp|
+|D-Cubis|komiyama-dcubis@alpha.c.oka-pu.ac.jp|{hamaken,kiyokawa,komiyama,kudo,kuwahara,nakahashi}@c.oka-pu.ac.jp|
+|PasQ|komiyama-pasq@alpha.c.oka-pu.ac.jp|{hanaya,ikeda,kisimoto,kudo,t-ochi}@c.oka-pu.ac.jp|
+- 進捗資料
+-- 進捗資料はdblab-shareの自分のフォルダに入れておいてください。
+
+* 全体 [#k6645d3a]
+- [[連絡]]
+- [[予定]]
+- [[プロジェクト]]
+- [[雑談]]
+#include(D-Cubis)
+#include(PasQ)
+*[[演出]] [#b178443f]
+*[[自動案内]] [#kd637969]
+** 練習ページ [#if72ced0]
+- [[SandBox]] -- 編集をお試しください
+
+
+** PukiWikiについて [#c2af49f4]
+
+- [[PukiWiki]] -- PukiWikiのご紹介
+
+*** ドキュメント [#o366701b]
+- [[ヘルプ>Help]] -- PukiWikiで編集するには？
+- [[テキスト整形のルール(詳細版)>FormattingRules]]
+- [[プラグインマニュアル>PukiWiki/1.4/Manual/Plugin]]

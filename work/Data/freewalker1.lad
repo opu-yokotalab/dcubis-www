@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="Shift_JIS" ?>
+<layout>
+	
+	
+	
+	
+	
+	
+	
+	<wall roomID="room21" direction="right">
+	<showcase location="(0,20)" size="(365,271)">
+	<img oid="s001"></img>
+</showcase>
+	<outlink type="link" buttonLocation="(0,-154)" buttonSize="(46,48)" href="http://localhost/panomap/test_1.html"></outlink>
+</wall>
+	
+	<wall roomID="room20" direction="front">
+	<showcase location="(0,0)" size="(428,329)">
+	<img oid="s006"></img>
+</showcase>
+</wall>
+	
+	
+	
+	<wall roomID="room19" direction="front">
+	<showcase location="(0,0)" size="(443,335)">
+	<img oid="s008"></img>
+</showcase>
+</wall>
+	
+	<wall roomID="room19" direction="back">
+	<showcase location="(0,0)" size="(429,334)">
+	<img oid="s009"></img>
+</showcase>
+</wall>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<wall roomID="room44" direction="back">
+	<light mode="yellow" buttonLocation="(0,-123)" buttonSize="(120,120)"></light>
+</wall>
+	<wall roomID="room44" direction="front">
+	<light mode="pink" buttonLocation="(0,-118)" buttonSize="(120,120)"></light>
+</wall>
+	<wall roomID="room43" direction="back">
+	<light mode="guardman" buttonLocation="(0,-130)" buttonSize="(120,120)"></light>
+</wall>
+	
+	<wall roomID="room42" direction="left">
+	<showcase location="(0,0)" size="(400,400)">
+	<img oid="s002"></img>
+</showcase>
+</wall>
+	
+	<wall roomID="room42" direction="back">
+	<showcase location="(0,66)" size="(315,231)">
+	<img oid="s003"></img>
+</showcase>
+	<light mode="aqua" buttonLocation="(0,-126)" buttonSize="(120,120)"></light>
+</wall>
+	
+	
+	<wall roomID="room43" direction="front">
+	<showcase location="(0,77)" size="(320,216)">
+	<img oid="s004"></img>
+</showcase>
+	<light mode="dark" buttonLocation="(0,-107)" buttonSize="(120,120)"></light>
+</wall>
+	
+	
+	<wall roomID="room21" direction="front">
+	<showcase location="(0,0)" size="(422,329)">
+	<img oid="s010"></img>
+</showcase>
+</wall>
+	
+	
+	<wall roomID="room20" direction="back">
+	<showcase location="(0,0)" size="(414,314)">
+	<img oid="s007"></img>
+</showcase>
+</wall>
+</layout>

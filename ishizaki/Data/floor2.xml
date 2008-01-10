@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="SHIFT_JIS"?>
+
+<GraphiX-Web>
+  <title>Title</title>
+  <initDataUrl base="http://alpha.c.oka-pu.ac.jp/D-Cubis/ishizaki/">
+    <bud src="Data/ishizaki2.bud"/>
+    <lad src="Data/ishizaki1.lad"/>
+    <cod src="Data/ishizaki1.cod"/>  </initDataUrl>
+</GraphiX-Web>

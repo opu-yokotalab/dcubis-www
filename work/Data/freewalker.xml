@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="SHIFT_JIS"?>
+<GraphiX-Web>  
+ <title>Title</title>  
+ <initDataUrl base="http://alpha.c.oka-pu.ac.jp/D-Cubist/work/">    
+  <bud src="Data/freewalker.bud"/>    
+  <lad src="Data/freewalker.lad"/>    
+  <cod src="Data/freewalker.cod"/>  
+ </initDataUrl>
+</GraphiX-Web>

@@ -1,0 +1,8 @@
+ * D-Cubis [#v7a97907]
+ D-CubisのWikiです。
+ - [[開発関連]]
+ - [[ISHIPRO の議論の場]]
+ - [[要望]] -- D-Cubisへの要望を書き込んでください。
++- [[パノラマ]]
+ 
+ [[D-Cubis Official Siteへ:http://alpha.c.oka-pu.ac.jp/D-Cubis/child_html/main.html]]

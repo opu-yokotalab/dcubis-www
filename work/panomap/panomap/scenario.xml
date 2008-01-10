@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="Shift_JIS"?>
+<data>
+ <scene id="0">
+  <name>新シナリオ１</name>
+  <pos mode="start">CM</pos>
+  <pos mode="skip">LM</pos>
+  <pos mode="stop">MM</pos>
+  <pos mode="skip">OM</pos>
+  <pos mode="skip">PM</pos>
+  <pos mode="skip">QM</pos>
+  <pos mode="skip">QK</pos>
+  <pos mode="end">QG</pos>
+ </scene>
+ <scene id="1">
+  <name>新シナリオ２</name>
+  <pos mode="start">QM</pos>
+  <pos mode="skip">QK</pos>
+  <pos mode="skip" msg1="右折して…" msg2="直進する">UK</pos>
+  <pos mode="skip" msg1="また右折して…" msg2="直進する">UM</pos>
+  <pos mode="end" msg1="さらに右折して…" msg2="直進する">SM</pos>
+ </scene>
+ <scene id="1">
+  <name>新シナリオ３</name>
+  <pos mode="start">QO</pos>
+  <pos mode="stop" msg1="北西に向いて" msg2="直進する" msg3="">QM</pos>
+  <pos mode="end" msg1="また北西に向いて" msg2="直進する" msg3="">QK</pos>
+ </scene>
+ <scene id="1">
+  <name>新シナリオ４</name>
+  <pos mode="start">QO</pos>
+  <pos mode="stop" msg1="北西に向いて" msg2="直進する" msg3="右を向くと、倉敷考古館">QM:L03</pos>
+  <pos mode="stop" msg3="ちょっと左へ">QM:D01</pos>
+  <pos mode="end" msg1="また北西に向いて" msg2="直進する">QK</pos>
+ </scene>
+ <scene id="1">
+  <name>おすすめコース２</name>
+  <pos mode="start">QM</pos>
+  <pos mode="skip">QK</pos>
+  <pos mode="skip">QG</pos>
+  <pos mode="skip">PG</pos>
+  <pos mode="skip">OG</pos>
+  <pos mode="end">NG</pos>
+ </scene>
+ <scene id="1">
+  <name>おすすめコース１</name>
+  <pos mode="start">OA</pos>
+  <pos mode="skip" msg1="中央通りから東方向に…" msg2="進みます">OC</pos>
+  <pos mode="skip" msg1="道なりに…" msg2="進みます">OE</pos>
+  <pos mode="skip" msg1="道なりに…" msg2="進みます…">OG</pos>
+  <pos mode="stop" msg1="右手に見える門を…" msg2="くぐると…" msg3="大原美術館です">NG:L13</pos>
+  <pos mode="skip">OG</pos>
+  <pos mode="skip">PG</pos>
+  <pos mode="skip">QG</pos>
+  <pos mode="skip">QK</pos>
+  <pos mode="skip">UK</pos>
+  <pos mode="skip">UM</pos>
+  <pos mode="skip">SM</pos>
+  <pos mode="stop" msg3="右手に倉敷考古館があります">QM:L03</pos>
+  <pos mode="skip">PM</pos>
+  <pos mode="skip">OM</pos>
+  <pos mode="stop" msg3="右手に倉敷民芸館があります">MM</pos>
+  <pos mode="skip">LM</pos>
+  <pos mode="skip">CM</pos>
+  <pos mode="skip">CO</pos>
+  <pos mode="skip">MO</pos>
+  <pos mode="end" msg3="アイビー・スクエアの入り口です">MQ</pos>
+ </scene>
+</data>
